@@ -5,11 +5,75 @@ author: Bob & Joe
 
 # The Basics 
 
-- terminal emulators
-  - windows
-  - mac
-  - linux
-  - android
+---
+
+# The Basics 
+## Terminal Emulators
+
+---
+
+# The Basics 
+## Terminal Emulators
+### windows
+
+- PuTTY
+    - standard windows SSH client
+    - not a local terminal emulator
+
+---
+
+# The Basics 
+## Terminal Emulators
+### mac
+
+- Terminal
+    - built in terminal
+    - fairly simple
+- iTerm2
+    - more features
+
+---
+
+# The Basics 
+## Terminal Emulators
+### linux
+
+- xterm
+    - the standard
+    - few features
+- terminator
+    - theming
+    - profiles
+    - lots of options
+- st (suckless terminal)
+    - configured only via recompiling
+    - very lightweight, but powerful
+
+---
+
+# The Basics 
+## Terminal Emulators
+### android
+
+- JuiceSSH
+    - paid
+    - supports syncing of connections and credentials
+    - plugin ecosystem
+- ConnectBot
+    - open source
+
+---
+
+# The Basics 
+## Terminal Emulators
+### iOS 
+- Prompt2
+    - paid
+    - supports syncing
+    - snippets
+
+---
+
 - shells
   - bash
   - zsh
@@ -30,6 +94,7 @@ author: Bob & Joe
 
 ---
 
+
 # Comms
 
 - email
@@ -47,6 +112,7 @@ author: Bob & Joe
 
 ---
 
+
 # System Administration
 
 - file manager
@@ -62,6 +128,7 @@ author: Bob & Joe
 
 ---
 
+
 # Media
 
 - Torrenting
@@ -69,8 +136,10 @@ author: Bob & Joe
 - Music Streaming
   - sconsify
   - pianobar
+- RSS
 
 ---
+
 
 # Office Stuff
 
@@ -89,3 +158,4 @@ author: Bob & Joe
 - web browsing
   - lynx
   - elinks
+
