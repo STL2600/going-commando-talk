@@ -126,8 +126,8 @@ author: Bob & Joe
   - htop
   - glances
 
----
 
+---
 
 # Media
 
@@ -140,6 +140,16 @@ author: Bob & Joe
 
 ---
 
+# Personal Info Managment
+
+- Notes
+  - vim-wiki
+  - orgmode
+- Password Managers
+  - lpass / lastpass-cli
+  - KeePassC
+
+---
 
 # Office Stuff
 
