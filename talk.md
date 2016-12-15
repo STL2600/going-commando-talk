@@ -3,6 +3,19 @@ title: Going Commando
 author: Bob & Joe
 ...
 
+# The Reasons
+
+- It's faster
+- Accuracy
+- Impresses your bosses
+- Makes your smarter
+- Saves your ass when things break
+- You look cool
+- Makes you more sexually attractive
+
+
+---
+
 # The Basics 
 
 ---
@@ -168,4 +181,5 @@ author: Bob & Joe
 - web browsing
   - lynx
   - elinks
+- printing
 
