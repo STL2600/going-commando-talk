@@ -74,16 +74,32 @@ author: Bob & Joe
 
 ---
 
-- shells
-  - bash
-  - zsh
-  - csh
-- remote terminals
-  - ssh
-  - mosh
-- multiplexers
-  - screen (the wrong way)
-  - tmux (the correct way)
+# The Basics 
+## Shells
+- bash
+    - pretty much the standard shell
+- zsh
+- csh
+
+---
+
+# The Basics 
+## Remote Terminals
+- ssh
+    - standard way
+    - everyone has used it
+    - installed basically everywhere
+- mosh
+    - built in support for roaming / reconnecting
+    - harder to punch through firewalls
+
+---
+
+# The Basics 
+## Multiplexers
+- screen (the wrong way)
+    - seriously, don't use it anymore
+- tmux (the correct way)
 
 ---
 
@@ -147,6 +163,10 @@ author: Bob & Joe
   - Formatting
     - Markdown / Wiki Markup / AsciiDoc
     - TeX / LaTeX
+- vimwiki
+- orgmode
+- taskworrier
+- todo.txt
 - sc
 - calendar?
 - Presenting
@@ -158,4 +178,9 @@ author: Bob & Joe
 - web browsing
   - lynx
   - elinks
+
+# Development
+
+- vim + tmux = terminal IDE
+-
 
