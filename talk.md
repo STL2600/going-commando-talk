@@ -192,6 +192,9 @@ author: Bob & Joe
 - todo.txt
 - sc
 - calendar?
+    - calcurse
+    - remind
+    - wyrd
 - Presenting
   - Patat
 - file syncing
@@ -206,5 +209,12 @@ author: Bob & Joe
 # Development
 
 - vim + tmux = terminal IDE
--
+- tig - terminal git client
 
+- qalc
+    - terminal calculator
+- powertop
+    - power managment
+- newsbeuter, rsstail
+    - rss readers
+- nethack
