@@ -17,9 +17,12 @@ author: Bob & Joe
 
 # The Basics 
 
----
-
-# The Basics > Terminal Emulators
+- Terminal Emulators & Remote Terminals
+    - How you interact with the command line
+- Shells
+    - The main command line interface
+- Multiplexers
+    - The "window manager" for the command line
 
 ---
 
@@ -85,6 +88,7 @@ author: Bob & Joe
 - mosh
     - built in support for roaming / reconnecting
     - harder to punch through firewalls
+    - useful if you're on a limited connection
 
 ---
 
@@ -92,58 +96,77 @@ author: Bob & Joe
 
 - bash
     - pretty much the standard shell
+    - Joe demos his config
 - zsh
     - more powerful than zsh
     - rich plugin ecosystem
+    - Bob demos his config
 
 ---
 
 # The Basics > Multiplexers
+
 - screen (the wrong way)
     - seriously, don't use it anymore
 - tmux (the correct way)
+    - Bob demos his config
 
 ---
 
 # Basic Editing
 
 - vim (the correct way)
+    - Joe talks over his config
+    - Bob talks over his config
 - emacs (the wrong way)
+    - We yell at people
 
 ---
 
+# Comms > Email
 
-# Comms
+- mutt
+    - Joe demos his config
 
-- email
-  - mutt
-  - pine
-- chat
-  - irssi
-  - weechat
-  - bitlbee (For IM)
-  - signal-cli
+---
+
+# Comms > Chat
+
+- weechat
+    - Joe demos his config
+- bitlbee (For IM)
+    - Joe demos his config
+- signal-cli
+    - Joe demos his config
+
+---
+
+# Comms > Social Networking
+
 - twitter
-  - t (ruby)
-- facebook
+    - t (ruby)
+        - Bob demos
 - reddit
+    - rtv
+        - Bob demos
 
 ---
-
 
 # System Administration
 
+- searching
+    - fzf
+    - ag
 - file manager
-  - ranger
-  - mc
+    - ranger
 - networking
-  - netcfg
-  - nm-cli
-  - vpn
+    - nm-cli
+        - joe demos
 - monitoring
-  - htop
-  - glances
-
+    - htop
+    - glances
+    - log viewer
+        - Bob demos
 
 ---
 
@@ -151,77 +174,113 @@ author: Bob & Joe
 
 - Torrenting
   - rtorrent
+      - Joe demos
 - Music Streaming
   - sconsify
+      - Joe demos
   - pianobar
+      - Joe demos
 - RSS
+    - Bob demos
+- Ebooks
+    - Epub
+        - Joe demos
+- Videos (really? yes really)
+    - VLC
+        - Joe demos
+- Image Viewer
+    - Bob demos
 
 ---
 
-# Personal Info Managment
+# Personal Info Managment > Notetaking
 
-- Notes
-  - vim-wiki
-  - orgmode
-- Password Managers
-  - lpass / lastpass-cli
-  - KeePassC
-
----
-
-# Office Stuff > Editing
-
-- editing (already covered)
-  - Formatting
-    - Markdown / Wiki Markup / AsciiDoc
-    - TeX / LaTeX
-
----
-
-# Office Stuff > Notes
-
-- vimwiki
+- vim-wiki
+    - Joe demos
 - orgmode
-- taskworrier
+    - Bob demos
+
+# Personal Info Managment > Password Managers
+
+- lpass / lastpass-cli
+    - Joe demos
+- Honorable Mentions
+    - KeePassC
+
+---
+
+# Office Stuff > Writing
+
+- Formatting
+    - Markdown / Wiki Markup / AsciiDoc
+        - Joe demos
+    - TeX / LaTeX
+- PDF Stuff
+    - Bob demos reading text
+
+---
+
+# Office Stuff > ToDo Lists
+
+- orgmode
+- taskwarrior
 - todo.txt
+    - Bob demos one or the other
 
 ---
 
 # Office Stuff > Calendar
-- sc
+
 - calendar?
     - calcurse
     - remind
     - wyrd
+    - Joe demos one of them
+
+---
+
+# Office Stuff > Spreadsheet
+
+- sc
+    - Bob demos
 
 ---
 
 # Office Stuff > Presntations
-- Presenting
-  - Patat
+
+- mdp
+    - This is the demo, bitches
 
 ---
 
 # Office Stuff > Web Browsing
+
 - web browsing
-  - lynx
-  - elinks
+    - lynx
+        - Bob demos
+    - elinks
+        - Joe demos
 
 ---
 
 # Development
 
 - vim + tmux = terminal IDE
-- tig - terminal git client
+    - Bob demos
 
 ---
 
-# Random Crap
+# Random Stuff > Calculator
 
 - qalc
     - terminal calculator
-- powertop
-    - power managment
-- newsbeuter, rsstail
-    - rss readers
+        - Bob demos a calculator
+
+---
+
+# Random Stuff > Games
+
 - nethack
+- bs
+- nInvaders
+    - Joe demos
