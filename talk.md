@@ -13,21 +13,17 @@ author: Bob & Joe
 - You look cool
 - Makes you more sexually attractive
 
-
 ---
 
 # The Basics 
 
 ---
 
-# The Basics 
-## Terminal Emulators
+# The Basics > Terminal Emulators
 
 ---
 
-# The Basics 
-## Terminal Emulators
-### windows
+# The Basics > Terminal Emulators > windows
 
 - PuTTY
     - standard windows SSH client
@@ -35,9 +31,7 @@ author: Bob & Joe
 
 ---
 
-# The Basics 
-## Terminal Emulators
-### mac
+# The Basics > Terminal Emulators > Mac
 
 - Terminal
     - built in terminal
@@ -47,9 +41,7 @@ author: Bob & Joe
 
 ---
 
-# The Basics 
-## Terminal Emulators
-### linux
+# The Basics > Terminal Emulators > Linux
 
 - xterm
     - the standard
@@ -64,9 +56,7 @@ author: Bob & Joe
 
 ---
 
-# The Basics 
-## Terminal Emulators
-### android
+# The Basics > Terminal Emulators > Android
 
 - JuiceSSH
     - paid
@@ -77,9 +67,8 @@ author: Bob & Joe
 
 ---
 
-# The Basics 
-## Terminal Emulators
-### iOS 
+# The Basics > Terminal Emulators > iOS 
+
 - Prompt2
     - paid
     - supports syncing
@@ -87,17 +76,8 @@ author: Bob & Joe
 
 ---
 
-# The Basics 
-## Shells
-- bash
-    - pretty much the standard shell
-- zsh
-- csh
+# The Basics > Remote Terminals
 
----
-
-# The Basics 
-## Remote Terminals
 - ssh
     - standard way
     - everyone has used it
@@ -108,8 +88,17 @@ author: Bob & Joe
 
 ---
 
-# The Basics 
-## Multiplexers
+# The Basics > Shells
+
+- bash
+    - pretty much the standard shell
+- zsh
+    - more powerful than zsh
+    - rich plugin ecosystem
+
+---
+
+# The Basics > Multiplexers
 - screen (the wrong way)
     - seriously, don't use it anymore
 - tmux (the correct way)
@@ -180,36 +169,54 @@ author: Bob & Joe
 
 ---
 
-# Office Stuff
+# Office Stuff > Editing
 
 - editing (already covered)
   - Formatting
     - Markdown / Wiki Markup / AsciiDoc
     - TeX / LaTeX
+
+---
+
+# Office Stuff > Notes
+
 - vimwiki
 - orgmode
 - taskworrier
 - todo.txt
+
+---
+
+# Office Stuff > Calendar
 - sc
 - calendar?
     - calcurse
     - remind
     - wyrd
+
+---
+
+# Office Stuff > Presntations
 - Presenting
   - Patat
-- file syncing
-  - dropbox
-  - owncloud
-  - spideroak
+
+---
+
+# Office Stuff > Web Browsing
 - web browsing
   - lynx
   - elinks
-- printing
+
+---
 
 # Development
 
 - vim + tmux = terminal IDE
 - tig - terminal git client
+
+---
+
+# Random Crap
 
 - qalc
     - terminal calculator
