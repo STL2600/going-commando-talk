@@ -185,10 +185,15 @@ author: Bob & Joe
 - Ebooks
     - Epub
         - Joe demos
-- Videos (really? yes really)
+- Videos viewer (really? yes really)
     - VLC
         - Joe demos
+- Video editing
+    - Joe demos
 - Image Viewer
+    - Bob demos
+- Image Editing
+    - Imagemagick
     - Bob demos
 
 ---
@@ -284,3 +289,4 @@ author: Bob & Joe
 - bs
 - nInvaders
     - Joe demos
+- text mode doom
