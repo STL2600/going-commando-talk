@@ -3,15 +3,18 @@ title: Going Commando
 author: Bob & Joe
 ...
 
-# The Reasons
+# Intro 
 
-- It's faster
-- Accuracy
-- Impresses your bosses
-- Makes your smarter
-- Saves your ass when things break
-- You look cool
-- Makes you more sexually attractive
+- Why?
+    - It's faster
+    - Accuracy
+    - Impresses your bosses
+    - Makes your smarter
+    - Saves your ass when things break
+    - You look cool
+    - Makes you more sexually attractive
+- Notes
+    - This is an *opinioninated* talk
 
 ---
 
@@ -26,7 +29,7 @@ author: Bob & Joe
 
 ---
 
-# The Basics > Terminal Emulators > windows
+# The Basics > Terminal Emulators > Windows
 
 - PuTTY
     - standard windows SSH client
@@ -100,16 +103,44 @@ author: Bob & Joe
 - zsh
     - more powerful than zsh
     - rich plugin ecosystem
-    - Bob demos his config
+
+---
+
+# The Basics > Shells > ZSH
+
+- my config
+    - simple options
+    - antigen
+    - powerline
+- fzf command history searching
+- completions
 
 ---
 
 # The Basics > Multiplexers
 
 - screen (the wrong way)
-    - seriously, don't use it anymore
+    - still maintained
+    - includes a serial terminal 
+    - not a lot of new features
 - tmux (the correct way)
-    - Bob demos his config
+    - more features
+    - more stable
+    - should be used in almost all cases
+
+---
+
+# The Basics > Multiplexers > Tmux
+
+- my config
+    - vim movement / resize keys
+    - tpm
+    - powerline 
+- creating / moving between panes
+- creating / moving between windows
+- creating / moving between sessions
+- copy & paste
+    - integrate into system paste buffer
 
 ---
 
