@@ -1,112 +1,249 @@
----
-title: Going Commando
-author: Bob & Joe
-...
+%title: STL2600 + DC314 Presents: Going Commando
+%author: Bob & Joe
+%date: 2016-01-06
 
-# Intro 
 
-- Why?
-    - It's faster
-    - Accuracy
-    - Impresses your bosses
-    - Makes your smarter
-    - Saves your ass when things break
-    - You look cool
-    - Makes you more sexually attractive
-- Notes
-    - This is an *opinioninated* talk
+
+->  STL2600 + DC314 Presents: <-
+
+-> # Going Commando <-
+
+
+
+
+
+-> An *opinionated* guide to the command line interface. <-
 
 ---
 
-# The Basics 
 
-- Terminal Emulators & Remote Terminals
-    - How you interact with the command line
-- Shells
-    - The main command line interface
-- Multiplexers
-    - The "window manager" for the command line
+
+-> ## Why? It's so scary and dark down there! <-
+
+---
+
+-> # Because... <-
+^
+
+* It's faster.
+^
+* More Accurate.
+^
+* Impresses your bosses.
+^
+* Makes your smarter.
+^
+* Saves your ass when things break.
+^
+* You look cool.  *B-)*
+^
+* Makes you more sexually attractive!
+
+-> *These are 100% scientific facts!* <-
+
+---
+
+-> # The Basics <-
+
+## Terminal Emulators & Remote Terminals
+    * How you interact with the command line
+
+## Shells
+    * The main command line interface
+
+## Multiplexers
+    * The "window manager" for the command line
 
 ---
 
 # The Basics > Terminal Emulators > Windows
+^
 
-- PuTTY
-    - standard windows SSH client
-    - not a local terminal emulator
+
+
+-> ## PuTTY <-
+
+* standard windows SSH client
+* not a local terminal emulator
+
+---
+
+# The Basics > Terminal Emulators > Mac
+^
+
+
+
+-> ## Terminal <-
+
+* built in terminal
+* fairly simple
 
 ---
 
 # The Basics > Terminal Emulators > Mac
 
-- Terminal
-    - built in terminal
-    - fairly simple
-- iTerm2
-    - more features
+
+
+-> ## iTerm2 <-
+
+* more features than the basic terminal.
+
+---
+
+# The Basics > Terminal Emulators > Linux
+^
+
+
+
+-> ## xterm <-
+
+* The standard
+* No frills
+* Mostly just used to install a different terminal.
 
 ---
 
 # The Basics > Terminal Emulators > Linux
 
-- xterm
-    - the standard
-    - few features
-- terminator
-    - theming
-    - profiles
-    - lots of options
-- st (suckless terminal)
-    - configured only via recompiling
-    - very lightweight, but powerful
+
+
+-> ## Terminator <-
+
+* Theming
+* Configuration Profiles
+* Lots of options
+
+---
+
+# The Basics > Terminal Emulators > Linux
+
+
+
+-> ## st: "Suckless Terminal <-
+
+* Configurable, but only via recompiling.
+* Very lightweight, but powerful.
+* Preferred by masochists. 
+
+---
+
+# The Basics > Terminal Emulators > Android
+^
+
+
+
+-> ## JuiceSSH <-
+
+* paid
+* supports syncing of connections and credentials
+* plugin ecosystem
 
 ---
 
 # The Basics > Terminal Emulators > Android
 
-- JuiceSSH
-    - paid
-    - supports syncing of connections and credentials
-    - plugin ecosystem
-- ConnectBot
-    - open source
+
+
+-> ## ConnectBot <-
+
+* open source
+
+---
+
+# The Basics > Terminal Emulators > iOS 
+^
+
+
+
+-> *Unfortunately, the free ones suck hard.* <-
 
 ---
 
 # The Basics > Terminal Emulators > iOS 
 
-- Prompt2
-    - paid
-    - supports syncing
-    - snippets
+
+
+-> ## Prompt2 <-
+
+* A bit pricey at *$15*.
+* Supports Syncing.
+* Snippets.
+* Support TouchID.
+
+---
+
+# The Basics > Terminal Emulators > iOS
+
+
+
+-> ## Blink Shell <-
+
+* Even pricier at *$20*.
+* Supports both Mosh and SSH
+* Open-Source
+* Menuless.  You use the terminal to configure.
+
+---
+
+# The Basics > Remote Terminals
+^
+
+
+
+-> ## SSH <-
+
+* Standard way.
+* Everyone has used it.
+* Installed basically everywhere
 
 ---
 
 # The Basics > Remote Terminals
 
-- ssh
-    - standard way
-    - everyone has used it
-    - installed basically everywhere
-- mosh
-    - built in support for roaming / reconnecting
-    - harder to punch through firewalls
-    - useful if you're on a limited connection
+
+
+-> ## Mosh <-
+
+* Built in support for roaming / reconnecting
+* Harder to punch through firewalls
+* Useful if you're on a limited connection 
+    (Think dial-up or radio uplink)
+
+---
+
+# The Basics > Shells
+^
+
+
+
+-> ## BASH <-
+
+* Pretty much the standard shell.
+* Installed with everything
+* Now with more *Microsofts*!
+
+---
+
+
+
+-> *Joe's Example Config* <-
 
 ---
 
 # The Basics > Shells
 
-- bash
-    - pretty much the standard shell
-    - Joe demos his config
-- zsh
-    - more powerful than zsh
-    - rich plugin ecosystem
+
+
+-> ## ZSH <-
+
+* More powerful than BASH.
+* Rich plugin ecosystem.
 
 ---
 
 # The Basics > Shells > ZSH
+
+
 
 - my config
     - simple options
@@ -118,15 +255,33 @@ author: Bob & Joe
 ---
 
 # The Basics > Multiplexers
+^
 
-- screen (the wrong way)
-    - still maintained
-    - includes a serial terminal 
-    - not a lot of new features
-- tmux (the correct way)
-    - more features
-    - more stable
-    - should be used in almost all cases
+
+
+-> ## Screen <-
+
+* Basically the wrong choice.
+* Still maintained
+* Includes a serial terminal 
+* Not a lot of new features
+
+---
+
+# The Basics > Multiplexers
+
+
+
+-> ## Tmux <- 
+
+* This is the one you should be using.
+* Better stability
+* Lots more features
+    - Windowing and tabs in a terminal
+    - Highly customizable
+    - Easier to manage sessions
+
+* Seriously. Don't bother with the other one.
 
 ---
 
@@ -144,13 +299,70 @@ author: Bob & Joe
 
 ---
 
-# Basic Editing
 
-- vim (the correct way)
-    - Joe talks over his config
-    - Bob talks over his config
-- emacs (the wrong way)
-    - We yell at people
+
+
+-> *Now how to actually computer* <-
+-> *with the dollar-thing and* <-
+-> *teh blinky-square* <-
+
+---
+
+-> # Basic Editing <-
+^
+
+
+-> *"There are two sides to every Schwartz."* <-
+
+
+-> ## VIM or EMACS <-
+
+---
+
+# Basic Editing > VIM
+
+
+
+-> ## VIM <-
+^
+
+* Basically what smart, rational, and pretty people use.
+
+---
+
+# Basic Editing > VIM
+
+
+
+-> ## VIM Configuration <-
+
+-> *Joe's n00b config* <-
+
+---
+
+# Basic Editing > VIM
+
+
+
+-> ## VIM Configuration <-
+
+-> *Bob's uber-1337 config* <-
+
+---
+
+# Basic Editing > Emacs
+
+
+
+-> ## EMACS <-
+^
+
+* Anyone here use it?
+
+-> # Please raise your hand if you are an EMACS user. <-
+
+-> *(Those are the ones with the wiggly-bits that hang off* <-
+-> *the limbs connected to the top half of your body.)* <-
 
 ---
 
