@@ -669,8 +669,7 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## htop <-
 
-* Stuff
-* More stuff
+* upgraded version of top, includes some interactivity
 
 ---
 
@@ -680,7 +679,7 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## glances <-
 
-* This one is all Bob.
+* includes more information than htop, but not interactive
 
 ---
 
@@ -690,15 +689,9 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## log viewer <-
 
-* More for Bob
-
----
-
-# System Admin > Monitoring
-
-
-
--> *Time for Bob to show off more of his 1337 skillz.* <-
+* tail -f, it's not that hard
+* tail -f | grep 'search term'
+* tail -f | cut -f3,5,7 | grep 'search term' | uniq
 
 ---
 
@@ -800,19 +793,10 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## Some app <-
+-> ## newsbeuter <-
 
-* What do you got, Bob?
-
----
-
-# Media > RSS
-
-
-
--> ## Some app <-
-
--> *Bob demos RSS thing* <-
+* import your feeds
+* do some browsing
 
 ---
 
@@ -849,10 +833,13 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## ImageMagic <-
-
-* Bob, I think that's what you said it was.
-* Put stuff here.
+* caca
+    * true terminal image viewer
+    * converts all images to ascii
+* w3m
+    * can display *real* images in certain terminal emulators
+    * doesn't seem to work over ssh
+    * doesn't seem to work in tmux
 
 ---
 
@@ -866,8 +853,12 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## ImageMagic <-
 
-* Same tool, right Bob?
-* More stuff
+* change image formats
+    * convert file.jpg file.png
+* change color space
+    * convert file.jpg -colorspace Gray file_gray.jpg
+* resize
+    * convert file.jpg -resize 64x64 file_small.jpg
 
 ---
 
@@ -975,16 +966,6 @@ but the learning curve was much faster on Ranger.  --Joe
 
 ---
 
-# Personal Info Management > Notetaking
-
-
-
--> ## OrgMode <-
-
--> *Bob Demos* <-
-
----
-
 # Personal Info Managment > Password Managers
 
 ---
@@ -1067,33 +1048,15 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## Bob had something <-
+* lesspipe
+    * generic input filter for less, but will handle PDFs
+* ranger
+    * preview works well
 
-* Bob put stuff here
-
----
-
-# Office Stuff > Documetns > PDF
-
-
-
--> ## Bob had something <-
-
--> *Bob demos his PDF thing* <-
 
 ---
 
 # Office Stuff > ToDo Lists
-
----
-
-# Office Stuff > ToDo Lists
-
-
-
--> ## OrgMode <-
-
-* Bob stuff
 
 ---
 
@@ -1103,25 +1066,12 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## Taskwarrior <-
 
-* Bob Stuff
-
----
-
-# Office Stuff > ToDo List
-
-
-
--> ## todo.txt <-
-
-* Bob stuff
-
----
-
-# Office Stuff > ToDo List
-
-
-
--> *Bob _tasked_ with demoing* <-
+* default simple command based interface
+* lots of additional interfaces
+* basic commands
+    * task add do some stuff
+    * task list
+    * task 1 done
 
 ---
 
@@ -1177,7 +1127,7 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## sc <-
 
-* Bob makes good points.
+* supports all the basic spreadsheet options
 
 ---
 
@@ -1185,9 +1135,17 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## sc <-
+-> ## sc-im <-
 
--> *Bob crunches some numbers* <-
+* supports CSV, TSV, and XLS import / export
+* supports basic formatting
+* demo
+    * move around
+    * insert numbers
+    * insert text
+    * write output
+        * plain text
+        * sc file
 
 ---
 
@@ -1221,17 +1179,7 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## lynx <-
-
-* Bob stuff
-
----
-
-# Office Stuff > Web Browsing
-
-
-
--> ## lynx <-
+-> ## w3m <-
 
 -> *Bob dots the coms* <-
 
@@ -1280,7 +1228,7 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## qalc <-
+-> ## calc <-
 
 * A terminal calculator
 * 'Cause why not?
@@ -1291,7 +1239,7 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## qalc <-
+-> ## calc <-
 
 -> *Bob uses it to spell out _BOOBS_.* <-
 
