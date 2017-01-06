@@ -296,9 +296,20 @@
 - creating / moving between sessions
 - copy & paste
     - integrate into system paste buffer
+- installing plugins
+- updating your config
 
 ---
 
+<<<<<<< HEAD
+# Text Editing
+
+- vim (the correct way)
+    - Joe talks over his config
+- neovim (even more correct)
+- emacs (the wrong way)
+    - We yell at people
+=======
 
 
 
@@ -346,7 +357,15 @@
 
 -> ## VIM Configuration <-
 
--> *Bob's uber-1337 config* <-
+- assuming you know a bit...
+- my config
+    - Plug.vim
+    - powerline
+    - ignorecase
+    - smartcase
+    - escape remapping
+    - better leader key
+    - crosshairs
 
 ---
 
@@ -385,11 +404,6 @@
 * Email-client hobby kit. (absurdly configurable)
 * Spend as much time on email as you did back in the 90s
 * The inspiration for this presentation
-
----
-
-# Comms > Email
-
 
 
 -> ## Mutt <-
@@ -446,15 +460,23 @@
 
 # Comms > Social Networking
 ^
-
+- twitter
+    - t
+        * Yup.  Just the letter 't'
+        - scriptable power user tool
+        - command based interface
+        - demo
+            - view your stream
+            - search for tweets
+            - post an update
+    - rainbow stream
+        - more of a console tool
+- reddit
+    - rtv
+        - Bob demos
 
 
 -> ## 't' <-
-
-* Yup.  Just the letter 't'
-* Ruby client for Twitter.
-* Fetches stream and outputs to the console.
-* Ideal for scripting.
 
 ---
 
