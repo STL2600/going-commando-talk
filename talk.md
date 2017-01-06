@@ -141,16 +141,32 @@ author: Bob & Joe
 - creating / moving between sessions
 - copy & paste
     - integrate into system paste buffer
+- installing plugins
+- updating your config
 
 ---
 
-# Basic Editing
+# Text Editing
 
 - vim (the correct way)
     - Joe talks over his config
-    - Bob talks over his config
+- neovim (even more correct)
 - emacs (the wrong way)
     - We yell at people
+
+---
+
+# Text Editing > Neovim
+
+- assuming you know a bit...
+- my config
+    - Plug.vim
+    - powerline
+    - ignorecase
+    - smartcase
+    - escape remapping
+    - better leader key
+    - crosshairs
 
 ---
 
@@ -175,8 +191,15 @@ author: Bob & Joe
 # Comms > Social Networking
 
 - twitter
-    - t (ruby)
-        - Bob demos
+    - t
+        - scriptable power user tool
+        - command based interface
+        - demo
+            - view your stream
+            - search for tweets
+            - post an update
+    - rainbow stream
+        - more of a console tool
 - reddit
     - rtv
         - Bob demos
