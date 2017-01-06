@@ -663,7 +663,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # System Admin > Monitoring
-^
+
+---
+
+# System Admin > Monitoring
 
 
 
@@ -1125,16 +1128,6 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## sc <-
-
-* supports all the basic spreadsheet options
-
----
-
-# Office Stuff > Spreadsheet
-
-
-
 -> ## sc-im <-
 
 * supports CSV, TSV, and XLS import / export
@@ -1182,26 +1175,6 @@ but the learning curve was much faster on Ranger.  --Joe
 -> ## w3m <-
 
 -> *Bob dots the coms* <-
-
----
-
-# Office Stuff > Web Browsing
-
-
-
--> ## Elinks <-
-
-* Joe Stuff
-
----
-
-# Office Stuff > Web Browsing
-
-
-
--> ## Elinks <-
-
--> *Joe dubs the dub in the dub* <-
 
 ---
 
