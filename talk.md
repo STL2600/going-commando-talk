@@ -137,7 +137,7 @@
 
 
 
--> ## st: "Suckless Terminal <-
+-> ## st: "Suckless Terminal" <-
 
 * Configurable, but only via recompiling.
 * Very lightweight, but powerful.
@@ -508,16 +508,21 @@
 
 # Comms > Social Networking
 ^
-* twitter
-    * t
+
+# twitter
+
+## t
         * Yup.  Just the letter 't'
         * scriptable power user tool
         * command based interface
-    * rainbow stream
+        
+## rainbow stream
         * more of a console tool
-* reddit
+        
+# reddit
     * rtv
-* stack overflow
+
+# Stack Overflow
     * socli
 
 ---
@@ -641,7 +646,7 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # System Admin > Networking
-^
+
 
 
 -> ## nmcli <-
@@ -811,10 +816,11 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## Epub (Python) <-
+-> ## ebook-convert <-
 
-* Python library for viewing Epub files
-* Ncurse support
+* Simple CLI tool.
+* Says it on the tin.
+* Part of Calibre
 
 ---
 
@@ -822,9 +828,9 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## Epub (Python) <-
+-> ## ebook-convert <-
 
--> *Joe demos if he can figure it out* <-
+-> *Watch Joe. Watch Joe Read.* <-
 
 ---
 
@@ -915,6 +921,7 @@ but the learning curve was much faster on Ranger.  --Joe
 
 * Central component of a lot of GUI applications
 * Convert, splice, trim videos.
+* Records screen or video input.
 
 ---
 
@@ -945,7 +952,11 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## vim-wiki <-
 
-* Joe Stuff
+* Standard wiki-like functionality
+* Built in Diary/Journal
+* Wiki Markup by default
+* Also supports Markdown
+
 
 ---
 
@@ -956,16 +967,6 @@ but the learning curve was much faster on Ranger.  --Joe
 -> ## vim-wiki <-
 
 -> *Joe Demos* <-
-
----
-
-# Personal Info Managment > Notetaking
-
-
-
--> ## OrgMode <-
-
-* Bob Stuff
 
 ---
 
@@ -1088,7 +1089,10 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## calcurse <-
 
-* Joe Stuff
+* Ncurse based
+* CLI input available for scripting
+* iCal support.
+* Experimental CalDAV support.
 
 ---
 
@@ -1098,17 +1102,9 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## remind <-
 
-* Joe Stuff
-
----
-
-# Office Stuff > Calendar
-
-
-
--> ## wyrd <-
-
-* Joe Stuff
+* CLI focused
+* "Script" your calendar.
+* Wyrd frontend available.
 
 ---
 
