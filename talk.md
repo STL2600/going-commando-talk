@@ -18,6 +18,15 @@
 
 
 
+-> *"In the Beginning...* <-
+->        *Was the Command Line."* <-
+
+->            --Neal Stephenson <-
+
+---
+
+
+
 -> ## Why? It's so scary and dark down there! <-
 
 ---
@@ -635,10 +644,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ^
 
 
--> ## nm-cli <-
+-> ## nmcli <-
 
 * Command line interface for NetworkManager
-* Pretty much standard.
+* NetworkManager is pretty much standard.
 * There are other tools, but this is easier.
 
 ---
@@ -647,9 +656,9 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
--> ## nm-cli <-
+-> ## nmcli <-
 
--> *What Joe setup some Wiffy* <-
+-> *Watch Joe setup some Wiffy* <-
 
 ---
 
