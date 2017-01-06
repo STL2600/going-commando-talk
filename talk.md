@@ -813,24 +813,92 @@ but the learning curve was much faster on Ranger.  --Joe
 -> # Personal Info Management <-
 ^
 
+
+
 * Note-taking
 * Password Managment
 
+---
+
+# Personal Info Managment > Notetaking
+^
+
+
+
+-> ## vim-wiki <-
+
+* Stuff
+
+---
+
 # Personal Info Managment > Notetaking
 
-- vim-wiki
-    - Joe demos
-- orgmode
-    - Bob demos
+
+
+-> ## vim-wiki <-
+
+-> *Joe Demos* <-
+
+---
+
+# Personal Info Managment > Notetaking
+
+
+
+-> ## OrgMode <-
+
+* Stuff
+
+---
+
+# Personal Info Management > Notetaking
+^
+
+
+-> ## OrgMode <-
+
+-> *Bob Demos* <-
+
+---
+
+# Personal Info Managment > Password Managers
+^
+
+
+
+-> ## lpass <-
+
+* The official Lastpass-CLI.
+* Supports your 2FA.
+* Great alternative when a config file needs a password.
+* You've seen some if already
+
+---
 
 # Personal Info Managment > Password Managers
 
-- lpass / lastpass-cli
-    - Joe demos
-- Honorable Mentions
-    - KeePassC
+
+
+-> ## lpass <-
+
+-> *Watch the magic* <-
 
 ---
+
+# Personal Info Managment > Password Managers
+
+
+
+-> ## Honorable Mentions <-
+
+* kpCLI
+* KeePassC
+
+---
+
+-> # Office Stuff <-
+
+*
 
 # Office Stuff > Writing
 
