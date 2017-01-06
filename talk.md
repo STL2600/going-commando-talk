@@ -460,40 +460,55 @@
 
 # Comms > Social Networking
 ^
-- twitter
-    - t
+* twitter
+    * t
         * Yup.  Just the letter 't'
-        - scriptable power user tool
-        - command based interface
-        - demo
-            - view your stream
-            - search for tweets
-            - post an update
-    - rainbow stream
-        - more of a console tool
-- reddit
-    - rtv
-        - Bob demos
+        * scriptable power user tool
+        * command based interface
+    * rainbow stream
+        * more of a console tool
+* reddit
+    * rtv
+* stack overflow
+    * socli
+
+---
+
+# Comms > Social Networking
+
 
 
 -> ## 't' <-
 
----
-
-# Comms > Social Networking
-
-
-
--> *Bob demos 't'.* <-
+* set up your account
+* view your stream
+* search for tweets
+* post an update
 
 ---
 
 # Comms > Social Networking
+
+
+
+-> ## 'rainbow stream' <-
+
+* set up your account
+* post a tweet
+
+---
+
+# Comms > Social Networking
+
 
 
 -> ## rtv <-
-* Reddit client
-* Bob, say some other stuff about rtv here.
+
+* set up your account
+* view subreddits
+* view posts
+* view comments
+* post comments
 
 ---
 
@@ -501,7 +516,10 @@
 
 
 
--> *Bob demos 't'.* <-
+-> ## socli <-
+
+* search
+
 
 ---
 
@@ -556,23 +574,14 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # System Admin > Searching
-^
-
-
-
--> ## fzf <-
-
-* Bob, put stuff here.
-
----
-
-# System Admin > Searching
 
 
 
 -> ## ag <-
 
-* Bob, again do the needful.
+* default search
+* unlimited search
+* search options
 
 ---
 
