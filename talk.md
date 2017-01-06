@@ -57,7 +57,10 @@
 ---
 
 # The Basics > Terminal Emulators > Windows
-^
+
+---
+
+# The Basics > Terminal Emulators > Windows
 
 
 
@@ -69,7 +72,10 @@
 ---
 
 # The Basics > Terminal Emulators > Mac
-^
+
+---
+
+# The Basics > Terminal Emulators > Mac
 
 
 
@@ -91,7 +97,10 @@
 ---
 
 # The Basics > Terminal Emulators > Linux
-^
+
+---
+
+# The Basics > Terminal Emulators > Linux
 
 
 
@@ -128,7 +137,10 @@
 ---
 
 # The Basics > Terminal Emulators > Android
-^
+
+---
+
+# The Basics > Terminal Emulators > Android
 
 
 
@@ -151,7 +163,10 @@
 ---
 
 # The Basics > Terminal Emulators > iOS 
-^
+
+---
+
+# The Basics > Terminal Emulators > iOS
 
 
 
@@ -186,7 +201,10 @@
 ---
 
 # The Basics > Remote Terminals
-^
+
+---
+
+# The Basics > Remote Terminals
 
 
 
@@ -212,7 +230,10 @@
 ---
 
 # The Basics > Shells
-^
+
+---
+
+# The Basics > Shells
 
 
 
@@ -224,7 +245,11 @@
 
 ---
 
+# The Basics > Shells
 
+
+
+-> ## BASH <-
 
 -> *Joe's Example Config* <-
 
@@ -237,6 +262,8 @@
 -> ## ZSH <-
 
 * More powerful than BASH.
+* Command history searching with fzf
+* Command completions
 * Rich plugin ecosystem.
 
 ---
@@ -245,17 +272,21 @@
 
 
 
-- my config
-    - simple options
-    - antigen
-    - powerline
-- fzf command history searching
-- completions
+-> ## ZSH <-
+
+-> *Bob's Config* <-
+
+* simple options
+* antigen
+* powerline
 
 ---
 
 # The Basics > Multiplexers
-^
+
+---
+
+# The Basics > Multiplexers
 
 
 
@@ -287,29 +318,24 @@
 
 # The Basics > Multiplexers > Tmux
 
-- my config
-    - vim movement / resize keys
-    - tpm
-    - powerline 
-- creating / moving between panes
-- creating / moving between windows
-- creating / moving between sessions
-- copy & paste
+
+
+-> ## Tmux <-
+
+-> *Bob's Config and Demo* <-
+
+* vim movement / resize keys
+* tpm
+* powerline 
+* creating / moving between panes
+* creating / moving between windows
+* creating / moving between sessions
+* copy & paste
     - integrate into system paste buffer
-- installing plugins
-- updating your config
+* installing plugins
+* updating your config
 
 ---
-
-<<<<<<< HEAD
-# Text Editing
-
-- vim (the correct way)
-    - Joe talks over his config
-- neovim (even more correct)
-- emacs (the wrong way)
-    - We yell at people
-=======
 
 
 
@@ -335,7 +361,6 @@
 
 
 -> ## VIM <-
-^
 
 * Basically what smart, rational, and pretty people use.
 
@@ -356,6 +381,8 @@
 
 
 -> ## VIM Configuration <-
+
+-> *Bob's uber-1337 config* <-
 
 - assuming you know a bit...
 - my config
@@ -393,9 +420,12 @@
 * Social Networking
 
 ---
-# Comms > Email
-^
 
+# Comms > Email
+
+---
+
+# Comms > Email
 
 
 -> ## Mutt <-
@@ -405,6 +435,11 @@
 * Spend as much time on email as you did back in the 90s
 * The inspiration for this presentation
 
+---
+
+# Comms > Email
+
+
 
 -> ## Mutt <-
 
@@ -413,7 +448,10 @@
 ---
 
 # Comms > Chat
-^
+
+---
+
+# Comms > Chat
 
 
 
@@ -453,6 +491,7 @@
 # Comms > Chat
 
 
+-> ## WeeChat & Bitlbee <-
 
 -> *Time to see it all in aciton* <-
 
@@ -520,11 +559,9 @@
 
 * search
 
-
 ---
 
 -> # System Administration <-
-^
 
 
 * File Manament
@@ -535,6 +572,7 @@
 ---
 
 # System Admin > File Management
+^
 
 
 
@@ -671,8 +709,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Media > Torrenting
-^
 
+---
+
+# Media > Torrenting
 
 
 -> ## Rtorrent <-
@@ -695,7 +735,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Media > Music Streaming
-^
+
+---
+
+# Media > Music Streaming
 
 
 
@@ -741,7 +784,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Media > RSS
-^
+
+---
+
+# Media > RSS
 
 
 
@@ -762,7 +808,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Media > Ebooks
-^
+
+---
+
+# Media > Ebooks
 
 
 
@@ -784,7 +833,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Media > Image Viewing
-^
+
+---
+
+# Media > Image Viewing
 
 
 
@@ -792,6 +844,10 @@ but the learning curve was much faster on Ranger.  --Joe
 
 * Bob, I think that's what you said it was.
 * Put stuff here.
+
+---
+
+# Media > Image Editing
 
 ---
 
@@ -807,7 +863,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Media > Video Viewing
-^
+
+---
+
+# Media > Video Viewing
 
 
 
@@ -823,6 +882,18 @@ but the learning curve was much faster on Ranger.  --Joe
 
 
 
+-> ## youtube-dl <-
+
+* Youtube downloader, and then some.
+* Rediculously long list of supported sites.
+* Uncomfortable ammount of *porn*.
+
+---
+
+# Media > Video Viewing
+
+
+
 -> ## VLC <-
 
 -> *Of course we are going to show it* <-
@@ -830,35 +901,48 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Media > Video Editing
-^
+
+---
+
+# Media > Video Editing
 
 
 
 -> ## FFMPEG <-
 
-* Stuff
+* Central component of a lot of GUI applications
 * Convert, splice, trim videos.
+
+---
+
+# Media > Video Editing
+
+
+
+-> ## FFMPEG <-
+
+-> *Joe figures out how to demo* <-
 
 ---
 
 -> # Personal Info Management <-
 ^
 
-
-
-* Note-taking
+* Notetaking
 * Password Managment
 
 ---
 
 # Personal Info Managment > Notetaking
-^
 
+---
+
+# Personal Info Managment > Notetaking
 
 
 -> ## vim-wiki <-
 
-* Stuff
+* Joe Stuff
 
 ---
 
@@ -878,12 +962,12 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> ## OrgMode <-
 
-* Stuff
+* Bob Stuff
 
 ---
 
 # Personal Info Management > Notetaking
-^
+
 
 
 -> ## OrgMode <-
@@ -893,7 +977,10 @@ but the learning curve was much faster on Ranger.  --Joe
 ---
 
 # Personal Info Managment > Password Managers
-^
+
+---
+
+# Personal Info Managment > Password Managers
 
 
 
@@ -929,81 +1016,299 @@ but the learning curve was much faster on Ranger.  --Joe
 
 -> # Office Stuff <-
 
-*
+* Documents
+* ToDo Lists
+* Calendar
+* Spreadsheet
+* Presentations
+* Web Browsing
 
-# Office Stuff > Writing
+---
 
-- Formatting
-    - Markdown / Wiki Markup / AsciiDoc
-        - Joe demos
-    - TeX / LaTeX
-- PDF Stuff
-    - Bob demos reading text
+# Office Stuff > Documents
+
+---
+
+# Office Stuff > Documents > Formatting
+
+
+
+-> ## Markdown / Wiki Markup / AsciiDoc <-
+
+* Designed for readability
+* But easily processed into HTML.
+* All kind of the same.
+* All just different enough.
+
+---
+
+# Office Stuff > Documents > Formatting
+
+
+
+-> ## TeX / LaTeX <-
+
+* Used if you write papers about science
+* Allows you to write complicated math formulas
+* Relevent if you publish on dead-tree media
+
+---
+
+# Office Stuff > Documents > PDF
+
+
+
+-> ## Bob had something <-
+
+* Bob put stuff here
+
+---
+
+# Office Stuff > Documetns > PDF
+
+
+
+-> ## Bob had something <-
+
+-> *Bob demos his PDF thing* <-
 
 ---
 
 # Office Stuff > ToDo Lists
 
-- orgmode
-- taskwarrior
-- todo.txt
-    - Bob demos one or the other
+---
+
+# Office Stuff > ToDo Lists
+
+
+
+-> ## OrgMode <-
+
+* Bob stuff
+
+---
+
+# Office Stuff > ToDo Lists
+
+
+
+-> ## Taskwarrior <-
+
+* Bob Stuff
+
+---
+
+# Office Stuff > ToDo List
+
+
+
+-> ## todo.txt <-
+
+* Bob stuff
+
+---
+
+# Office Stuff > ToDo List
+
+
+
+-> *Bob _tasked_ with demoing* <-
 
 ---
 
 # Office Stuff > Calendar
 
-- calendar?
-    - calcurse
-    - remind
-    - wyrd
-    - Joe demos one of them
+---
+
+# Office Stuff > Calendar
+
+
+
+-> ## calcurse <-
+
+* Joe Stuff
+
+---
+
+# Office Stuff > Calendar
+
+
+
+-> ## remind <-
+
+* Joe Stuff
+
+---
+
+# Office Stuff > Calendar
+
+
+
+-> ## wyrd <-
+
+* Joe Stuff
+
+---
+
+# Office Stuff > Calendar
+
+
+
+-> *Joe's going for a dated look with this demo* <-
 
 ---
 
 # Office Stuff > Spreadsheet
 
-- sc
-    - Bob demos
+---
+
+# Office Stuff > Spreadsheet
+
+
+
+-> ## sc <-
+
+* Bob makes good points.
+
+---
+
+# Office Stuff > Spreadsheet
+
+
+
+-> ## sc <-
+
+-> *Bob crunches some numbers* <-
 
 ---
 
 # Office Stuff > Presntations
 
-- mdp
-    - This is the demo, bitches
+
+
+-> ## MDP <-
+
+* Supports Markdown
+* Will export slides as PDF
+* My new life goal is to use this at a conference.
+
+---
+
+# Office Stuff > Presentations
+
+
+
+-> ## MDP <-
+
+-> *A demo? You've been watching the demo, bitches!* <-
 
 ---
 
 # Office Stuff > Web Browsing
 
-- web browsing
-    - lynx
-        - Bob demos
-    - elinks
-        - Joe demos
+---
+
+# Office Stuff > Web Browsing
+
+
+
+-> ## lynx <-
+
+* Bob stuff
+
+---
+
+# Office Stuff > Web Browsing
+
+
+
+-> ## lynx <-
+
+-> *Bob dots the coms* <-
+
+---
+
+# Office Stuff > Web Browsing
+
+
+
+-> ## Elinks <-
+
+* Joe Stuff
+
+---
+
+# Office Stuff > Web Browsing
+
+
+
+-> ## Elinks <-
+
+-> *Joe dubs the dub in the dub* <-
 
 ---
 
 # Development
 
-- vim + tmux = terminal IDE
-    - Bob demos
+---
+
+# Development
+
+
+
+-> ## VIM + TMUX = Terminal IDE <-
+^
+
+-> *Bob shows how cool he really is* <-
+
+---
+
+# Random Stuff
 
 ---
 
 # Random Stuff > Calculator
 
-- qalc
-    - terminal calculator
-        - Bob demos a calculator
+
+
+-> ## qalc <-
+
+* A terminal calculator
+* 'Cause why not?
+
+---
+
+# Random Stuff > Calculator
+
+
+
+-> ## qalc <-
+
+-> *Bob uses it to spell out _BOOBS_.* <-
 
 ---
 
 # Random Stuff > Games
 
-- nethack
-- bs
-- nInvaders
-    - Joe demos
-- text mode doom
+
+
+-> ## Break-time! <-
+
+* NetHack
+* bs
+* nInvaders
+
+---
+
+# Random Stuff > Games
+
+
+
+-> *Joe's gonna be distracted for a while* <-
+
+---
+
+
+
+-> # Ctrl + Z <-
+
