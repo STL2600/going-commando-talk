@@ -52,42 +52,16 @@
 
 ---
 
-# The Basics > Multiplexers
+# TMux - Terminal Multiplexer
 
-
-
--> ## Tmux <- 
-
-* This is the one you should be using.
+* Improved version of screeen
 * Better stability
 * Lots more features
     - Windowing and tabs in a terminal
     - Highly customizable
     - Easier to manage sessions
 
-* Seriously. Don't bother with the other one.
-
 ---
-
-# The Basics > Multiplexers > Tmux
-
-
-
--> ## Tmux <-
-
--> *Bob's Config and Demo* <-
-
-* vim movement / resize keys
-* creating / moving between panes
-* creating / moving between windows
-* creating / moving between sessions
-* copy & paste
-* tpm
-* installing plugins
-* updating your config
-
----
-
 
 
 -> *Now how to actually computer* <-
