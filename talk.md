@@ -52,6 +52,12 @@
 
 ---
 
+Not Covering and Why
+
+TODO
+
+---
+
 # TMux - Terminal Multiplexer
 
 * Improved version of screeen
