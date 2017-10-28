@@ -1,0 +1,1478 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 80.976632,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.231683,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.055079,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~]\u001b[31m\u001b[1m$\u001b[0m \u001b[K\u001b[73C \u001b[74D\u001b[?2004h"
+    ],
+    [
+      0.325079,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.198303,
+      "\b\u001b[1m\u001b[31mr\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.3162,
+      "\b\b\u001b[0m\u001b[32mr\u001b[0m\u001b[32mt\u001b[32mv\u001b[39m"
+    ],
+    [
+      0.832629,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.478788,
+      "\u001b]2;rtv 1.19.0\u0007"
+    ],
+    [
+      0.005884,
+      "\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b=\u001b[39;49m\u001b[?25l"
+    ],
+    [
+      0.000384,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.936666,
+      "\u001b[12;30H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[13;30H\u001b(0\u001b[0mx\u001b(BLoading subreddit   \u001b(0\u001b[0mx\u001b(B\u001b[14;30H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\b\b\b\b\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.458023,
+      "\r\u001b[A"
+    ],
+    [
+      0.000111,
+      "\u001b[J\u001b[H"
+    ],
+    [
+      0.000678,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.002336,
+      "\u001b(B\u001b[0;1;7m\u001b[36mFront Page                                                               rtward \u001b[2;1H\u001b(B\u001b[0;1m\u001b[33m[1]hot         [2]top         [3]rising         [4]new         [5]controversial\u001b[K\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.008534,
+      "\n\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m1. Robert Mueller’s Office Will Serve First Indictment Monday, Source Confirms\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.nbcnews.com/politics/politics-news/grand-jury-approves-first-charg\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m14785 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 5hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 1841 comments\r\n"
+    ],
+    [
+      8.2e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mtroubadoursmith\u001b[39m\u001b(B\u001b[m \u001b[33m/r/politics\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m2. NVIDIA drivers\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttps://i.redd.it/x6hhw4xcqluz.png\r\n\u001b[C"
+    ],
+    [
+      5e-05,
+      "\u001b[39m\u001b(B\u001b[m10054 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 5hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 232 comments\r\n "
+    ],
+    [
+      4.4e-05,
+      "\u001b[32mThePixelCoder\u001b[39m\u001b(B\u001b[m \u001b[33m/r/ProgrammerHumor\r\n\n\u001b[C"
+    ],
+    [
+      6.4e-05,
+      "\u001b[39m\u001b(B\u001b[0;1m3. “Stranger Things” star, Gaten Matarazzo, created a non-profit organization\r\n\u001b[C"
+    ],
+    [
+      4.1e-05,
+      "to benefit others born with CCD like him.\r\n\u001b[C"
+    ],
+    [
+      4.5e-05,
+      "\u001b(B\u001b[0;4m\u001b[35mhttps://www.ksl.com/?sid=46188187&nid=148&title=stranger-things-star-brings-sm\r\n\u001b[C"
+    ],
+    [
+      4.1e-05,
+      "\u001b[39m\u001b(B\u001b[m19491 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 926 comments\r\n "
+    ],
+    [
+      4.6e-05,
+      "\u001b[32mFordMasterTech\u001b[39m\u001b(B\u001b[m \u001b[33m/r/television\u001b[39m\u001b(B\u001b[m \u001b[31m[/r/all]\r\n\n\u001b[C"
+    ],
+    [
+      4.1e-05,
+      "\u001b[39m\u001b(B\u001b[0;1m4. Just a reminder what these snakes (sorry, real snakes) were saying when\r\n\u001b[C"
+    ],
+    [
+      3.6e-05,
+      "Mueller was first appointed: \"Robert Mueller is superb choice to be special\r\n\u001b[C"
+    ],
+    [
+      3.9e-05,
+      "counsel. His reputation is impeccable for honesty and integrity. Media should\r\n\u001b[C"
+    ],
+    [
+      4.9e-05,
+      "now calm down\"\r\n\u001b[C"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0;4m\u001b[34mhttps://twitter.com/newtgingrich/status/864998445244743684\r\n\u001b[C\u001b[39m\u001b(B\u001b[m8035 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 126 comments\r\n"
+    ],
+    [
+      0.000179,
+      "\u001b(B\u001b[0;1;7m\u001b[36m[?]Help [q]Quit [l]Comments [/]Prompt [u]Login [o]Open [c]Post [a/z]Vote       \u001b[?7l \u001b[?7h\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      3.523095,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008475,
+      "\n\n \n\b \n\b \n\b \n\n\b\u001b(B\u001b[0;7m \n\b \n\b \n\b \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.58195,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008708,
+      "\u001b[8d \n\b \n\b \n\b \n\n\b"
+    ],
+    [
+      8.6e-05,
+      "\u001b(B\u001b[0;7m \n\b \n\b \n\b \n\b \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.585663,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008871,
+      "\u001b[3;24r\u001b[24;1H\n\u001b[1;25r\u001b[12;1H \n\b \n\b \n\b \n\b"
+    ],
+    [
+      9.8e-05,
+      " \n\n\b\u001b(B\u001b[0;7m \n\b \n\b \n\b \n\b \n\b \n\b"
+    ],
+    [
+      5.9e-05,
+      " \u001b(B\u001b[0m\u001b[32mimagepoem\u001b[39m\u001b(B\u001b[m \u001b[33m/r/esist\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.60637,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.006905,
+      "\u001b[12d\u001b(B\u001b[0;7m \n\b \n\b \n\b \n\b \n\n\b\u001b(B\u001b[m \n\b"
+    ],
+    [
+      8.4e-05,
+      " \n\b \n\b \n\b \n\b \n\b \u001b[H"
+    ],
+    [
+      0.457474,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.005799,
+      "\u001b[7d\u001b(B\u001b[0;7m \n\b \n\b \n\b \n\n\b\u001b(B\u001b[m \n\b \n\b"
+    ],
+    [
+      6.5e-05,
+      " \n\b \n\b \u001b[H"
+    ],
+    [
+      0.527361,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.006582,
+      "\u001b[3;24r\u001b[3;1H\u001bM\u001b[1;25r\u001b[3;1H\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m1. Robert Mueller’s Office Will Serve First Indictment Monday, Source Confirms\r\n\u001b(B\u001b[0;7m \n\b"
+    ],
+    [
+      9.5e-05,
+      " \n\b \n\n\b\u001b(B\u001b[m \n\b \n\b \n\b"
+    ],
+    [
+      4.9e-05,
+      " \u001b[H"
+    ],
+    [
+      0.42682,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.006332,
+      "\n\n \n\b \n\b \n\b \n\n\b\u001b(B\u001b[0;7m \n\b \n\b \n\b \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.21315,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.009758,
+      "\u001b[8d \n\b \n\b \n\b \n\n\b\u001b(B\u001b[0;7m \n\b \n\b \n\b \n\b"
+    ],
+    [
+      8.1e-05,
+      " \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.291056,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.006416,
+      "\u001b[3;24r\u001b[24;1H\n\u001b[1;25r\u001b[12;1H \n\b \n\b"
+    ],
+    [
+      7.5e-05,
+      " \n\b \n\b \n\n\b\u001b(B\u001b[0;7m \n\b"
+    ],
+    [
+      5.8e-05,
+      " \n\b \n\b"
+    ],
+    [
+      3.8e-05,
+      " \n\b \n\b \n\b"
+    ],
+    [
+      4e-05,
+      " \u001b(B\u001b[0m\u001b[32mimagepoem\u001b[39m\u001b(B\u001b[m \u001b[33m/r/esist\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.288135,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.007945,
+      "\u001b[3;24r\u001b[24;1H\u001b[6S\u001b[1;25r\u001b[12;1H \n\b \n\b \n\b"
+    ],
+    [
+      7.6e-05,
+      " \n\b \n\b \n\b \n\n\b"
+    ],
+    [
+      0.000111,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m5. ​Simon Pegg Admits He’s Written A ‘Ridiculous’ Vampire-Driven ‘Shaun Of The\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mDead’ Sequel Treatment\r\n"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttp://www.ladbible.com/entertainment/film-and-tv-simon-pegg-admits-to-writing\r\n"
+    ],
+    [
+      6.3e-05,
+      "\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m39782 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 724 comments\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mGriddamus\u001b[39m\u001b(B\u001b[m \u001b[33m/r/movies\u001b[39m\u001b(B\u001b[m \u001b[31m[News]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.489246,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.00967,
+      "\u001b[3;24r\u001b[24;1H\u001b[6S\u001b[1;25r\u001b[14;1H \n\b \n\b \n\b"
+    ],
+    [
+      8.6e-05,
+      " \n\b \n\n\b\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m6. My wonderful mom made this amazing cake for my birthday, and I wanted to\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1mshare it with everyone here!\r\n"
+    ],
+    [
+      5.2e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://i.imgur.com/D1Y8pnI.jpg\r\n"
+    ],
+    [
+      9.1e-05,
+      "\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2459 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 73 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mrodroid321\u001b[39m\u001b(B\u001b[m \u001b[33m/r/NintendoSwitch\u001b[39m\u001b(B\u001b[m \u001b[31m[Image]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.431092,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008939,
+      "\u001b[3;24r\u001b[24;1H\u001b[5S\u001b[1;25r\u001b[15;1H \n\b \n\b"
+    ],
+    [
+      8.1e-05,
+      " \n\b \n\b \n\n\b\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m7. [Art] A wild Gengar appears. Custom request kigurumi for a friend\r\n"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://i.redd.it/r5vq08yknluz.jpg\r\n"
+    ],
+    [
+      7.5e-05,
+      "\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m1386 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 5hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 27 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mkiyaria\u001b[39m\u001b(B\u001b[m \u001b[33m/r/pokemongo\u001b[39m\u001b(B\u001b[m \u001b[31m[Art]\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.515953,
+      "\u001b]2;Front Page - rtv 1.19.0\u0007"
+    ],
+    [
+      0.005725,
+      "\u001b[3;24r\u001b[24;1H\u001b[5S\u001b[1;25r\u001b[16;1H \n\b \n\b \n\b"
+    ],
+    [
+      2.8e-05,
+      " \n\n\b\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m8. How Microsoft is turning Android into the mobile OS for Windows users\r\n"
+    ],
+    [
+      0.000126,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.windowscentral.com/microsoft-turning-android-phone-windows\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m1800 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 237 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mClem_Harvey\u001b[39m\u001b(B\u001b[m \u001b[33m/r/Android\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      4.267453,
+      "\u001b[25d\u001b(B\u001b[0;1;7m\u001b[36mEnter page: / \b\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      9.4e-05,
+      "\u001b[C\u001b(B\u001b[0;1;7m\u001b[36m                                                          \u001b[25;14H\u001b[39m\u001b(B\u001b[m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      9.4e-05,
+      "\u001b[?1h\u001b=\u001b[H\u001b[2J"
+    ],
+    [
+      6e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[36mFront Page                                                               rtward \u001b[2;1H"
+    ],
+    [
+      0.000101,
+      "\u001b(B\u001b[0;1m\u001b[33m[1]hot         [2]top         [3]rising         [4]new         [5]controversial\u001b[K\r\n\n\u001b[C"
+    ],
+    [
+      7.3e-05,
+      "\u001b[39m5. ​Simon Pegg Admits He’s Written A ‘Ridiculous’ Vampire-Driven ‘Shaun Of The\r\n\u001b[C"
+    ],
+    [
+      5.9e-05,
+      "Dead’ Sequel Treatment\r\n\u001b[C"
+    ],
+    [
+      6e-05,
+      "\u001b(B\u001b[0;4m\u001b[34mhttp://www.ladbible.com/entertainment/film-and-tv-simon-pegg-admits-to-writing\r\n\u001b[C"
+    ],
+    [
+      5.6e-05,
+      "\u001b[39m\u001b(B\u001b[m39782 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 724 comments\r\n "
+    ],
+    [
+      7.8e-05,
+      "\u001b[32mGriddamus\u001b[39m\u001b(B\u001b[m \u001b[33m/r/movies\u001b[39m\u001b(B\u001b[m \u001b[31m[News]\r\n\n\u001b[C"
+    ],
+    [
+      5.6e-05,
+      "\u001b[39m\u001b(B\u001b[0;1m6. My wonderful mom made this amazing cake for my birthday, and I wanted to\r\n\u001b[Cshare it with everyone here!\r\n\u001b[C"
+    ],
+    [
+      5.5e-05,
+      "\u001b(B\u001b[0;4m\u001b[34mhttps://i.imgur.com/D1Y8pnI.jpg\r\n\u001b[C"
+    ],
+    [
+      0.000201,
+      "\u001b[39m\u001b(B\u001b[m2459 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 73 comments\r\n \u001b[32mrodroid321\u001b[39m\u001b(B\u001b[m \u001b[33m/r/NintendoSwitch\u001b[39m\u001b(B\u001b[m \u001b[31m[Image]\r\n\n\u001b[C"
+    ],
+    [
+      0.000105,
+      "\u001b[39m\u001b(B\u001b[0;1m7. [Art] A wild Gengar appears. Custom request kigurumi for a friend\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mhttps://i.redd.it/r5vq08yknluz.jpg\r\n\u001b[C\u001b[39m\u001b(B\u001b[m1386 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 5hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 27 comments\r\n "
+    ],
+    [
+      6.5e-05,
+      "\u001b[32mkiyaria\u001b[39m\u001b(B\u001b[m \u001b[33m/r/pokemongo\u001b[39m\u001b(B\u001b[m \u001b[31m[Art]\r\n\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m8. How Microsoft is turning Android into the mobile OS for Windows users\r\n"
+    ],
+    [
+      5.1e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mhttps://www.windowscentral.com/microsoft-turning-android-phone-windows\r\n"
+    ],
+    [
+      6.1e-05,
+      "\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m1800 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 8hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 237 comments\r\n"
+    ],
+    [
+      7.3e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mClem_Harvey\u001b[39m\u001b(B\u001b[m \u001b[33m/r/Android\r\n\u001b(B\u001b[0;1;7m\u001b[36mEnter page: /                                                                  \u001b[?7l \u001b[?7h\u001b[25;14H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.523082,
+      "\u001b(B\u001b[0;1;7m\u001b[36mr\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.510939,
+      "\u001b(B\u001b[0;1;7m\u001b[36m/\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.448778,
+      "\u001b(B\u001b[0;1;7m\u001b[36ma\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.217824,
+      "\u001b(B\u001b[0;1;7m\u001b[36ms\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.184648,
+      "\u001b(B\u001b[0;1;7m\u001b[36mk\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.314828,
+      "\u001b(B\u001b[0;1;7m\u001b[36mr\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.069362,
+      "\u001b(B\u001b[0;1;7m\u001b[36me\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.320225,
+      "\u001b(B\u001b[0;1;7m\u001b[36md\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.19322,
+      "\u001b(B\u001b[0;1;7m\u001b[36md\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.152224,
+      "\u001b(B\u001b[0;1;7m\u001b[36mi\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.125275,
+      "\u001b(B\u001b[0;1;7m\u001b[36mt\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      2.40701,
+      "\u001b[?25l"
+    ],
+    [
+      0.000144,
+      "\r"
+    ],
+    [
+      6.5e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[36m[?]Help [q]Quit [l]Comments [/]Prompt [u]Login [o]Open [c]Post [a/z]Vote\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.513324,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.001328,
+      "\u001b(B\u001b[0;1;7m\u001b[36m/r/askreddit\r\n\n\n\u001b[39m\u001b(B\u001b[m\u001b[K\n\u001b[K\n\u001b[K\n"
+    ],
+    [
+      6.8e-05,
+      "\u001b[K\n\u001b[K\n\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\n"
+    ],
+    [
+      4.2e-05,
+      "\u001b[K\n\u001b[K\n\u001b[K\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b[K\n\n\u001b[K\n"
+    ],
+    [
+      3.7e-05,
+      "\u001b[K\n\u001b[K\n\u001b[K\u001b[H"
+    ],
+    [
+      0.018884,
+      "\n\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m1. Halloween Megathread\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n"
+    ],
+    [
+      9.7e-05,
+      "\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m1291 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 3day \u001b(B\u001b[0;1m-\u001b(B\u001b[m 2769 comments \u001b[32m[stickied]\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32m-eDgAR-\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m \u001b[31m[megathread]\r\n\n\u001b[C"
+    ],
+    [
+      4.2e-05,
+      "\u001b[39m\u001b(B\u001b[0;1m2. Return of the Sexy Halloween Megathread\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C"
+    ],
+    [
+      6.1e-05,
+      "\u001b[39m\u001b(B\u001b[m3471 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 3day \u001b(B\u001b[0;1m-\u001b(B\u001b[m 2710 comments \u001b[32m[stickied]\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1;7m\u001b[31mNSFW\r\n\u001b[C"
+    ],
+    [
+      3.3e-05,
+      "\u001b(B\u001b[0m\u001b[32m-eDgAR-\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m \u001b[31m[megathread]\r\n\n\u001b[C"
+    ],
+    [
+      3.3e-05,
+      "\u001b[39m\u001b(B\u001b[0;1m3. What's your \"I hated that person, but they didn't deserve THAT\" story?\r\n\u001b[C"
+    ],
+    [
+      4.4e-05,
+      "\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C"
+    ],
+    [
+      4.3e-05,
+      "\u001b[39m\u001b(B\u001b[m18583 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 6748 comments\r\n "
+    ],
+    [
+      3.4e-05,
+      "\u001b[32mOvertOperation\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\r\n\n\u001b[C"
+    ],
+    [
+      4.1e-05,
+      "\u001b[39m\u001b(B\u001b[0;1m4. What do you happily pay a premium/extra for?\r\n\u001b[C"
+    ],
+    [
+      3.5e-05,
+      "\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C"
+    ],
+    [
+      0.000107,
+      "\u001b[39m\u001b(B\u001b[m2815 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 10hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 3104 comments\r\n "
+    ],
+    [
+      3.3e-05,
+      "\u001b[32mFukitol_100mg\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\r\n\n\u001b[C"
+    ],
+    [
+      3.5e-05,
+      "\u001b[39m\u001b(B\u001b[0;1m5. Redditors with a Ph.D./Master's, what is a TL;DR of your thesis?\r\n\u001b[C"
+    ],
+    [
+      3.5e-05,
+      "\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.505885,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.004057,
+      "\n\n \n\b \n\b \n\b \n\n\b"
+    ],
+    [
+      6.9e-05,
+      "\u001b(B\u001b[0;7m \n\b \n\b \n\b \u001b[H"
+    ],
+    [
+      4e-05,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.657248,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.004997,
+      "\u001b[8d \n\b \n\b \n\b \n\n\b\u001b(B\u001b[0;7m \n\b \n\b \n\b \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      0.912127,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.005047,
+      "\u001b[13d \n\b \n\b \n\b \n\n\b"
+    ],
+    [
+      6.9e-05,
+      "\u001b(B\u001b[0;7m \n\b \n\b \n\b \u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      1.318069,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.00797,
+      "\u001b[3;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[16;1H \n\b \n\b \n\b"
+    ],
+    [
+      0.000135,
+      " \n\n\b\u001b(B\u001b[0;7m \n\b \n\b"
+    ],
+    [
+      8.4e-05,
+      " \u001b(B\u001b[m1194 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 926 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mEmprythius\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.520913,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.005063,
+      "\u001b[3;24r\u001b[24;1H\u001b[6S\u001b[1;25r\u001b[15;1H \n\b \n\b \n\b \n\n\b"
+    ],
+    [
+      9.3e-05,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m6. What’s the strangest subreddit that you’ve stumbled upon that you genuinely\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1menjoyed while browsing reddit?\r\n"
+    ],
+    [
+      0.000319,
+      "\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m2329 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 620 comments\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32msam007mac\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.658328,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.010422,
+      "\u001b[15d\u001b(B\u001b[0;7m \n\b \n\b \n\b \n\n\b\u001b(B\u001b[m \n\b"
+    ],
+    [
+      0.000248,
+      " \n\b \n\b \n\b \u001b[H"
+    ],
+    [
+      3.028661,
+      "\u001b[12;30H\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[13;30H\u001b(0\u001b[0mx\u001b(BLoading submission   \u001b(0\u001b[0mx\u001b(B\u001b[14;30H\u001b(0\u001b[0mmqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[A\b\b\b\b\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.458638,
+      "\u001b[12;30Hnts\u001b[K\n\b\b\b\u001b[K\r\n\u001b[K\u001b[H"
+    ],
+    [
+      0.001185,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.004202,
+      "\u001b(B\u001b[0;1;7m\u001b[36mhttps://www.reddit.com/r/AskReddit/comments/79ayxg/redditors_with_a_phdmasters_\r\n\n\u001b[39m\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[4;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;1mRedditors with a Ph.D./Master's, what is a TL;DR of your thesis?\u001b[80G"
+    ],
+    [
+      7.1e-05,
+      "\u001b(0\u001b[0mx\u001b(B\u001b[5;1H\u001b(0\u001b[0mx\u001b(B\u001b[0m\u001b[32mEmprythius\u001b[39m\u001b(B\u001b[m 6hr \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m\u001b[51X\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[6;1H\u001b(0\u001b[0m"
+    ],
+    [
+      4.5e-05,
+      "x\u001b(B\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[7;1H\u001b(0\u001b[0m"
+    ],
+    [
+      7.4e-05,
+      "x\u001b(B1194 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 926 comments        \u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[8;1H\u001b(0\u001b[0m"
+    ],
+    [
+      4.7e-05,
+      "mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[10;1H\u001b(0\u001b[0m"
+    ],
+    [
+      4.4e-05,
+      "\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mSmeghead333\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 1205 pts 5hr\u001b[K\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mYou know that thing chromosomes do sometimes and we don't know how they do it?\r\n"
+    ],
+    [
+      9.1e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mWell, after years of work, I don't know either, but maybe it has something to\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mdo with these things. Or maybe not. Here's a picture.\r\n\n"
+    ],
+    [
+      6.1e-05,
+      "  \u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34messentialatom\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 182 pts 5hr\u001b[K\r\n"
+    ],
+    [
+      4.2e-05,
+      "  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mWhat's the picture of?\r\n\u001b[K\n"
+    ],
+    [
+      8.7e-05,
+      "    \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mSmeghead333\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 446 pts 5hr\n\u001b[5G"
+    ],
+    [
+      4.4e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mPretty dots.\r\n\u001b[K\n\u001b[6G\u001b[1K "
+    ],
+    [
+      9.2e-05,
+      "\u001b(0\u001b[0m\u001b[33mx\u001b(B\u001b[0;1m\u001b[34messentialatom\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 78 pts 5hr\n\u001b[6G\u001b[1K "
+    ],
+    [
+      5.2e-05,
+      "\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mHey, that's lovely! Can we see it?\r\n\u001b[K\n\u001b[8G"
+    ],
+    [
+      4.8e-05,
+      "\u001b[1K \u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mIorekHenderson\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 228 pts 5hr\u001b[25;18H"
+    ],
+    [
+      4.3e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[36mh]Return [space]Fold/Expand [o]Open [c]Comment [a/z]Vote\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      2.935618,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.005128,
+      "\u001b[3;24r\u001b[24;1H\u001b[7S\u001b[1;25r\u001b[3;1H\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      0.000105,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[18;9H\u001b(0\u001b[0;7m\u001b[35m\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m. . .\n\n\b\b\b\b\u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mlithid\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 83 pts 4hr\u001b[21;11H"
+    ],
+    [
+      5.7e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mthanks fam I think I know how it works now.\u001b[23;13H\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments \u001b(B\u001b[0;1m[1]\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      1.160936,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008392,
+      "\u001b[3;24r\u001b[3;1H\u001b[7T\u001b[1;25r\u001b[3;1H"
+    ],
+    [
+      7.1e-05,
+      "\u001b(0\u001b[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\u001b(B\u001b[4;1H\u001b(0\u001b[0m"
+    ],
+    [
+      0.000101,
+      "x\u001b(B\u001b[0;1mRedditors with a Ph.D./Master's, what is a TL;DR of your thesis?\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[5;1H\u001b(0\u001b[0mx\u001b(B\u001b[0m\u001b[32mEmprythius\u001b[39m\u001b(B\u001b[m 6hr \u001b[33m/r/AskReddit\u001b[80G\u001b[39m\u001b(0\u001b[0mx\u001b(B\u001b[6;1H\u001b(0\u001b[0mx\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[80G\u001b[39m\u001b(0\u001b[0mx\u001b(B\u001b[7;1H\u001b(0\u001b[0m"
+    ],
+    [
+      5.8e-05,
+      "x\u001b(B1194 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 926 comments\u001b[80G\u001b(0\u001b[0mx\u001b(B\u001b[8;1H\u001b(0\u001b[0m"
+    ],
+    [
+      6.6e-05,
+      "mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj\u001b(B\u001b[10;1H\u001b(0\u001b[0m"
+    ],
+    [
+      4e-05,
+      "\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35m"
+    ],
+    [
+      6.2e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35m"
+    ],
+    [
+      6e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0m\u001b[35m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.858451,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.004781,
+      "\u001b[3;24r\u001b[24;1H\u001b[7S\u001b[1;25r\u001b[3;1H\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      7.4e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[18;9H\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      5.5e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m. . .\n\n\b\b\b\b"
+    ],
+    [
+      7e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mlithid\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 83 pts 4hr\u001b[21;11H\u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mthanks fam I think I know how it works now.\u001b[23;13H"
+    ],
+    [
+      6.6e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments \u001b(B\u001b[0;1m[1]\u001b[H\u001b(B\u001b[m"
+    ],
+    [
+      4.140215,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.004088,
+      "\n\n\u001b[CHidden \u001b(B\u001b[0;1m[20]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mgist_like_honey\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 1062 pts 6hr\u001b[K\r\n"
+    ],
+    [
+      7.1e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mA surprising number of 17th-century romance writers were soldiers, and boy did\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mthey hate women/love.\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\n\b\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m*PhD in Scottish Literature. I don't know why either.*\r\n\n  "
+    ],
+    [
+      5.2e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mAtheisticBenaven\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 510 pts 6hr\r\n  "
+    ],
+    [
+      5e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mHow long did it take to read both works?\n\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mgist_like_honey\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 32"
+    ],
+    [
+      4.1e-05,
+      "9 pts 5hr\n\u001b[5G"
+    ],
+    [
+      3.7e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mFour years, followed by one week to write about them. Obviously.\n\n\u001b[7G"
+    ],
+    [
+      4.4e-05,
+      "\u001b(0\u001b[0m\u001b[33mx\u001b(B\u001b[0;1m\u001b[34mAtheisticBenaven\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 69\u001b[1P\n\u001b[7G"
+    ],
+    [
+      3.9e-05,
+      "\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mLove the sense of humor\u001b[20;9H"
+    ],
+    [
+      4.4e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments \u001b(B\u001b[0;1m[1]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n  "
+    ],
+    [
+      5.6e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mFumble_Bees\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 98 pts 5hr\r\n  "
+    ],
+    [
+      4.8e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mI really hope you stand up when someone asks if \"there's a Doctor in the\r\n  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mplace\"\u001b[H"
+    ],
+    [
+      0.748985,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.004001,
+      "\n\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\n\b\u001b(0\u001b[0m\u001b[35m\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      6.2e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0;7m\u001b[35m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      1.118617,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.013316,
+      "\u001b[4;10r\u001b[4;1H\u001b[2T\u001b[1;25r\u001b[5;1H\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mHidden \u001b(B\u001b[0;1m[37]\r\n\n"
+    ],
+    [
+      8.1e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mamm964\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 677\u001b[10P\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mTLDR/ELI5: some bacteria 'know' how to stop cancer from growing and we just\u001b[K\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mneed to take advant"
+    ],
+    [
+      9.5e-05,
+      "age of their 'skills' for human use.\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m**Edit for more ELI5** - tumors are a nice \"home\" for anaerobic bacteria\r\n"
+    ],
+    [
+      4.8e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mbecause there's plenty of resources they can take from the cells and very\r\n"
+    ],
+    [
+      4.1e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mlittle oxygen. as a result, bacteria steals the tumor's vital nutrients and\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mthe cells slowly begin to die. it's still unknown how the bacteria \"know\" how\r\n"
+    ],
+    [
+      0.000155,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mto target the tumors (specifically) once the body is infected. for human use,\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mthe bacteria need to be genetically modified to\r\n"
+    ],
+    [
+      7e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m[knockout](https://en.wikipedia.org/wiki/Gene_knockout) whatever genes that\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mcause them to produce and/or release toxins.\r\n\n  "
+    ],
+    [
+      7.4e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mAggressiveChairs\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 102 pts 4hr\r\n  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mI don't know much about biology or whatever your subject is, but isn't this\n\u001b[4G"
+    ],
+    [
+      4.6e-05,
+      "really major?? Why aren't you on the news lol??\r\n\u001b[K\n  "
+    ],
+    [
+      6.5e-05,
+      "  \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mIrate_Rater\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 284 pts 4hr\u001b[H"
+    ],
+    [
+      0.701418,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.012292,
+      "\n\n\n\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\n\b\u001b(0\u001b[0m\u001b[35m\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      9.8e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      5.3e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      4.6e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      3.8e-05,
+      "\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      2.684032,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.004294,
+      "\u001b[7;2H"
+    ],
+    [
+      0.000341,
+      "Hidden \u001b(B\u001b[0;1m[32]\u001b(B\u001b[m\u001b[K\r\n"
+    ],
+    [
+      0.000662,
+      "\u001b[K\n"
+    ],
+    [
+      0.000742,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mla_bibliothecaire\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 598 pts 5hr"
+    ],
+    [
+      0.000343,
+      "\u001b[K\r\n"
+    ],
+    [
+      0.000313,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mDid the Western Front in World War I suck ass? According to this French poet,\r\n"
+    ],
+    [
+      0.000304,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[myes. Yes it did.\u001b[K\r\n\u001b[K\n"
+    ],
+    [
+      0.000161,
+      "  \u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mannathehistorian_\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 57 pts 4hr\u001b[K\r\n"
+    ],
+    [
+      0.000268,
+      "  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mWhich poet?\u001b[K\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b[K\n"
+    ],
+    [
+      0.00025,
+      "    \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mla_bibliothecaire\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 96 pts 4hr\u001b[K\r\n"
+    ],
+    [
+      0.000539,
+      "    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m[Guillaume\u001b[K\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mApollinaire.](https://en.wikipedia.org/wiki/Guillaume_Apollinaire) I\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mfocused on *Calligrammes* mostly.\r\n\u001b[K\n  "
+    ],
+    [
+      9e-05,
+      "    \u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments \u001b(B\u001b[0;1m[6]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n    "
+    ],
+    [
+      0.000157,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mFrustratedRevsFan\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 19 pts 4hr\n\u001b[6G"
+    ],
+    [
+      7.6e-05,
+      "Pretty much all of 'em\u001b[K\u001b[H"
+    ],
+    [
+      0.8156,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.003754,
+      "\u001b[7d\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\n\b\u001b(0\u001b[0m\u001b[35m\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      7.1e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0;7m\u001b[35m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.9219,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.011081,
+      "\u001b[9;2HHidden \u001b(B\u001b[0;1m[15]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n\u001b(0\u001b[0m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mbofstein\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 576 pts 5hr\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mLiberals and conservatives are not going to be able to settle any of their\r\n"
+    ],
+    [
+      8.1e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[marguments over whether things are racist or not because they literally have\r\n\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mdifferent definitions of the word \"racism.\"\r\n\n  \u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mjaycatt7\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 121\u001b[10P\r\n  "
+    ],
+    [
+      5.6e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mWould you be willing to ELI5 each side's definition?\r\n\u001b[K\n\u001b[6G"
+    ],
+    [
+      4e-05,
+      "\u001b(B\u001b[0;1m\u001b[34mbofstein\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 445 pts 3hr\u001b[K\n\u001b[5G"
+    ],
+    [
+      3.3e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mSure - conservatives see it more as an *individual* phenomenon. It's\n\u001b[5G"
+    ],
+    [
+      5.2e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[msomething a person or people do. Racism is about a person hating another,\n\u001b[5G"
+    ],
+    [
+      9.2e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mtreating another differently, or believing things about a person based\n\u001b[6G"
+    ],
+    [
+      4.2e-05,
+      "just on their race. Liberals are far more likely to define it as a\n\u001b[6G*systemic* problem - policies, laws, programs, and actions that are\u001b[H"
+    ],
+    [
+      1.005371,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.009824,
+      "\u001b[9d\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\n\b\u001b(0\u001b[0m\u001b[35m\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[35m"
+    ],
+    [
+      5.6e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0;7m\u001b[35m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.288124,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008331,
+      "\u001b[11d\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35m"
+    ],
+    [
+      8.2e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\n \u001b(0\u001b[0m\u001b[35m\u001b(0\u001b[0;7m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0;7m\u001b[36m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.243499,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.011341,
+      "\n\n\u001b[K\n  \u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mjaycatt7\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 121 pts 4hr\r\n  \u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mWould you be willing to ELI5 each side's definition?\r\n\n"
+    ],
+    [
+      9e-05,
+      "    \u001b(0\u001b[0;7m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mbofstein\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 445 pts 3hr\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mSure - conservatives see it more as an *individual* phenomenon. It's\r\n    \u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[msomething a person or people do. Racism is about a person hating another,\n\u001b[5G"
+    ],
+    [
+      4.9e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mtreating another differently, or believing things about a person based\r\n    \u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mjust on their race. Liberals are far more likely to define it as a\r\n"
+    ],
+    [
+      7.3e-05,
+      "    \u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m*systemic* problem - policies, laws, programs, and actions that are\u001b[K\r\n"
+    ],
+    [
+      3.1e-05,
+      "    \u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mstructured to privelage one group over another. Even if there was no\u001b[K\r\n"
+    ],
+    [
+      3.5e-05,
+      "    \u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mintent to discriminate, or if something treats everyone the same but\n\u001b[5G"
+    ],
+    [
+      5.7e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[maffects people differently, that can be racism too. This explains why\r\n  "
+    ],
+    [
+      5.2e-05,
+      "  \u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mliberals think voter ID laws are racist (because it affects a marginalized\r\n  "
+    ],
+    [
+      5e-05,
+      "  \u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mgroup differently) while conservatives do not (because it treats everyone\n\u001b[5G"
+    ],
+    [
+      4.8e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mthe same), and conservatives think affirmative action is racist (because\n\u001b[5G"
+    ],
+    [
+      4.8e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mit treats one group differently) while liberals do not (because it is not\n\u001b[5G"
+    ],
+    [
+      6.8e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mperpetuating the existing societal privelage). Both sides think the other\n\u001b[5G"
+    ],
+    [
+      3.8e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mis illogical or biased, but over a series of studies looking at how people\n\u001b[5G"
+    ],
+    [
+      4.7e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mendorse and apply their own definitions, you can understand that each\u001b[K\n\u001b[5G"
+    ],
+    [
+      6.7e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mgroup is just coming from a very different place and (generally)\u001b[K\n\u001b[5G"
+    ],
+    [
+      3.2e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mappropriately applying their definitions to how they just scenarios.\u001b[H"
+    ],
+    [
+      0.262308,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.0083,
+      "\n\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mliberals think voter ID laws are racist (because it affects a marginalized\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mgroup differently) while conservatives do not (because it treats everyone\r\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mthe same), and conservatives think affirmative action is racist (because\n\u001b[5G"
+    ],
+    [
+      9.2e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mit treats one group differently) while liberals do not (because it is not\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mperpetuating the existing societal privelage). Both sides think the other\n\u001b[5G"
+    ],
+    [
+      0.000293,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mis illogical or biased, but over a series of studies looking at how people\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mendorse and apply their own definitions, you can understand that each\u001b[K\n\u001b[5G"
+    ],
+    [
+      0.000101,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mgroup is just coming from a very different place and (generally)\u001b[K\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mappropriately applying their definitions to how they just scenarios.\r\n\u001b[K\n    "
+    ],
+    [
+      5.2e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b(B\u001b[0;1m\u001b[34mthebornotaku\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 112 pts 3hr\u001b[K\n\u001b[5G"
+    ],
+    [
+      5.9e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mExcellent point.\u001b[K\n\u001b[5G  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\n\b\b\b"
+    ],
+    [
+      5.7e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mMy father, a conservative, would always say that homosexual couples\u001b[K\n\u001b[5G"
+    ],
+    [
+      5.8e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mfighting for marriage rights weren't fighting for equal rights, but\u001b[K\n\u001b[5G"
+    ],
+    [
+      4.7e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[madditional rights. He said that they still had just as much a right as\n\u001b[5G"
+    ],
+    [
+      6.5e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[manybody else to marry a partner of the opposite sex, same as anybody\u001b[K\n\u001b[5G  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[melse.\u001b[K\n\u001b[5G"
+    ],
+    [
+      6.5e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\n\b\b\b"
+    ],
+    [
+      8e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mObviously given the context of that whole debate years ago its pretty\n\u001b[5G"
+    ],
+    [
+      4.2e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mobvious what people meant by equal rights, but that's just one example\n\u001b[5G"
+    ],
+    [
+      4.1e-05,
+      "  \u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mof conservatives viewing something more objectively than subjectively.\u001b[H"
+    ],
+    [
+      0.724624,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008442,
+      "\u001b[3;24r\u001b[24;1H\u001b[5S\u001b[1;25r\u001b[8;7H\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      6.8e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.9e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      6.2e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.8e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\n \u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.7e-05,
+      "\u001b(0\u001b[0;7m\u001b[35mx\u001b(B\u001b[0;1m\u001b[34mrobertah1\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 93 pts 3hr\u001b[22;9H\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mAlways thought this was a poor argument. The rights will still be\u001b[23;9H"
+    ],
+    [
+      4.6e-05,
+      "\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mequal because now heterosexuals also have the right to marry someone\u001b[24;9H\u001b(0\u001b[0;7m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[mof the same sex. Everyone has that right, not just homosexuals.\u001b[H"
+    ],
+    [
+      0.794354,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.008478,
+      "\u001b[8;7H\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33m"
+    ],
+    [
+      0.0001,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33m"
+    ],
+    [
+      5.4e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33m"
+    ],
+    [
+      4.6e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\n \u001b(0\u001b[0;7m\u001b[33m"
+    ],
+    [
+      6.7e-05,
+      "\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35m"
+    ],
+    [
+      4.2e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0m\u001b[35m"
+    ],
+    [
+      4.1e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0m\u001b[35m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.333804,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.012942,
+      "\n\n    \u001b(0\u001b[0;7m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mbofstein\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 445 pts 3hr\u001b[K\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mSure - conservatives see it more as an *individual* phenomenon. It's\u001b[K\n\u001b[5G"
+    ],
+    [
+      0.000183,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[msomething a person or people do. Racism is about a person hating another,\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mtreating another differently, or believing things about a person based\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mjust on their race. Liberals are far more likely to define it as a\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m*systemic* problem - policies, laws, programs, and actions that are\n\u001b[5G"
+    ],
+    [
+      9.4e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mstructured to privelage one group over another. Even if there was no\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mintent to discriminate, or if something treats everyone the same but\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[maffects people differently, that can be racism too. This explains why\n\u001b[5G"
+    ],
+    [
+      7.4e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mliberals think voter ID laws are racist (because it affects a marginalized\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mgroup differently) while conservatives do not (because it treats everyone\n\u001b[5G"
+    ],
+    [
+      0.000134,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mthe same), and conservatives think affirmative action is racist (because\n\u001b[5G"
+    ],
+    [
+      8.2e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mit treats one group differently) while liberals do not (because it is not\n\u001b[5G"
+    ],
+    [
+      8.3e-05,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mperpetuating the existing societal privelage). Both sides think the other\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mis illogical or biased, but over a series of studies looking at how people\n\u001b[5G"
+    ],
+    [
+      0.000181,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mendorse and apply their own definitions, you can understand that each\u001b[K\n\u001b[5G"
+    ],
+    [
+      0.000107,
+      "\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mgroup is just coming from a very different place and (generally)\u001b[K\n\u001b[5G\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mappropriately applying their definitions to how they just scenarios.\r\n\u001b[K\n\u001b[7G"
+    ],
+    [
+      0.000111,
+      "\u001b(0\u001b[0m\u001b[33mx\u001b(B\u001b[0;1m\u001b[34mthebornotaku\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 112 pts 3hr\u001b[K\n\u001b[7G"
+    ],
+    [
+      8.3e-05,
+      "\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mExcellent point.\u001b[K\n\u001b[7G\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\u001b[H"
+    ],
+    [
+      0.403326,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.010629,
+      "\n\n\u001b[6GHidden \u001b(B\u001b[0;1m[37]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n    "
+    ],
+    [
+      7.8e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mbuttplayis_bestplay\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 36 pts 4hr\u001b[K\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mI second this question.\u001b[K\n\u001b[5G"
+    ],
+    [
+      5e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\n\b"
+    ],
+    [
+      7.6e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mWhen I was in the Army I had a video game poster that someone claimed was\n\u001b[5G"
+    ],
+    [
+      4.4e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mracist (I think it was a world of Warcraft poster) that I had to take\n\u001b[5G"
+    ],
+    [
+      3.7e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mdown. Yet there were dozens of confederate flags. Racism is rampant in the\n\u001b[5G"
+    ],
+    [
+      5.1e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mmilitary.\u001b[K\r\n"
+    ],
+    [
+      4.5e-05,
+      "\u001b[K\n    "
+    ],
+    [
+      4.3e-05,
+      "  \u001b(0\u001b[0m\u001b[33mx\u001b(B\u001b[0;1m\u001b[34mPM_ME_SHITTY_WIZARDS\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 11 pts 2hr\u001b[K\n\u001b[5G"
+    ],
+    [
+      0.00016,
+      "  \u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mWe're going to kick out the Trolls and Goblins and build a 200 foot wall\n\u001b[5G  \u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[maround Durotar. Garrosh 2016!\u001b[K\r\n\u001b[K\n    "
+    ],
+    [
+      7.5e-05,
+      "  \u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments \u001b(B\u001b[0;1m[6]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n    \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mwalkthroughthefire\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 25 pts 3hr\u001b[K\n\u001b[5G"
+    ],
+    [
+      4.3e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mDid a quick google search and I'm pretty sure I found her thesis (same\n\u001b[5G"
+    ],
+    [
+      5.1e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mtopic and the name on it is similar to her username) Based on a quick skim\n\u001b[5G"
+    ],
+    [
+      4.6e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mthrough, it seems like the most common definition of racism chosen by\n\u001b[5G"
+    ],
+    [
+      5.1e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mconservatives was \"believing that one race is superior to another race or\n\u001b[5G"
+    ],
+    [
+      4.6e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mraces\", while liberals mostly chose \"systematically or structurally\u001b[H"
+    ],
+    [
+      0.640325,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.012926,
+      "\n\n    \u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\n\b\u001b(0\u001b[0m\u001b[32m\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[32m"
+    ],
+    [
+      0.000222,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[32m"
+    ],
+    [
+      8.5e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[m\n\b\u001b(0\u001b[0;7m\u001b[32m"
+    ],
+    [
+      0.000146,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[H\u001b(0\u001b[0;7m\u001b[32m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.588195,
+      "\u001b]2;redditors with a phdmasters what is a tldr of - rtv 1.19.0\u0007"
+    ],
+    [
+      0.014247,
+      "\u001b[5;6HHidden \u001b(B\u001b[0;1m[8]\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n    \u001b(0\u001b[0m\u001b[32mx\u001b(B\u001b[0;1m\u001b[34mwalkthroughthefire\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 25 pts 3hr\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mDid a quick google search and I'm pretty sure I found her thesis (same\u001b[K\n\u001b[5G"
+    ],
+    [
+      6.1e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mtopic and the name on it is similar to her username) Based on a quick skim\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mthrough, it seems like the most common definition of racism chosen by\u001b[K\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mconservatives was \"believing that one race is superior to another race or\n\u001b[5G"
+    ],
+    [
+      4.7e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mraces\", while liberals mostly chose \"systematically or structurally\n\u001b[5G\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mprivileging one race over another or others.\"\r\n"
+    ],
+    [
+      3.3e-05,
+      "\u001b[K\n    "
+    ],
+    [
+      4.6e-05,
+      "\u001b(0\u001b[0m\u001b[32mx\u001b[39m\u001b(B\u001b(B\u001b[mMore comments \u001b(B\u001b[0;1m[2]\u001b(B\u001b[m\u001b[K\r\n\n  "
+    ],
+    [
+      6.3e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b(B\u001b[0;1m\u001b[34mCousCousOtterCat\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 7 pts 4hr\r\n  "
+    ],
+    [
+      3.6e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[mWould be interested in hearing more about this.\r\n  "
+    ],
+    [
+      3e-05,
+      "\u001b(0\u001b[0m\u001b[36mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[K\r\n"
+    ],
+    [
+      2.7e-05,
+      "\u001b[K\n\u001b[6G"
+    ],
+    [
+      3.2e-05,
+      "\u001b(B\u001b[0;1m\u001b[34mbofstein\u001b[39m\u001b(B\u001b[m \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9 pts 3hr\u001b[K\n\u001b[6G"
+    ],
+    [
+      3.3e-05,
+      "Copying response to another:\u001b[K\n\u001b[6G"
+    ],
+    [
+      3.1e-05,
+      "\u001b[K\n"
+    ],
+    [
+      2.8e-05,
+      ">Sure - conservatives see it more as an *individual* phenomenon. It's\u001b[H"
+    ],
+    [
+      3.616513,
+      "\u001b]2;/r/askreddit - rtv 1.19.0\u0007"
+    ],
+    [
+      0.00588,
+      "\u001b(B\u001b[0;1;7m\u001b[36m/r/askreddit                                                             rtward\r\n\n\u001b[C\u001b(B\u001b[0m\u001b[32m-eDgAR-\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m \u001b[31m[megathread]\r\n\n\u001b[C\u001b[39m\u001b(B\u001b[0;1m3. What's your \"I hated that person, but they didn't deserve THAT\" story?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\r\n\u001b[C"
+    ],
+    [
+      8.5e-05,
+      "\u001b[39m\u001b(B\u001b[m18583 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 6748 comments\u001b[K\r\n \u001b[32mOvertOperation\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n "
+    ],
+    [
+      4.5e-05,
+      "\u001b(B\u001b[0;1m4. What do you happily pay a premium/extra for?\u001b(B\u001b[m\u001b[K\r\n \u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n "
+    ],
+    [
+      0.000404,
+      "2815 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 10hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 3104 comments\u001b[K\r\n \u001b[32mFukitol_100mg\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;1m5. Redditors with a Ph.D./Master's, what is a TL;DR of your thesis?\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0;4m\u001b[35mself.AskReddit\r\n\u001b[39m\u001b(B\u001b[0;7m \u001b(B\u001b[m1194 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 6hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 926 comments\u001b[K\r\n\u001b(B\u001b[0;7m \u001b(B\u001b[0m\u001b[32mEmprythius\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n\u001b[K\n \u001b(B\u001b[0;1m6. What’s the strangest subreddit that you’ve stumbled upon that you genuinely\r\n\u001b[Cenjoyed while browsing reddit?\r\n\u001b[C\u001b(B\u001b[0;4m\u001b[34mself.AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\r\n 2329 pts \u001b(B\u001b[0;1m•\u001b(B\u001b[m 9hr \u001b(B\u001b[0;1m-\u001b(B\u001b[m 620 comments\r\n \u001b[32msam007mac\u001b[39m\u001b(B\u001b[m \u001b[33m/r/AskReddit\u001b[39m\u001b(B\u001b[m\u001b[K\n\u001b[18G"
+    ],
+    [
+      3.7e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[36ml]Comments [/]Prompt [u]Login [o]Open [c]Post [a/z]Vote \u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      4.876956,
+      "\u001b[25d\u001b(B\u001b[0;1;7m\u001b[36mDo you really want to quit? (y/n):  \b\u001b[39m\u001b(B\u001b[m\u001b[C\u001b(B\u001b[0;1;7m\u001b[36m                                    \u001b[25;36H\u001b[39m\u001b(B\u001b[m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.803541,
+      "\u001b[?25l"
+    ],
+    [
+      0.00035,
+      "\r"
+    ],
+    [
+      9.7e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[36m[?]Help [q]Quit [l]Comments [/]Prompt [u]Login [o]Open [c]Post [a/z]Vote\u001b[H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      9.8e-05,
+      "\u001b[?1l\u001b>\u001b[25;1H\u001b[?12l\u001b[?25h\u001b[?1049l\r\u001b[?1l\u001b>"
+    ],
+    [
+      0.109416,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.008523,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[73C \u001b[74D\u001b[?2004h"
+    ]
+  ]
+}
