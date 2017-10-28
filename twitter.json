@@ -1,0 +1,1070 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 82.33546,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.172735,
+      "t"
+    ],
+    [
+      0.112672,
+      "m"
+    ],
+    [
+      0.019124,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.053448,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~]\u001b[31m\u001b[1m$\u001b[0m \u001b[K\u001b[73C \u001b[74D\u001b[?2004h"
+    ],
+    [
+      8.6e-05,
+      "t"
+    ],
+    [
+      0.003274,
+      "\b\u001b[1m\u001b[31mt\u001b[1m\u001b[31mm\u001b[0m\u001b[39m"
+    ],
+    [
+      0.130789,
+      "\b\b\u001b[1m\u001b[31mt\u001b[1m\u001b[31mm\u001b[1m\u001b[31mu\u001b[0m\u001b[39m"
+    ],
+    [
+      0.113105,
+      "\b\b\b\u001b[0m\u001b[32mt\u001b[0m\u001b[32mm\u001b[0m\u001b[32mu\u001b[32mx\u001b[39m"
+    ],
+    [
+      0.084009,
+      " "
+    ],
+    [
+      0.243869,
+      "-"
+    ],
+    [
+      0.281359,
+      "S"
+    ],
+    [
+      0.234685,
+      " "
+    ],
+    [
+      0.604568,
+      "\u001b[4md\u001b[24m"
+    ],
+    [
+      0.173513,
+      "\b\u001b[4md\u001b[4me\u001b[24m"
+    ],
+    [
+      0.082794,
+      "\b\u001b[4me\u001b[4mm\u001b[24m"
+    ],
+    [
+      0.057917,
+      "\b\u001b[4mm\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.258723,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.442155,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1004h\u001b[c\u001b(B\u001b[m\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[?1003l\u001b[?1006l\u001b[?2004l\u001b[1;1H\u001b[1;25r\u001b]112\u0007\u001b[1;1H"
+    ],
+    [
+      0.002819,
+      "\u001b[?25l\u001b[30m\u001b[40m\u001b[1m\u001b[24d──\u001b[11C───────────────────────────────────────────────────────────────────\u001b[24;3H\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m\u001b[7m0\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m \"minerva\"\u001b[H\u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[25d\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:40 \u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001198,
+      "\u001b(B\u001b[m\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[?1003l\u001b[?1006l\u001b[?2004l\u001b[1;1H\u001b[1;25r\u001b[1;1H"
+    ],
+    [
+      0.000837,
+      "\u001b[?25l\u001b[30m\u001b[40m\u001b[1m\u001b[24d──\u001b[11C───────────────────────────────────────────────────────────────────\u001b[24;3H\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m\u001b[7m0\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m \"minerva\"\u001b[H\u001b(B\u001b[m\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[25d\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:40 \u001b(B\u001b[m\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.299481,
+      "\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \u001b[1;1H \u001b[H"
+    ],
+    [
+      0.057934,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[36m[~]\u001b[31m\u001b[1m$\u001b(B\u001b[m \u001b[K\u001b[73C \u001b[1;25r\u001b[1;6H\u001b[?2004h"
+    ],
+    [
+      3.952126,
+      "\u001b[32mt\u001b(B\u001b[m"
+    ],
+    [
+      0.151754,
+      "\b\u001b[32mt\u001b[39m "
+    ],
+    [
+      0.251232,
+      "s"
+    ],
+    [
+      0.249522,
+      "t"
+    ],
+    [
+      0.379909,
+      "r"
+    ],
+    [
+      0.286663,
+      "e"
+    ],
+    [
+      0.171495,
+      "a"
+    ],
+    [
+      0.121582,
+      "m"
+    ],
+    [
+      0.686919,
+      " "
+    ],
+    [
+      0.266916,
+      "t"
+    ],
+    [
+      0.100111,
+      "i"
+    ],
+    [
+      0.100085,
+      "m"
+    ],
+    [
+      0.116989,
+      "e"
+    ],
+    [
+      0.336478,
+      "l"
+    ],
+    [
+      0.083938,
+      "i"
+    ],
+    [
+      0.134287,
+      "n"
+    ],
+    [
+      0.064007,
+      "e"
+    ],
+    [
+      1.991192,
+      "\r\n\u001b[?2004l"
+    ],
+    [
+      0.845325,
+      "\u001b[33m\u001b[1m   @peterseibel\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.001181,
+      "\u001b[?25l\u001b[25d\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:40 \u001b(B\u001b[m\u001b[3;1H\u001b[?12l\u001b[?25h/home/rtward/.gem/ruby/2.4.0/gems/thor-0.20.0/lib/thor/shell/basic.rb:371: warning: Insecure world writable dir /opt/android-sdk/platform-tools in PATH, mode 040777\r\n"
+    ],
+    [
+      0.010495,
+      "   RT @RalphNortham: I served 8 years in the Army, took care of sick kids, and \r\n   am running to build a more inclusive Virginia. Don't talk… \r\n   https://t.co/D8EltmnVQo\r\n\r\n"
+    ],
+    [
+      0.00074,
+      "\u001b[33m\u001b[1m   @jephjacques\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.000843,
+      "   RT @JupiterrJazz: In case you're having a bad day, here's a picture of when \r\n   Nico fell off the bed and got stuck between the bed and t… \r\n   https://t.co/TGjXMTGuGg\u001b[15;1H"
+    ],
+    [
+      0.000342,
+      "\u001b[33m\u001b[1m   @GreatDismal\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.000769,
+      "   RT @tedlieu: Mueller shows that what makes America great is @POTUS doesn't \r\n   get to decide if crimes were committed. Law enforceme… \r\n   https://t.co/4I11qwq4rP\u001b[20;1H"
+    ],
+    [
+      0.000302,
+      "\u001b[33m\u001b[1m   @GreatDismal\r\n\u001b(B\u001b[m"
+    ],
+    [
+      0.000299,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[20;1H   RT @drewmckevitt: Hi, History here.\u001b[22;1H   Kindly fuck off. https://t.co/pjclE99Ci9\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000235,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @Mike_Faulk\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000362,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   RT @DarrylGregoryG2: Here are the lawsuits filed against St. Louis in \r\n   response to the Stockley verdict | St. Louis Public Radio \u001b[1;25r\u001b[23;62H\u001b[1;23r\u001b[3S\u001b[21;1H   https://t.co/9hFqaMQzNd\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000291,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @GreatDismal\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000755,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   RT @DavidBegnaud: We went to Whitefish, MT. to find the headquarters of \r\n   @WhitefishEnergy - here’s what we found, along with a man blo…\u001b[14C\n\u001b[22;66H \u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000144,
+      "\u001b[1;23r\u001b[2S\u001b[21;1H   https://t.co/tPVPC6s80o\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.003863,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @doctorow\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000175,
+      "\u001b[1;23r\u001b[7S\u001b[16;1H   WarGames (1983) https://t.co/6SKEe9GLGz https://t.co/PL3dKt97ao\u001b[18;1H\u001b[33m\u001b[1m   @POTUS\r\n\u001b(B\u001b[m   RT @realDonaldTrump: Happy Birthday @TheLeeGreenwood! #FlashbackFriday \r\n   https://t.co/MCrMK6Eurm\u001b[22;1H\u001b[33m\u001b[1m   @xeni\r\n\u001b(B\u001b[m   The ‘Pay What You Want: Learn to Code 2017 Bundle’\u001b[26C\n\u001b[22;54H in our store offers 156 \r\n   hours of Python, Ruby, and more…\u001b[3S\u001b[3A https://t.co/gIsnhbFs5b\u001b[22;1H\u001b[33m\u001b[1m   @Mike_Faulk\r\n\u001b(B\u001b[m   RT @jaketapper: Had O’\u001b[2S\u001b[2AReilly not sued, I might never have known about this FB \r\n   post about his inappropriate behavior with a man’\u001b[7S\u001b[7As ex\u001b[18;1H   https://t.co/Zp9RseC4Rc\u001b[20;1H\u001b[33m\u001b[1m   @baratunde\r\n\u001b(B\u001b[m   RT @kenvogel: Anti-Trump gadfly @JeffreyJetton at @WhiteHouse today wearing a \r\n   Trump mask & a Russian hockey jersey. The…\u001b[2S\u001b[2A https://t.co/B6LZjTkuzJ\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @ThatKevinSmith\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   I'm honored! And he's got the wide eyes down cold! Tell him I feel like I'm \u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      4.9e-05,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   looking at a thinner, shorter mirror! https://t.co/R3U3EWjDRi\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000155,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @KenPlume\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000237,
+      "\u001b[1;23r\u001b[2S\u001b[21;1H   Really, all the UpsideDown needs is a Task Rabbit to do a bit of dusting. \r\n   #StrangersThings2\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n"
+    ],
+    [
+      2.1e-05,
+      "\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000149,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @RiverfrontTimes\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.00023,
+      "\u001b[1;23r\u001b[2S\u001b[21;1H   St. Louis is in the spotlight in an upcoming episode of Late Nite Eats on the \u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   Cooking Channel. https://t.co/EqxfAjjFOY"
+    ],
+    [
+      4e-05,
+      "\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000177,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @GreatDismal\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000189,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   RT @Splitcoil: So Chris Christie is offering thoughts about what people with \u001b[22;1H\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   integrity do."
+    ],
+    [
+      2e-05,
+      "\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000133,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @FOX2now\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   City of St. Louis appeals decision to reinstate a fired police captain \u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   https://t.co/bhVvHpldQn https://t.co/EHU52ooGjT"
+    ],
+    [
+      1.8e-05,
+      "\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000142,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @ksdknews\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000189,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   St. Louis man accused of molesting 6 girls https://t.co/2pz1NKB4WM \u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[22;1H   https://t.co/Y534AOkTPl"
+    ],
+    [
+      2.4e-05,
+      "\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000165,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @BoingBoing\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000916,
+      "   ‘Pay What You Want: White Hat Hacker 2017 Bundle,’\u001b[1;23r\u001b[2S\u001b[21;54H top deal in our store this \r\n   month. 63 hours of security training…\u001b[39C\n\u001b[22;41H https://t.co/uUdybObCW9\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000625,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @tonymess\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000671,
+      "\u001b[1;23r\u001b[3S\u001b[20;1H   RT @ShimonPro: Breaking now on CNN: First charges in the investigation led by \r\n   Special Counsel Robert Mueller have been filed in sealed indictments.\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.000271,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;1H\u001b[33m\u001b[1m   @KMOV\u001b[1;25r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000283,
+      "\u001b[1;23r\u001b[2S\u001b[21;1H   Father: My twins who have autism are being bullied, school is doing nothing \r\n   about it https://t.co/CUcuxPAC55 https://t.co/EqRBg4rw06\u001b[1;25r\u001b[23;1H\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      9.993782,
+      "\u001b[?25l\u001b[30m\u001b[40m\u001b[1m\u001b[1;41H│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[13;41H│\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b(B\u001b[m\u001b[30m\u001b[40m\r\n──\u001b[11C───────────────────────────\u001b[1m┴──\u001b[11C──────────────────────────\u001b[24;3H\u001b(B\u001b[m\u001b[30m\u001b[40m0 \"minerva\"\u001b[30C\u001b[1m\u001b[7m1\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m \"minerva\"\u001b[H\u001b(B\u001b[m   https://t.co/Y534AOkTPl\u001b[14X\u001b[2;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @BoingBoing\r\n\u001b(B\u001b[m   ‘Pay What You Want: White Hat Hacker\u001b[1X\r\n2017 Bundle,’ top deal in our store this\u001b[6;40H\u001b[1K\r\r\n   month. 63 hours of security training…\u001b[8;40H\u001b[1K\r https://t.co/uUdybObCW9\u001b[9;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @tonymess\r\n\u001b(B\u001b[m   RT @ShimonPro: Breaking now on CNN: F\r\nirst charges in the investigation led by\u001b[13;40H\u001b[1K\r\r\n   Special Counsel Robert Mueller have b\u001b[15;40H\u001b[1K\reen filed i"
+    ],
+    [
+      0.000117,
+      "n sealed indictments.\u001b[16;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @KMOV\r\n\u001b(B\u001b[m   Father: My twins who have autism are\u001b[1X\n\u001b[1K\rbeing bullied, school is doing nothing\r\n   about it https://t.co/CUcuxPAC55 http\u001b[21;40H\u001b[1K\rs://t.co/EqRBg4rw06\u001b[22;40H\u001b[1K\n\u001b[1K\u001b[1;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:40 \u001b(B\u001b[m\u001b[1;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000909,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:40 \u001b(B\u001b[m\u001b[1;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.328313,
+      "\u001b[1m\u001b[7m%\u001b(B\u001b[m                                      \u001b[1;42H \b"
+    ],
+    [
+      0.053777,
+      "\u001b[1;23r\u001b[2;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[1d\u001b[K\u001b[36m[~]\u001b[31m\u001b[1m$\u001b(B\u001b[m \u001b[K\u001b[32C \u001b[1;25r\u001b[1;47H\u001b[?2004h"
+    ],
+    [
+      1.54541,
+      "\u001b[32mt\u001b(B\u001b[m"
+    ],
+    [
+      0.21161,
+      "\b\u001b[32mt\u001b[39m "
+    ],
+    [
+      0.233047,
+      "s"
+    ],
+    [
+      0.296875,
+      "t"
+    ],
+    [
+      0.25507,
+      "r"
+    ],
+    [
+      0.032768,
+      "e"
+    ],
+    [
+      0.917652,
+      "a"
+    ],
+    [
+      0.554356,
+      "m"
+    ],
+    [
+      0.159207,
+      " "
+    ],
+    [
+      0.453254,
+      "l"
+    ],
+    [
+      0.103345,
+      "i"
+    ],
+    [
+      0.150749,
+      "s"
+    ],
+    [
+      0.149441,
+      "t"
+    ],
+    [
+      0.180339,
+      " "
+    ],
+    [
+      0.721174,
+      "s"
+    ],
+    [
+      0.382557,
+      "t"
+    ],
+    [
+      0.250773,
+      "."
+    ],
+    [
+      0.365649,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[1;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.433481,
+      "\b \b"
+    ],
+    [
+      0.307062,
+      "-"
+    ],
+    [
+      0.341312,
+      "l"
+    ],
+    [
+      0.195546,
+      "o"
+    ],
+    [
+      0.135771,
+      "u"
+    ],
+    [
+      0.105274,
+      "i"
+    ],
+    [
+      0.1371,
+      "s"
+    ],
+    [
+      0.252076,
+      "\u001b[2;42H\u001b[?2004l"
+    ],
+    [
+      1.51175,
+      "\u001b[33m\u001b[1m   @NassimBnchabane\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[3;42H\u001b[?12l\u001b[?25h/home/rtward/.gem/ruby/2.4.0/gems/thor-\u001b[4;42H0.20.0/lib/thor/shell/basic.rb:371: war\u001b[5;42Hning: Insecure world writable dir /opt/\u001b[6;42Handroid-sdk/platform-tools in PATH, mod\u001b[7;42He 040777\u001b[8;42H"
+    ],
+    [
+      0.012782,
+      "   RT @mattdpearce: Answer: Would-be \u001b[9;42H   donors failed give at least $76 \u001b[10;42H   million in promised pledges for \u001b[11;42H   Hurricane Harvey relief. Great wor… \u001b[12;42H   https://t.co/OFmcL6YyYs\u001b[14;42H"
+    ],
+    [
+      0.000306,
+      "\u001b[33m\u001b[1m   @stlouisbiz\u001b[15;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.000542,
+      "   Join us for the Agribusiness Summit \u001b[16;42H   Tuesday, November 14 at the Danforth\u001b[17;42H \u001b[18;42H   Plant Science Center: \u001b[19;42H   https://t.co/HyZBXuL3WF\u001b[20;42H\n"
+    ],
+    [
+      0.000382,
+      "\u001b[33m\u001b[1m   @stltoday\u001b[22;42H\u001b(B\u001b[m"
+    ],
+    [
+      0.00124,
+      "\u001b[?25l\u001b[1dandroid-sdk/platform-tools in PATH, mod\u001b[2;42He 040777\u001b[K\u001b[3;42H   RT @mattdpearce: Answer: Would-be\u001b[K\u001b[4;42H   donors failed give at least $76\u001b[K\u001b[5;42H   million in promised pledges for\u001b[K\u001b[6;42H   Hurricane Harvey relief. Great wor…\u001b[K\u001b[7;42H   https://t.co/OFmcL6YyYs\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[10;42H   Join us for the Agribusiness Summit\u001b[K\u001b[11;42H   Tuesday, November 14 at the Danforth\u001b[12;42H\u001b[K\n   Plant Science Center:\u001b[K\u001b[14;42H   https://t.co/HyZBXuL3WF\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[17;42H   CNN: Grand jury has approved charges\u001b[18;42H\u001b[K\n   in Mueller's investigation into\u001b[K\u001b[20;42H   Russian election involvement…\u001b[K\u001b[21;42H   https://t.co/tp6KEm4M45\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000307,
+      "\u001b[?25l\u001b[1de 040777\u001b[K\u001b[2;42H   RT @mattdpearce: Answer: Would-be\u001b[K\u001b[3;42H   donors failed give at least $76\u001b[K\u001b[4;42H   million in promised pledges for\u001b[K\u001b[5;42H   Hurricane Harvey relief. Great wor…\u001b[K\u001b[6;42H   https://t.co/OFmcL6YyYs\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[9;42H   Join us for the Agribusiness Summit\u001b[K\u001b[10;42H   Tuesday, November 14 at the Danforth\u001b[11;42H\u001b[K\n   Plant Science Center:\u001b[K\u001b[13;42H   https://t.co/HyZBXuL3WF\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[16;42H   CNN: Grand jury has approved charges\u001b[17;42H\u001b[K\n   in Mueller's investigation into\u001b[K\u001b[19;42H   Russian election involvement…\u001b[K\u001b[20;42H   https://t.co/tp6KEm4M45\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000752,
+      "\u001b[?25l\u001b[1d   million in promised pledges for\u001b[K\u001b[2;42H   Hurricane Harvey relief. Great wor…\u001b[K\u001b[3;42H   https://t.co/OFmcL6YyYs\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[6;42H   Join us for the Agribusiness Summit\u001b[K\u001b[7;42H   Tuesday, November 14 at the Danforth\u001b[8;42H\u001b[K\n   Plant Science Center:\u001b[K\u001b[10;42H   https://t.co/HyZBXuL3WF\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[13;42H   CNN: Grand jury has approved charges\u001b[14;42H\u001b[K\n   in Mueller's investigation into\u001b[K\u001b[16;42H   Russian election involvement…\u001b[K\u001b[17;42H   https://t.co/tp6KEm4M45\u001b[K\u001b[18;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[20;42H   RT @STLed: CNN: Grand jury has\u001b[K\u001b[21;42H   approved charges in Mueller's\u001b[K\u001b[22;42H   investigation into Russian election\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[3;42H   Join us for the Agribusiness Summit\u001b[K\u001b[4;42H   Tuesday, November 14 at the Danforth\u001b[5;42H\u001b[K\n   Plant Science Center:\u001b[K\u001b[7;42H   https://t.co/HyZBXuL3WF\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[1"
+    ],
+    [
+      7.4e-05,
+      "0;42H   CNN: Grand jury has approved charges\u001b[11;42H\u001b[K\n   in Mueller's investigation into\u001b[K\u001b[13;42H   Russian election involvement…\u001b[K\u001b[14;42H   https://t.co/tp6KEm4M45\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[17;42H   RT @STLed: CNN: Grand jury has\u001b[K\u001b[18;42H   approved charges in Mueller's\u001b[K\u001b[19;42H   investigation into Russian election\u001b[K\u001b[20;42H   involvement https://t.co/aSrfEXRhch\u001b[K\u001b[21;42H   via @stltoday\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000184,
+      "\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[2;42H   Join us for the Agribusiness Summit\u001b[K\u001b[3;42H   Tuesday, November 14 at the Danforth\u001b[4;42H\u001b[K\n   Plant Science Center:\u001b[K\u001b[6;42H   https://t.co/HyZBXuL3WF\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[9;42H   CNN: Grand jury has approved charges\u001b[10;42H\u001b[K\n   in Mueller's investigation into\u001b[K\u001b[12;42H   Russian election involvement…\u001b[K\u001b[13;42H   https://t.co/tp6KEm4M45\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[16;42H   RT @STLed: CNN: Grand jury has\u001b[K\u001b[17;42H   approved charges in Mueller's\u001b[K\u001b[18;42H   investigation into Russian election\u001b[K\u001b[19;42H   involvement https://t.co/aSrfEXRhch\u001b[K\u001b[20;42H   via @stltoday\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @NassimBnchabane\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001064,
+      "   RT @gillianbwhite: I’\u001b[24D"
+    ],
+    [
+      0.002115,
+      "\u001b[?25l\u001b[30m\u001b[40m\u001b[1m\u001b[1;41H│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[13;41H│\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b(B\u001b[m\u001b[30m\u001b[40m\r\n──\u001b[11C───────────────────────────\u001b[1m┴──\u001b[11C──────────────────────────\u001b[24;3H\u001b(B\u001b[m\u001b[30m\u001b[40m0 \"minerva\"\u001b[30C\u001b[1m\u001b[7m1\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m \"minerva\"\u001b[H\u001b(B\u001b[m   https://t.co/Y534AOkTPl\u001b[14X\u001b[2;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @BoingBoing\r\n\u001b(B\u001b[m   ‘Pay What You Want: White Hat Hacker\u001b[1X\r\n2017 Bundle,’ top deal in our store this\u001b[6;40H\u001b[1K\r\r\n   month. 63 hours of security training…\u001b[8;40H\u001b[1K\r https://t.co/uUdybObCW9\u001b[9;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @tonymess\r\n\u001b(B\u001b[m   RT @ShimonPro: Breaking now on CNN: F\r\nirst charges in the investigation led by\u001b[13;40H\u001b[1K\r\r\n   Special Counsel Robert Mueller have b\u001b[15;40H\u001b[1K\reen filed i"
+    ],
+    [
+      9.1e-05,
+      "n sealed indictments.\u001b[16;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @KMOV\r\n\u001b(B\u001b[m   Father: My twins who have autism are\u001b[1X\n\u001b[1K\rbeing bullied, school is doing nothing\r\n   about it https://t.co/CUcuxPAC55 http\u001b[21;40H\u001b[1K\rs://t.co/EqRBg4rw06\u001b[22;40H\u001b[1K\n\u001b[1K\u001b[1;42H\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[2;42H   CNN: Grand jury has approved charges\u001b[3;42H\u001b[K\n   in Mueller's investigation into\u001b[K\u001b[5;42H   Russian election involvement…\u001b[K\u001b[6;42H   https://t.co/tp6KEm4M45\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[9;42H   RT @STLed: CNN: Grand jury has\u001b[K\u001b[10;42H   approved charges in Mueller's\u001b[K\u001b[11;42H   investigation into Russian election\u001b[K\u001b[12;42H   involvement https://t.co/aSrfEXRhch\u001b[K\u001b[13;42H   via @stltoday\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @NassimBnchabane\u001b(B\u001b[m\u001b[K\u001b[16;42H   RT @gillianbwhite: I’m working on a\u001b[K\u001b[17;42H   story about sexual harassment on\u001b[K\u001b[18;42H   Wall St and in big law. If you’d\u001b[K\u001b[19;42H   like to talk:\u001b[K\u001b[20;42H   gillian@theatlantic.com, Signal, or\u001b[K\u001b[21;42H   DM\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[25;1H\u001b[37m\u001b[40m\u001b"
+    ],
+    [
+      6.3e-05,
+      "[1m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[23;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000137,
+      "\u001b[?25l\u001b[1d   story about sexual harassment on\u001b[K\u001b[2;42H   Wall St and in big law. If you’d\u001b[K\u001b[3;42H   like to talk:\u001b[K\u001b[4;42H   gillian@theatlantic.com, Signal, or\u001b[K\u001b[5;42H   DM\u001b[K\u001b[6;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[8;42H   Task force will begin meeting about\u001b[K\u001b[9;42H   who should run St. Louis Public\u001b[K\u001b[10;42H   Schools https://t.co/9WvPXR4qlv\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @PDPJ\u001b(B\u001b[m\u001b[K\u001b[13;42H   RT @aadlisenby: Votes in Congress by\u001b[14;42H\u001b[K\n   St. Louis area members on budget,\u001b[K\u001b[16;42H   drinking water, class-action\u001b[K\u001b[17;42H   lawsuits https://t.co/bBiNAwrJap via\u001b[18;42H\u001b[K\n   @stltoday\u001b[K\u001b[20;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[22;42H   Mighty cold for Katie Kult and the\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000143,
+      "\u001b[?25l\u001b[1d\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[3;42H   Task force will begin meeting about\u001b[K\u001b[4;42H   who should run St. Louis Public\u001b[K\u001b[5;42H   Schools https://t.co/9WvPXR4qlv\u001b[K\u001b[6;42H\u001b[K\n\u001b[33m\u001b[1m   @PDPJ\u001b(B\u001b[m\u001b[K\u001b[8;42H   RT @aadlisenby: Votes in Congress by\u001b[9;42H\u001b[K\n   St. Louis area members on budget,\u001b[K\u001b[11;42H   drinking water, class-action\u001b[K\u001b[12;42H   lawsuits https://t.co/bBiNAwrJap via\u001b[13;42H\u001b[K\n   @stltoday\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[17;42H   Mighty cold for Katie Kult and the\u001b[K\u001b[18;42H   Lindbergh High Marching Band tonight\u001b[19;42H\u001b[K\n   at the Class 6 District 1 game.\u001b[K\u001b[21;42H   #Brrrrrr https://t.co/4wAMhk9Ac5\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000132,
+      "\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[2;42H   Task force will begin meeting about\u001b[K\u001b[3;42H   who should run St. Louis Public\u001b[K\u001b[4;42H   Schools https://t.co/9WvPXR4qlv\u001b[K\u001b[5;42H\u001b[K\n\u001b[33m\u001b[1m   @PDPJ\u001b(B\u001b[m\u001b[K\u001b[7;42H   RT @aadlisenby: Votes in Congress by\u001b[8;42H\u001b[K\n   St. Louis area members on budget,\u001b[K\u001b[10;42H   drinking water, class-action\u001b[K\u001b[11;42H   lawsuits https://t.co/bBiNAwrJap via\u001b[12;42H\u001b[K\n   @stltoday\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[16;42H   Mighty cold for Katie Kult and the\u001b[K\u001b[17;42H   Lindbergh High Marching Band tonight\u001b[18;42H\u001b[K\n   at the Class 6 District 1 game.\u001b[K\u001b[20;42H   #Brrrrrr https://t.co/4wAMhk9Ac5\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001132,
+      "\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @PDPJ\u001b(B\u001b[m\u001b[K\u001b[2;42H   RT @aadlisenby: Votes in Congress by\u001b[3;42H\u001b[K\n   St. Louis area members on budget,\u001b[K\u001b[5;42H   drinking water, class-action\u001b[K\u001b[6;42H   lawsuits https://t.co/bBiNAwrJap via\u001b[7;42H\u001b[K\n   @stltoday\u001b[K\u001b[9;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[11;42H   Mighty cold for Katie Kult and the\u001b[K\u001b[12;42H   Lindbergh High Marching Band tonight\u001b[13;42H\u001b[K\n   at the Class 6 District 1 game.\u001b[K\u001b[15;42H   #Brrrrrr https://t.co/4wAMhk9Ac5\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[18;42H   When you see this in your FB\u001b[K\u001b[19;42H   notifications, you KNOW there’s some\u001b[20;42H\u001b[K\n   nastiness waiting on the other side.\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000679,
+      "\u001b[?25l\u001b[1d\u001b[K\n   St. Louis area members on budget,\u001b[K\u001b[3;42H   drinking water, class-action\u001b[K\u001b[4;42H   lawsuits https://t.co/bBiNAwrJap via\u001b[5;42H\u001b[K\n   @stltoday\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[9;42H   Mighty cold for Katie Kult and the\u001b[K\u001b[10;42H   Lindbergh High Marching Band tonight\u001b[11;42H\u001b[K\n   at the Class 6 District 1 game.\u001b[K\u001b[13;42H   #Brrrrrr https://t.co/4wAMhk9Ac5\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[16;42H   When you see this in your FB\u001b[K\u001b[17;42H   notifications, you KNOW there’s some\u001b[18;42H\u001b[K\n   nastiness waiting on the other side.\u001b[20;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   St. Louis area members on budget,\u001b[K\u001b[2;42H   drinking water, class-action\u001b[K\u001b[3;42H   lawsuits https://t.co/bBiNAwrJap via\u001b[4;42H\u001b[K\n   @stltoday\u001b[K\u001b[6;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[8;42H   Mighty cold for Katie Kult and the\u001b[K\u001b[9;42H   Lindbergh High Marching Band tonight\u001b[10;42H\u001b[K\n   at the Class 6 District 1 game.\u001b[K\u001b[12;42H   #Brrrrr"
+    ],
+    [
+      7.4e-05,
+      "r https://t.co/4wAMhk9Ac5\u001b[K\u001b[13;42H\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[15;42H   When you see this in your FB\u001b[K\u001b[16;42H   notifications, you KNOW there’s some\u001b[17;42H\u001b[K\n   nastiness waiting on the other side.\u001b[19;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00045,
+      "\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[2;42H   Mighty cold for Katie Kult and the\u001b[K\u001b[3;42H   Lindbergh High Marching Band tonight\u001b[4;42H\u001b[K\n   at the Class 6 District 1 game.\u001b[K\u001b[6;42H   #Brrrrrr https://t.co/4wAMhk9Ac5\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[9;42H   When you see this in your FB\u001b[K\u001b[10;42H   notifications, you KNOW there’s some\u001b[11;42H\u001b[K\n   nastiness waiting on the other side.\u001b[13;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[17;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[18;42H   forward with an appeal, Ryan Cousins\u001b[19;42H\u001b[K\n   will return to police work:\u001b[K\u001b[21;42H   https://t.co/48OFHchMI2\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000358,
+      "\u001b[?25l\u001b[1d   Mighty cold for Katie Kult and the\u001b[K\u001b[2;42H   Lindbergh High Marching Band tonight\u001b[3;42H\u001b[K\n   at the Class 6 District 1 game.\u001b[K\u001b[5;42H   #Brrrrrr https://t.co/4wAMhk9Ac5\u001b[K\u001b[6;42H\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[8;42H   When you see this in your FB\u001b[K\u001b[9;42H   notifications, you KNOW there’s some\u001b[10;42H\u001b[K\n   nastiness waiting on the other side.\u001b[12;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[16;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[17;42H   forward with an appeal, Ryan Cousins\u001b[18;42H\u001b[K\n   will return to police work:\u001b[K\u001b[20;42H   https://t.co/48OFHchMI2\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000422,
+      "\u001b[?25l\u001b[1d   #Brrrrrr https://t.co/4wAMhk9Ac5\u001b[K\u001b[2;42H\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[4;42H   When you see this in your FB\u001b[K\u001b[5;42H   notifications, you KNOW there’s some\u001b[6;42H\u001b[K\n   nastiness waiting on the other side.\u001b[8;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[10;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[12;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[13;42H   forward with an appeal, Ryan Cousins\u001b[14;42H\u001b[K\n   will return to police work:\u001b[K\u001b[16;42H   https://t.co/48OFHchMI2\u001b[K\u001b[17;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[19;42H   Halloween: more fun to plan for when\u001b[20;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[22;42H   federal government.\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00016,
+      "\u001b[?25l\u001b[1d\u001b[K\n\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[3;42H   When you see this in your FB\u001b[K\u001b[4;42H   notifications, you KNOW there’s some\u001b[5;42H\u001b[K\n   nastiness waiting on the other side.\u001b[7;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[9;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[11;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[12;42H   forward with an appeal, Ryan Cousins\u001b[13;42H\u001b[K\n   will return to police work:\u001b[K\u001b[15;42H   https://t.co/48OFHchMI2\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[18;42H   Halloween: more fun to plan for when\u001b[19;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[21;42H   federal government.\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00016,
+      "\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @tishaura\u001b(B\u001b[m\u001b[K\u001b[2;42H   When you see this in your FB\u001b[K\u001b[3;42H   notifications, you KNOW there’s some\u001b[4;42H\u001b[K\n   nastiness waiting on the other side.\u001b[6;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[10;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[11;42H   forward with an appeal, Ryan Cousins\u001b[12;42H\u001b[K\n   will return to police work:\u001b[K\u001b[14;42H   https://t.co/48OFHchMI2\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[17;42H   Halloween: more fun to plan for when\u001b[18;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[20;42H   federal government.\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000483,
+      "\u001b[?25l\u001b[1d   When you see this in your FB\u001b[K\u001b[2;42H   notifications, you KNOW there’s some\u001b[3;42H\u001b[K\n   nastiness waiting on the other side.\u001b[5;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[9;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[10;42H   forward with an appeal, Ryan Cousins\u001b[11;42H\u001b[K\n   will return to police work:\u001b[K\u001b[13;42H   https://t.co/48OFHchMI2\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[16;42H   Halloween: more fun to plan for when\u001b[17;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[19;42H   federal government.\u001b[K\u001b[20;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[22;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[23;42H   crime spree in Maryland Heights\u001b[K\u001b[C\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000125,
+      "\u001b[?25l\u001b[1;42H   nastiness waiting on the other side.\u001b[2;42H\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[6;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[7;42H   forward with an appeal, Ryan Cousins\u001b[8;42H\u001b[K\n   will return to police work:\u001b[K\u001b[10;42H   https://t.co/48OFHchMI2\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[13;42H   Halloween: more fun to plan for when\u001b[14;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[16;42H   federal government.\u001b[K\u001b[17;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[19;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[20;42H   crime spree in Maryland Heights\u001b[K\u001b[21;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000313,
+      "\u001b[?25l\u001b[1d\u001b[K\n   #ClickBait https://t.co/EUMWA4D6mQ\u001b[K\u001b[3;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[5;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[6;42H   forward with an appeal, Ryan Cousins\u001b[7;42H\u001b[K\n   will return to police work:\u001b[K\u001b[9;42H   https://t.co/48OFHchMI2\u001b[K\u001b[10;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[12;42H   Halloween: more fun to plan for when\u001b[13;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[15;42H   federal government.\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[18;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[19;42H   crime spree in Maryland Heights\u001b[K\u001b[20;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00049,
+      "\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[2;42H   RT @JDKarins: As the SLMLD moves\u001b[K\u001b[3;42H   forward with an appeal, Ryan Cousins\u001b[4;42H\u001b[K\n   will return to police work:\u001b[K\u001b[6;42H   https://t.co/48OFHchMI2\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[9;42H   Halloween: more fun to plan for when\u001b[10;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[12;42H   federal government.\u001b[K\u001b[13;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[15;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[16;42H   crime spree in Maryland Heights\u001b[K\u001b[17;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[18;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[20;42H   $2.25 million and above: the 22 most\u001b[21;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000173,
+      "\u001b[?25l\u001b[1d   forward with an appeal, Ryan Cousins\u001b[2;42H\u001b[K\n   will return to police work:\u001b[K\u001b[4;42H   https://t.co/48OFHchMI2\u001b[K\u001b[5;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[7;42H   Halloween: more fun to plan for when\u001b[8;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[10;42H   federal government.\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[13;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[14;42H   crime spree in Maryland Heights\u001b[K\u001b[15;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[18;42H   $2.25 million and above: the 22 most\u001b[19;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[21;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000223,
+      "\u001b[?25l\u001b[1d\u001b[K\n   will return to police work:\u001b[K\u001b[3;42H   https://t.co/48OFHchMI2\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[6;42H   Halloween: more fun to plan for when\u001b[7;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[9;42H   federal government.\u001b[K\u001b[10;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[12;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[13;42H   crime spree in Maryland Heights\u001b[K\u001b[14;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[17;42H   $2.25 million and above: the 22 most\u001b[18;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[20;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000365,
+      "\u001b[?25l\u001b[1d\u001b[K\n\u001b[33m\u001b[1m   @chriskingstl\u001b(B\u001b[m\u001b[K\u001b[3;42H   Halloween: more fun to plan for when\u001b[4;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[6;42H   federal government.\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[9;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[10;42H   crime spree in Maryland Heights\u001b[K\u001b[11;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[12;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[14;42H   $2.25 million and above: the 22 most\u001b[15;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[17;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[18;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[20;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[21;42H   improve to 8-2-1\u001b[K\u001b[22;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00476,
+      "\u001b[?25l\u001b[1d   Halloween: more fun to plan for when\u001b[2;42H\u001b[K\n   actual monsters are not running out\u001b[K\u001b[4;42H   federal government.\u001b[K\u001b[5;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[7;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[8;42H   crime spree in Maryland Heights\u001b[K\u001b[9;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[10;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[12;42H   $2.25 million and above: the 22 most\u001b[13;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[15;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[18;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[19;42H   improve to 8-2-1\u001b[K\u001b[20;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[21;42H   https://t.co/3nzbObObLC\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000134,
+      "\u001b[?25l\u001b[1d\u001b[K\n   actual monsters are not running out\u001b[K\u001b[3;42H   federal government.\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[6;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[7;42H   crime spree in Maryland Heights\u001b[K\u001b[8;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[9;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[11;42H   $2.25 million and above: the 22 most\u001b[12;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[14;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[17;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[18;42H   improve to 8-2-1\u001b[K\u001b[19;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[20;42H   https://t.co/3nzbObObLC\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   federal government.\u001b[K\u001b[2;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[4;42H   Pumpkin-nappers try to carve out a\u001b[K\u001b[5;42H   crime spree in Maryland Heights\u001b[K\u001b[6;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[9;42H   $2.25 million and above: the 22 most\u001b[10;42H\u001b[K\n   expensive St. Louis"
+    ],
+    [
+      0.000157,
+      " homes sold in\u001b[K\u001b[12;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[13;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[15;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[16;42H   improve to 8-2-1\u001b[K\u001b[17;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[18;42H   https://t.co/3nzbObObLC\u001b[K\u001b[19;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[21;42H   Former Washington U. dean of\u001b[K\u001b[22;42H   students, known as 'MOperv' online,\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   Pumpkin-nappers try to carve out a\u001b[K\u001b[2;42H   crime spree in Maryland Heights\u001b[K\u001b[3;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[6;42H   $2.25 million and above: the 22 most\u001b[7;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[9;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[10;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[12;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[13;42H   improve to 8-2-1\u001b[K\u001b[14;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[15;42H   https://t.co/3nzbObObLC\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[18;42H   Former Washington U. dean of\u001b[K\u001b[19;42H   students, know"
+    ],
+    [
+      0.000114,
+      "n as 'MOperv' online,\u001b[K\u001b[20;42H   headed to prison for child porn\u001b[K\u001b[21;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   crime spree in Maryland Heights\u001b[K\u001b[2;42H   https://t.co/16x9mzrfqA\u001b[K\u001b[3;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[5;42H   $2.25 million and above: the 22 most\u001b[6;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[8;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[9;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[11;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[12;42H   improve to 8-2-1\u001b[K\u001b[13;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[14;42H   https://t.co/3nzbObObLC\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[17;42H   Former Washington U. dean of\u001b[K\u001b[18;42H   students, known as 'MOperv' online,\u001b[K\u001b[19;42H   headed to prison for child porn\u001b[K\u001b[20;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   https://t.co/16x9mzrfqA\u001b[K\u001b[2;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[4;42H   $2.25 million and above: the 22 most\u001b[5;42H\u001b[K\n   expensive St"
+    ],
+    [
+      6.5e-05,
+      ". Louis homes sold in\u001b[K\u001b[7;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[10;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[11;42H   improve to 8-2-1\u001b[K\u001b[12;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[13;42H   https://t.co/3nzbObObLC\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[16;42H   Former Washington U. dean of\u001b[K\u001b[17;42H   students, known as 'MOperv' online,\u001b[K\u001b[18;42H   headed to prison for child porn\u001b[K\u001b[19;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[20;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[22;42H   FYI. Very interesting...\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[2;42H   $2.25 million and above: the 22 most\u001b[3;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[5;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[6;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[8;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[9;42H   improve to 8-2-1\u001b[K\u001b[10;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[11;42H   https://t.co/3nzbObObLC\u001b[K\u001b[12;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[14;42H   Former Washington U. de"
+    ],
+    [
+      3.1e-05,
+      "an of\u001b[K\u001b[15;42H   students, known as 'MOperv' online,\u001b[K\u001b[16;42H   headed to prison for child porn\u001b[K\u001b[17;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[18;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[20;42H   FYI. Very interesting...\u001b[K\u001b[21;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   $2.25 million and above: the 22 most\u001b[2;42H\u001b[K\n   expensive St. Louis homes sold in\u001b[K\u001b[4;42H   2017 - https://t.co/242qaq3ug4\u001b[K\u001b[5;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[7;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[8;42H   improve to 8-2-1\u001b[K\u001b[9;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[10;42H   https://t.co/3nzbObObLC\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[13;42H   Former Washington U. dean of\u001b[K\u001b[14;42H   students, known as 'MOperv' online,\u001b[K\u001b[15;42H   headed to prison for child porn\u001b[K\u001b[16;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[17;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[19;42H   FYI. Very interesting...\u001b[K\u001b[20;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   "
+    ],
+    [
+      2.5e-05,
+      "2017 - https://t.co/242qaq3ug4\u001b[K\u001b[2;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[4;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[5;42H   improve to 8-2-1\u001b[K\u001b[6;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[7;42H   https://t.co/3nzbObObLC\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[10;42H   Former Washington U. dean of\u001b[K\u001b[11;42H   students, known as 'MOperv' online,\u001b[K\u001b[12;42H   headed to prison for child porn\u001b[K\u001b[13;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[16;42H   FYI. Very interesting...\u001b[K\u001b[17;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[18;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[20;42H   Facing charge of murdering a\u001b[K\u001b[21;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[22;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[3;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[4;42H   improve to 8-2-1\u001b[K\u001b[5;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[6;42H   https://t.co/3nzbObObLC\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[9;42H   Former Washington U. dean "
+    ],
+    [
+      4.8e-05,
+      "of\u001b[K\u001b[10;42H   students, known as 'MOperv' online,\u001b[K\u001b[11;42H   headed to prison for child porn\u001b[K\u001b[12;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[13;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[15;42H   FYI. Very interesting...\u001b[K\u001b[16;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[17;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[19;42H   Facing charge of murdering a\u001b[K\u001b[20;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[21;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[2;42H   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[3;42H   improve to 8-2-1\u001b[K\u001b[4;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[5;42H   https://t.co/3nzbObObLC\u001b[K\u001b[6;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[8;42H   Former Washington U. dean of\u001b[K\u001b[9;42H   students, known as 'MOperv' online,\u001b[K\u001b[10;42H   headed to prison for child porn\u001b[K\u001b[11;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[12;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[14;42H   FYI. Very interesting...\u001b[K\u001b[15;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[18;"
+    ],
+    [
+      3.7e-05,
+      "42H   Facing charge of murdering a\u001b[K\u001b[19;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[20;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   Final: Blues beat Hurricanes 2-1,\u001b[K\u001b[2;42H   improve to 8-2-1\u001b[K\u001b[3;42H   https://t.co/ZIJD62Qv6F\u001b[K\u001b[4;42H   https://t.co/3nzbObObLC\u001b[K\u001b[5;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[7;42H   Former Washington U. dean of\u001b[K\u001b[8;42H   students, known as 'MOperv' online,\u001b[K\u001b[9;42H   headed to prison for child porn\u001b[K\u001b[10;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[13;42H   FYI. Very interesting...\u001b[K\u001b[14;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[17;42H   Facing charge of murdering a\u001b[K\u001b[18;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[19;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[20;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[22;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[23;42H   Regional Business Council grants:\u001b[K\u001b[C\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1;"
+    ],
+    [
+      3e-05,
+      "42H   https://t.co/3nzbObObLC\u001b[K\u001b[2;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[4;42H   Former Washington U. dean of\u001b[K\u001b[5;42H   students, known as 'MOperv' online,\u001b[K\u001b[6;42H   headed to prison for child porn\u001b[K\u001b[7;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[10;42H   FYI. Very interesting...\u001b[K\u001b[11;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[12;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[14;42H   Facing charge of murdering a\u001b[K\u001b[15;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[16;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[17;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[19;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[20;42H   Regional Business Council grants:\u001b[K\u001b[21;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[3;42H   Former Washington U. dean of\u001b[K\u001b[4;42H   students, known as 'MOperv' online,\u001b[K\u001b[5;42H   headed to prison for child porn\u001b[K\u001b[6;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[9;42H   FYI. Very interest"
+    ],
+    [
+      3.6e-05,
+      "ing...\u001b[K\u001b[10;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[13;42H   Facing charge of murdering a\u001b[K\u001b[14;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[15;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[18;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[19;42H   Regional Business Council grants:\u001b[K\u001b[20;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   students, known as 'MOperv' online,\u001b[K\u001b[2;42H   headed to prison for child porn\u001b[K\u001b[3;42H   https://t.co/K4sPo6ixxa\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[6;42H   FYI. Very interesting...\u001b[K\u001b[7;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[10;42H   Facing charge of murdering a\u001b[K\u001b[11;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[12;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[13;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[15;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[16;42H   Regional Business Council g"
+    ],
+    [
+      0.000578,
+      "rants:\u001b[K\u001b[17;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[18;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[20;42H   A game winning kick for Lindbergh\u001b[K\u001b[21;42H   High's Garret Butz as the Flyers\u001b[K\u001b[22;42H   upset Kirkwood 16-14.\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   https://t.co/K4sPo6ixxa\u001b[K\u001b[2;42H\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b[K\u001b[4;42H   FYI. Very interesting...\u001b[K\u001b[5;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[6;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[8;42H   Facing charge of murdering a\u001b[K\u001b[9;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[10;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[11;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[13;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[14;42H   Regional Business Council grants:\u001b[K\u001b[15;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[16;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[18;42H   A game winning kick for Lindbergh\u001b[K\u001b[19;42H   High's Garret Butz as the Flyers\u001b[K\u001b[20;42H   upset Kirkwood 16-14.\u001b[K\u001b[21;42H   https://t.co/KarDIbycjN\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d\u001b[K\n\u001b[33m\u001b[1m   @jmannies\u001b(B\u001b[m\u001b"
+    ],
+    [
+      8.1e-05,
+      "[K\u001b[3;42H   FYI. Very interesting...\u001b[K\u001b[4;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[5;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[7;42H   Facing charge of murdering a\u001b[K\u001b[8;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[9;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[10;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[12;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[13;42H   Regional Business Council grants:\u001b[K\u001b[14;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[17;42H   A game winning kick for Lindbergh\u001b[K\u001b[18;42H   High's Garret Butz as the Flyers\u001b[K\u001b[19;42H   upset Kirkwood 16-14.\u001b[K\u001b[20;42H   https://t.co/KarDIbycjN\u001b[K\u001b[21;42H\u001b[K\n\u001b[33m\u001b[1m   @tonymess\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   FYI. Very interesting...\u001b[K\u001b[2;42H   https://t.co/z6TzyFlDDA\u001b[K\u001b[3;42H\u001b[K\n\u001b[33m\u001b[1m   @stltoday\u001b(B\u001b[m\u001b[K\u001b[5;42H   Facing charge of murdering a\u001b[K\u001b[6;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[7;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[10;42H   19 nonprofits to"
+    ],
+    [
+      2.9e-05,
+      " share $120,000 in\u001b[K\u001b[11;42H   Regional Business Council grants:\u001b[K\u001b[12;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[13;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[15;42H   A game winning kick for Lindbergh\u001b[K\u001b[16;42H   High's Garret Butz as the Flyers\u001b[K\u001b[17;42H   upset Kirkwood 16-14.\u001b[K\u001b[18;42H   https://t.co/KarDIbycjN\u001b[K\u001b[19;42H\u001b[K\n\u001b[33m\u001b[1m   @tonymess\u001b(B\u001b[m\u001b[K\u001b[21;42H   RT @ShimonPro: Breaking now on CNN:\u001b[K\u001b[22;42H   First charges in the investigation\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?25l\u001b[1d   Facing charge of murdering a\u001b[K\u001b[2;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[3;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[6;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[7;42H   Regional Business Council grants:\u001b[K\u001b[8;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[9;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[11;42H   A game winning kick for Lindbergh\u001b[K\u001b[12;42H   High's Garret Butz as the Flyers\u001b[K\u001b[13;42H   upset Kirkwood 16-14.\u001b[K\u001b[14;42H   https://t.co/KarDIbycjN\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @tonyme"
+    ],
+    [
+      3.1e-05,
+      "ss\u001b(B\u001b[m\u001b[K\u001b[17;42H   RT @ShimonPro: Breaking now on CNN:\u001b[K\u001b[18;42H   First charges in the investigation\u001b[K\u001b[19;42H   led by Special Counsel Robert\u001b[K\u001b[20;42H   Mueller have been filed in sealed\u001b[K\u001b[21;42H   indictments.\u001b[K\u001b[22;42H\u001b[K\n\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      7.195773,
+      "\u001b[?25l\u001b[30m\u001b[40m\u001b[1;41H│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[1m\u001b[13;41H├\u001b(B\u001b[m\u001b[30m\u001b[40m──\u001b[11C──────────────────────────\u001b[1m\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b(B\u001b[m\u001b[30m\u001b[40m\r\n──\u001b[11C───────────────────────────\u001b[1m┴──\u001b[11C──────────────────────────\u001b[24;3H\u001b(B\u001b[m\u001b[30m\u001b[40m0 \"minerva\"\u001b[13;44H1 \"minerva\"\u001b[24;44H\u001b[1m\u001b[7m2\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m \"minerva\"\u001b[H\u001b(B\u001b[m   https://t.co/Y534AOkTPl\u001b[14X\u001b[2;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @BoingBoing\r\n\u001b(B\u001b[m   ‘Pay What You Want: White Hat Hacker\u001b[1X\r\n2017 Bundle,’ top deal in our store this\u001b[6;40H\u001b[1K\r\r\n   month. 63 hours of security training…\u001b[8;40H\u001b[1K\r https://t.co/uUdybObCW9\u001b[9;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @tonymess\r\n\u001b(B\u001b[m   RT @ShimonPro: Breaking now"
+    ],
+    [
+      0.000103,
+      " on CNN: F\r\nirst charges in the investigation led by\u001b[13;40H\u001b[1K\r\r\n   Special Counsel Robert Mueller have b\u001b[15;40H\u001b[1K\reen filed in sealed indictments.\u001b[16;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @KMOV\r\n\u001b(B\u001b[m   Father: My twins who have autism are\u001b[1X\n\u001b[1K\rbeing bullied, school is doing nothing\r\n   about it https://t.co/CUcuxPAC55 http\u001b[21;40H\u001b[1K\rs://t.co/EqRBg4rw06\u001b[22;40H\u001b[1K\n\u001b[1K\u001b[1;42H   High's Garret Butz as the Flyers\u001b[K\u001b[2;42H   upset Kirkwood 16-14.\u001b[K\u001b[3;42H   https://t.co/KarDIbycjN\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @tonymess\u001b(B\u001b[m\u001b[K\u001b[6;42H   RT @ShimonPro: Breaking now on CNN:\u001b[K\u001b[7;42H   First charges in the investigation\u001b[K\u001b[8;42H   led by Special Counsel Robert\u001b[K\u001b[9;42H   Mueller have been filed in sealed\u001b[K\u001b[10;42H   indictments.\u001b[K\u001b[11;42H\u001b[K\n\u001b[K\u001b[2B\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[14;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001577,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[14;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.289325,
+      "\u001b[1m\u001b[7m%\u001b(B\u001b[m                                      \u001b[14;42H \b"
+    ],
+    [
+      0.054778,
+      "\u001b[14;23r\u001b[15;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[14d\u001b[K\u001b[36m[~]\u001b[31m\u001b[1m$\u001b(B\u001b[m \u001b[K\u001b[32C \u001b[1;25r\u001b[14;47H\u001b[?2004h"
+    ],
+    [
+      1.233479,
+      "\u001b[32mt\u001b(B\u001b[m"
+    ],
+    [
+      0.366432,
+      "\b\u001b[32mt\u001b[39m "
+    ],
+    [
+      0.371564,
+      "u"
+    ],
+    [
+      0.168248,
+      "p"
+    ],
+    [
+      0.207509,
+      "d"
+    ],
+    [
+      0.131707,
+      "a"
+    ],
+    [
+      0.120444,
+      "t"
+    ],
+    [
+      0.063024,
+      "e"
+    ],
+    [
+      0.610668,
+      " "
+    ],
+    [
+      0.503077,
+      "\u001b[33m\"\u001b(B\u001b[m"
+    ],
+    [
+      0.629103,
+      "\b\u001b[33m\"t\u001b(B\u001b[m"
+    ],
+    [
+      0.104635,
+      "\b\u001b[33mte\u001b(B\u001b[m"
+    ],
+    [
+      0.195272,
+      "\b\u001b[33mes\u001b(B\u001b[m"
+    ],
+    [
+      0.12084,
+      "\b\u001b[33mst\u001b(B\u001b[m"
+    ],
+    [
+      0.234011,
+      "\b\u001b[33mti\u001b(B\u001b[m"
+    ],
+    [
+      0.117023,
+      "\b\u001b[33min\u001b(B\u001b[m"
+    ],
+    [
+      0.113786,
+      "\b\u001b[33mng\u001b(B\u001b[m"
+    ],
+    [
+      0.136339,
+      "\b\u001b[33mg \u001b(B\u001b[m"
+    ],
+    [
+      0.234729,
+      "\b\u001b[33m t\u001b(B\u001b[m"
+    ],
+    [
+      0.098991,
+      "\b\u001b[33mte\u001b(B\u001b[m"
+    ],
+    [
+      0.183158,
+      "\b\u001b[33mes\u001b(B\u001b[m"
+    ],
+    [
+      0.116932,
+      "\b\u001b[33mst\u001b(B\u001b[m"
+    ],
+    [
+      0.114068,
+      "\b\u001b[33mti\u001b(B\u001b[m"
+    ],
+    [
+      0.120289,
+      "\b\u001b[33min\u001b(B\u001b[m"
+    ],
+    [
+      0.129775,
+      "\b\u001b[33mng\u001b(B\u001b[m"
+    ],
+    [
+      0.119736,
+      "\b\u001b[33mg \u001b(B\u001b[m"
+    ],
+    [
+      0.282961,
+      "\b\u001b[33m 1\u001b(B\u001b[m"
+    ],
+    [
+      0.232667,
+      "\b\u001b[33m12\u001b(B\u001b[m"
+    ],
+    [
+      0.330215,
+      "\b\u001b[33m23\u001b(B\u001b[m"
+    ],
+    [
+      0.704537,
+      "\b\u001b[33m3\"\u001b(B\u001b[m"
+    ],
+    [
+      4.905447,
+      "\u001b[15;42H\u001b[?2004l"
+    ],
+    [
+      0.000712,
+      "\u001b[1m\u001b[7m%\u001b(B\u001b[m                                      \u001b[15;42H \b"
+    ],
+    [
+      0.015254,
+      "\u001b[14;23r\u001b[16;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[15d\u001b[K\u001b[36m[~]\u001b[31m\u001b[1m$\u001b(B\u001b[m \u001b[K\u001b[32C \u001b[1;25r\u001b[15;47H\u001b[?2004h"
+    ],
+    [
+      0.987572,
+      "\u001b[32mt\u001b(B\u001b[m"
+    ],
+    [
+      0.422469,
+      "\b\u001b[32mt\u001b[39m "
+    ],
+    [
+      0.227703,
+      "f"
+    ],
+    [
+      0.201185,
+      "o"
+    ],
+    [
+      0.208932,
+      "l"
+    ],
+    [
+      0.026565,
+      "\u001b[?25l\u001b[1;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @BoingBoing\r\n\u001b(B\u001b[m   ‘Pay What You Want: White Hat Hacker\u001b[1X\r\n2017 Bundle,’ top deal in our store this\u001b[5;40H\u001b[1K\r\r\n   month. 63 hours of security training…\u001b[7;40H\u001b[1K\r https://t.co/uUdybObCW9\u001b[8;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @tonymess\r\n\u001b(B\u001b[m   RT @ShimonPro: Breaking now on CNN: F\r\nirst charges in the investigation led by\u001b[12;40H\u001b[1K\r\r\n   Special Counsel Robert Mueller have b\u001b[14;40H\u001b[1K\reen filed in sealed indictments.\u001b[15;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @KMOV\r\n\u001b(B\u001b[m   Father: My twins who have autism are\u001b[1X\n\u001b[1K\rbeing bullied, school is doing nothing\r\n   about it https://t.co/CUcuxPAC55 http\u001b[20;40H\u001b[1K\rs://t.co/EqRBg4rw06\u001b[21;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @petersagal\u001b(B\u001b[m\u001b[23;40H\u001b[1K\u001b[15;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.015567,
+      "\u001b[?25l\u001b[H   ‘Pay What You Want: White Hat Hacker\u001b[1X\r\n2017 Bundle,’ top deal in our store this\u001b[3;40H\u001b[1K\r\r\n   month. 63 hours of security training…\u001b[5;40H\u001b[1K\r https://t.co/uUdybObCW9\u001b[6;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @tonymess\r\n\u001b(B\u001b[m   RT @ShimonPro: Breaking now on CNN: F\r\nirst charges in the investigation led by\u001b[10;40H\u001b[1K\r\r\n   Special Counsel Robert Mueller have b\u001b[12;40H\u001b[1K\reen filed in sealed indictments.\u001b[13;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @KMOV\r\n\u001b(B\u001b[m   Father: My twins who have autism are\u001b[1X\n\u001b[1K\rbeing bullied, school is doing nothing\r\n   about it https://t.co/CUcuxPAC55 http\u001b[18;40H\u001b[1K\rs://t.co/EqRBg4rw06\u001b[19;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @petersagal\r\n\u001b(B\u001b[m   Saw Bob Dylan play tonight. No\u001b[7X\r\n   pictures allowed, so just imagine a\u001b[2X\u001b[23;40H\u001b[1K\u001b[15;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      8.3e-05,
+      "\u001b[?25l\u001b[1;40H\u001b[1K\u001b[H\r\n   month. 63 hours of security training…\u001b[3;40H\u001b[1K\r https://t.co/uUdybObCW9\u001b[4;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @tonymess\r\n\u001b(B\u001b[m   RT @ShimonPro: Breaking now on CNN: F\r\nirst charges in the investigation led by\u001b[8;40H\u001b[1K\r\r\n   Special Counsel Robert Mueller have b\u001b[10;40H\u001b[1K\reen filed in sealed indictments.\u001b[11;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @KMOV\r\n\u001b(B\u001b[m   Father: My twins who have autism are\u001b[1X\n\u001b[1K\rbeing bullied, school is doing nothing\r\n   about it https://t.co/CUcuxPAC55 http\u001b[16;40H\u001b[1K\rs://t.co/EqRBg4rw06\u001b[17;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @petersagal\r\n\u001b(B\u001b[m   Saw Bob Dylan play tonight. No\u001b[7X\r\n   pictures allowed, so just imagine a\u001b[2X\r\n   lot of happy white people.\u001b[11X\u001b[22;40H\u001b[1K\n\u001b[1K\u001b[15;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.148926,
+      "l"
+    ],
+    [
+      0.155464,
+      "o"
+    ],
+    [
+      0.13523,
+      "w"
+    ],
+    [
+      0.168844,
+      " "
+    ],
+    [
+      0.356361,
+      "S"
+    ],
+    [
+      0.192616,
+      "w"
+    ],
+    [
+      0.192814,
+      "i"
+    ],
+    [
+      0.166608,
+      "f"
+    ],
+    [
+      0.171421,
+      "t"
+    ],
+    [
+      0.659017,
+      "O"
+    ],
+    [
+      0.315063,
+      "n"
+    ],
+    [
+      0.28678,
+      "S"
+    ],
+    [
+      0.198439,
+      "e"
+    ],
+    [
+      0.23292,
+      "c"
+    ],
+    [
+      0.21743,
+      "u"
+    ],
+    [
+      0.15708,
+      "r"
+    ],
+    [
+      0.14965,
+      "i"
+    ],
+    [
+      0.171844,
+      "t"
+    ],
+    [
+      0.134916,
+      "y"
+    ],
+    [
+      2.472781,
+      "\u001b[16;42H\u001b[?2004l"
+    ],
+    [
+      0.982113,
+      "@rtward is now following 0 more users.\u001b[18;42HRun `t unfollow ` to stop.\u001b[19;42H"
+    ],
+    [
+      0.001789,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[19;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.021908,
+      "\u001b[1m\u001b[7m%\u001b(B\u001b[m                                      \u001b[19;42H \b"
+    ],
+    [
+      0.011969,
+      "\u001b[14;23r\u001b[20;42H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[4A\u001b[K\u001b[36m[~]\u001b[32m\u001b[1m$\u001b(B\u001b[m \u001b[K\u001b[32C \u001b[1;25r\u001b[19;47H\u001b[?2004h"
+    ],
+    [
+      5.227352,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[19;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.561893,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m"
+    ],
+    [
+      0.274532,
+      "\b\u001b[32mex\u001b(B\u001b[m"
+    ],
+    [
+      0.272368,
+      "\b\b\u001b[31m\u001b[1mexi\u001b(B\u001b[m"
+    ],
+    [
+      0.195141,
+      "\u001b[3D\u001b[32mexit\u001b(B\u001b[m"
+    ],
+    [
+      0.14986,
+      "\u001b[20;42H\u001b[?2004l"
+    ],
+    [
+      0.032815,
+      "\u001b[?25l\u001b[30m\u001b[40m\u001b[1m\u001b[1;41H│\u001b[2;41H│\u001b[3;41H│\u001b[4;41H│\u001b[5;41H│\u001b[6;41H│\u001b[7;41H│\u001b[8;41H│\u001b[9;41H│\u001b[10;41H│\u001b[11;41H│\u001b[12;41H│\u001b[13;41H│\u001b[14;41H│\u001b[15;41H│\u001b[16;41H│\u001b[17;41H│\u001b[18;41H│\u001b[19;41H│\u001b[20;41H│\u001b[21;41H│\u001b[22;41H│\u001b[23;41H│\u001b(B\u001b[m\u001b[30m\u001b[40m\r\n──\u001b[11C───────────────────────────\u001b[1m┴──\u001b[11C──────────────────────────\u001b[24;3H\u001b(B\u001b[m\u001b[30m\u001b[40m0 \"minerva\"\u001b[30C\u001b[1m\u001b[7m1\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m \"minerva\"\u001b[H\u001b(B\u001b[m\u001b[39C\u001b[1K\u001b[H\r\n   month. 63 hours of security training…\u001b[3;40H\u001b[1K\r https://t.co/uUdybObCW9\u001b[4;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @tonymess\r\n\u001b(B\u001b[m   RT @ShimonPro: Breaking now on CNN: F\r\nirst charges in the investigation led by\u001b[8;40H\u001b[1K\r\r\n   Special Counsel Robert Mueller have b\u001b[10;40H\u001b[1K\reen filed in sealed indictments.\u001b[11;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @KMOV\r\n\u001b(B\u001b[m   Father: My twins who have autism are\u001b[1X\n\u001b[1K\rbeing bullied, school is doing nothing\r\n   about it http"
+    ],
+    [
+      3.5e-05,
+      "s://t.co/CUcuxPAC55 http\u001b[16;40H\u001b[1K\rs://t.co/EqRBg4rw06\u001b[17;40H\u001b[1K\n\u001b[1K\r\u001b[33m\u001b[1m   @petersagal\r\n\u001b(B\u001b[m   Saw Bob Dylan play tonight. No\u001b[7X\r\n   pictures allowed, so just imagine a\u001b[2X\r\n   lot of happy white people.\u001b[11X\u001b[22;40H\u001b[1K\n\u001b[1K\u001b[1;42H   Facing charge of murdering a\u001b[K\u001b[2;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[3;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[4;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[6;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[7;42H   Regional Business Council grants:\u001b[K\u001b[8;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[9;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[11;42H   A game winning kick for Lindbergh\u001b[K\u001b[12;42H   High's Garret Butz as the Flyers\u001b[K\u001b[13;42H   upset Kirkwood 16-14.\u001b[K\u001b[14;42H   https://t.co/KarDIbycjN\u001b[K\u001b[15;42H\u001b[K\n\u001b[33m\u001b[1m   @tonymess\u001b(B\u001b[m\u001b[K\u001b[17;42H   RT @ShimonPro: Breaking now on CNN:\u001b[K\u001b[18;42H   First charges in the investigation\u001b[K\u001b[19;42H   led by Special Counsel Robert\u001b[K\u001b[20;42H   Mueller have been filed in sealed\u001b[K\u001b[21;42H   indictments.\u001b[K\u001b[22;42H\u001b[K\n\u001b[K"
+    ],
+    [
+      2e-05,
+      "\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[23;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.252024,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[23;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.878316,
+      "^C"
+    ],
+    [
+      0.023793,
+      "\u001b[?25l\u001b[1;42H   Missouri KKK leader, a mother turns\u001b[K\u001b[2;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[3;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[5;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[6;42H   Regional Business Council grants:\u001b[K\u001b[7;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[8;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[10;42H   A game winning kick for Lindbergh\u001b[K\u001b[11;42H   High's Garret Butz as the Flyers\u001b[K\u001b[12;42H   upset Kirkwood 16-14.\u001b[K\u001b[13;42H   https://t.co/KarDIbycjN\u001b[K\u001b[14;42H\u001b[K\n\u001b[33m\u001b[1m   @tonymess\u001b(B\u001b[m\u001b[K\u001b[16;42H   RT @ShimonPro: Breaking now on CNN:\u001b[K\u001b[17;42H   First charges in the investigation\u001b[K\u001b[18;42H   led by Special Counsel Robert\u001b[K\u001b[19;42H   Mueller have been filed in sealed\u001b[K\u001b[20;42H   indictments.\u001b[K\u001b[21;42H\u001b[K\n^C\u001b[1m\u001b[7m%\u001b(B\u001b[m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.013805,
+      "\u001b[1;23r\u001b[23;42H\u001b[K\u001b[36m[~]\u001b[31m\u001b[1m$\u001b(B\u001b[m \u001b[K\u001b[32C \u001b[1;25r\u001b[23;47H\u001b[?2004h"
+    ],
+    [
+      0.50636,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[23;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006431,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m"
+    ],
+    [
+      0.202014,
+      "\b\u001b[32mex\u001b(B\u001b[m"
+    ],
+    [
+      0.133216,
+      "\b\b\u001b[31m\u001b[1mexi\u001b(B\u001b[m"
+    ],
+    [
+      0.117396,
+      "\u001b[3D\u001b[32mexit\u001b(B\u001b[m"
+    ],
+    [
+      0.148157,
+      "\u001b[?25l\u001b[1;42H   on her son https://t.co/vHf8PTTn6X\u001b[K\u001b[2;42H\u001b[K\n\u001b[33m\u001b[1m   @stlouisbiz\u001b(B\u001b[m\u001b[K\u001b[4;42H   19 nonprofits to share $120,000 in\u001b[K\u001b[5;42H   Regional Business Council grants:\u001b[K\u001b[6;42H   https://t.co/XXTEmGRCAn\u001b[K\u001b[7;42H\u001b[K\n\u001b[33m\u001b[1m   @kodacohen\u001b(B\u001b[m\u001b[K\u001b[9;42H   A game winning kick for Lindbergh\u001b[K\u001b[10;42H   High's Garret Butz as the Flyers\u001b[K\u001b[11;42H   upset Kirkwood 16-14.\u001b[K\u001b[12;42H   https://t.co/KarDIbycjN\u001b[K\u001b[13;42H\u001b[K\n\u001b[33m\u001b[1m   @tonymess\u001b(B\u001b[m\u001b[K\u001b[15;42H   RT @ShimonPro: Breaking now on CNN:\u001b[K\u001b[16;42H   First charges in the investigation\u001b[K\u001b[17;42H   led by Special Counsel Robert\u001b[K\u001b[18;42H   Mueller have been filed in sealed\u001b[K\u001b[19;42H   indictments.\u001b[K\u001b[20;42H\u001b[K\n^C\u001b[1m\u001b[7m%\u001b(B\u001b[m\u001b[K\u001b[22;42H\u001b[36m[~]\u001b[31m\u001b[1m$\u001b(B\u001b[m \u001b[32mexit\u001b[39m\u001b[K\u001b[23;42H\u001b[K\u001b[?12l\u001b[?25h\u001b[?2004l"
+    ],
+    [
+      0.032641,
+      "\u001b[?25l\u001b[30m\u001b[40m\u001b[1m\r\n──\u001b[11C───────────────────────────────────────────────────────────────────\u001b[24;3H\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m\u001b[7m0\u001b(B\u001b[m\u001b[30m\u001b[40m\u001b[1m \"minerva\"\u001b[H\u001b(B\u001b[m   St. Louis man accused of molesting 6 girls https://t.co/2pz1NKB4WM\u001b[K\r\n   https://t.co/Y534AOkTPl\u001b[K\r\n\u001b[K\r\n\u001b[33m\u001b[1m   @BoingBoing\u001b(B\u001b[m\u001b[K\r\n   ‘Pay What You Want: White Hat Hacker 2017 Bundle,’ top deal in our store this\u001b[6;1H\u001b[K\r\n   month. 63 hours of security training… https://t.co/uUdybObCW9\u001b[K\r\n\u001b[K\r\n\u001b[33m\u001b[1m   @tonymess\u001b(B\u001b[m\u001b[K\r\n   RT @ShimonPro: Breaking now on CNN: First charges in the investigation led by\u001b[11;1H\u001b[K\r\n   Special Counsel Robert Mueller have been filed in sealed indictments.\u001b[K\r\n\u001b[K\r\n\u001b[33m\u001b[1m   @KMOV\u001b(B\u001b[m\u001b[K\r\n   Father: My twins who have autism are being bullied, school is doing nothing\u001b[K\r\n   about it https://t.co/CUcuxPAC55 https://t.co/EqRBg4rw06\u001b[K\r\n\u001b[K\r\n\u001b[33m\u001b[1m   @peter"
+    ],
+    [
+      0.000103,
+      "sagal\u001b(B\u001b[m\u001b[K\r\n   Saw Bob Dylan play tonight. No\u001b[K\r\n   pictures allowed, so just imagine a\u001b[K\r\n   lot of happy white people.\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[25d\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.116159,
+      "\u001b[?25l\u001b[25d\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:ruby*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                  \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[23;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000526,
+      "^C"
+    ],
+    [
+      0.023192,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[22;3H\u001b[1m\u001b[7m%\u001b(B\u001b[m                                                                               \r \u001b[1;25r\u001b[23;1H"
+    ],
+    [
+      0.01563,
+      "\u001b[1;23r\u001b[23;1H\u001b[K\u001b[36m[~]\u001b[31m\u001b[1m$\u001b(B\u001b[m \u001b[K\u001b[73C \u001b[1;25r\u001b[23;6H\u001b[?2004h"
+    ],
+    [
+      0.266299,
+      "\u001b[31m\u001b[1me\u001b(B\u001b[m"
+    ],
+    [
+      0.218783,
+      "\u001b[?25l\u001b[25;1H\u001b[37m\u001b[40m\u001b[1m[0] \u001b[31m0:zsh*\u001b(B\u001b[m\u001b[31m\u001b[40m                                                   \u001b[30m 2017-10-27 \u001b[47m 22:41 \u001b(B\u001b[m\u001b[23;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003088,
+      "\b\u001b[32mex\u001b(B\u001b[m"
+    ],
+    [
+      0.126593,
+      "\b\b\u001b[31m\u001b[1mexi\u001b(B\u001b[m"
+    ],
+    [
+      0.114663,
+      "\u001b[3D\u001b[32mexit\u001b(B\u001b[m"
+    ],
+    [
+      0.134677,
+      "\u001b[1;23r\u001b[23;80H\n\u001b[1;25r\u001b[23;1H\u001b[?2004l"
+    ],
+    [
+      0.033538,
+      "\u001b[1;25r\u001b(B\u001b[m\u001b[?1l\u001b>\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1004l\u001b[?1049l"
+    ],
+    [
+      3.6e-05,
+      "[exited]\r\n"
+    ],
+    [
+      0.000319,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.004708,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[73C \u001b[74D\u001b[?2004h"
+    ],
+    [
+      2.321397,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
