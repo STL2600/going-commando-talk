@@ -1,0 +1,422 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 38.471127,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-termite",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.288907,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.050061,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~]\u001b[31m\u001b[1m$\u001b[0m \u001b[K\u001b[73C \u001b[74D\u001b[?2004h"
+    ],
+    [
+      0.693852,
+      "\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.136992,
+      "\b\u001b[1m\u001b[31ml\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.22364,
+      "\b\b\u001b[1m\u001b[31ml\u001b[1m\u001b[31mi\u001b[1m\u001b[31mn\u001b[0m\u001b[39m"
+    ],
+    [
+      0.114612,
+      "\b\b\b\u001b[0m\u001b[32ml\u001b[0m\u001b[32mi\u001b[0m\u001b[32mn\u001b[32mk\u001b[39m"
+    ],
+    [
+      0.207992,
+      "\b\u001b[32mk\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.782331,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.006452,
+      "\u001b)0\u001b7\u001b[?1000h\u001b[?1002h\u001b[?1005l\u001b[?1015l\u001b[?1006h\u001b[?1001s\u001b[?1000h"
+    ],
+    [
+      0.000349,
+      "\u001b[2J\u001b[1;1H"
+    ],
+    [
+      6.2e-05,
+      "\u001b[1;1H\u001b[0m                                                                                \u001b[2;1H                                                                                \u001b[3;1H                                                                                \u001b[4;1H                                                                                \u001b[5;1H                                                                                \u001b[6;1H                                                                                \u001b[7;1H                                                                                \u001b[8;1H                                                                                \u001b[9;1H                                                                                \u001b[10;1H                                                                                \u001b[11;1H                                                                                \u001b[12;1H                                                                 "
+    ],
+    [
+      4.2e-05,
+      "               \u001b[13;1H                                                                                \u001b[14;1H                                                                                \u001b[15;1H                                                                                \u001b[16;1H                                                                                \u001b[17;1H                                                                                \u001b[18;1H                                                                                \u001b[19;1H                                                                                \u001b[20;1H                                                                                \u001b[21;1H                                                                                \u001b[22;1H                                                                                \u001b[23;1H                                                                                \u001b[24;1H                                             "
+    ],
+    [
+      4.3e-05,
+      "                                   \u001b[25;1H                                                                               \u001b[0m\u001b[1;1H"
+    ],
+    [
+      1.328134,
+      "\u001b[9;5H\u001b[0;7m                                                                        \u001b[10;5H   +--------------------------\u001b[0m Go to URL \u001b[0;7m---------------------------+   \u001b[11;5H   |  Enter URL                                                     |   \u001b[12;5H   |  \u001b[12;71H  |   \u001b[13;5H   |                                                                |   \u001b[14;5H   |                       [ OK ]  [ Cancel ]                       |   \u001b[15;5H   +----------------------------------------------------------------+   \u001b[16;5H                                                                        \u001b[0m\u001b[12;11H"
+    ],
+    [
+      0.505969,
+      "\u001b[0mg\u001b[0m"
+    ],
+    [
+      0.187345,
+      "\u001b[0mo\u001b[0m"
+    ],
+    [
+      0.178594,
+      "\u001b[0mo\u001b[0m"
+    ],
+    [
+      0.13698,
+      "\u001b[0mg\u001b[0m"
+    ],
+    [
+      0.090823,
+      "\u001b[0ml\u001b[0m"
+    ],
+    [
+      0.157453,
+      "\u001b[0me\u001b[0m"
+    ],
+    [
+      0.125304,
+      "\u001b[0m.\u001b[0m"
+    ],
+    [
+      0.166415,
+      "\u001b[0mc\u001b[0m"
+    ],
+    [
+      0.113176,
+      "\u001b[0mo\u001b[0m"
+    ],
+    [
+      0.071229,
+      "\u001b[0mm\u001b[0m"
+    ],
+    [
+      0.106186,
+      "\u001b[9;5H\u001b[0m                                                                        \u001b[10;5H                                                                        \u001b[11;5H                                                                        \u001b[12;5H                \u001b[12;71H      \u001b[13;5H                                                                        \u001b[14;5H                                                                        \u001b[15;5H                                                                        \u001b[16;5H                                                                        \u001b[25;1H\u001b[0;7mLooking up host\u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.108802,
+      "\u001b[25;1H\u001b[0;7mMaking connection\u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.029993,
+      "\u001b[25;1H\u001b[0;7mRequest sent\u001b[0m     \u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.044689,
+      "\u001b[25;1H\u001b[0;7mLooking up host\u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.051824,
+      "\u001b[25;1H\u001b[0;7mMaking connection\u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.047412,
+      "\u001b[25;1H\u001b[0;7mRequest sent\u001b[0m     \u001b[0m\u001b[1;1H"
+    ],
+    [
+      0.097588,
+      "\u001b[1;74H\u001b[0mGoogle\u001b[2;4H\u001b[0;1mSearch\u001b[0m \u001b[0;7mImages\u001b[0m \u001b[0;1mMaps\u001b[0m \u001b[0;1mPlay\u001b[0m \u001b[0;1mYouTube\u001b[0m \u001b[0;1mNews\u001b[0m \u001b[0;1mGmail\u001b[0m \u001b[0;1mDrive\u001b[0m \u001b[0;1mMore\u001b[0;1m *\b»\u001b[2;59H\u001b[3;4HWeb History\u001b[0m | \u001b[0;1mSettings\u001b[0m | \u001b[0;1mSign in\u001b[4;38H\u001b[0mGoogle\u001b[6;1H  \u001b[0;1m__________________________________________________________\u001b[0m \u001b[0;1mAdvanced\u001b[7;12H[ Google Search ]\u001b[0m \u001b[0;1m[ I'm Feeling Lucky ]\u001b[7;62HsearchLanguage\u001b[8;62Htools\u001b[10;12HAdvertising*\b \u001b[10;24HProgramsBusiness Solutions+GoogleAbout Google\u001b[12;29H\u001b[0m*\b©\u001b[12;30H 2017 - \u001b[0;1mPrivacy\u001b[0m - \u001b[0;1mTerms\u001b[25;1H\u001b[0;7mhttp://www.google.com/imghp?hl=en&tab=wi\u001b[0m\u001b[2;11H"
+    ],
+    [
+      2.810778,
+      "\u001b[0;1mImages\u001b[0m \u001b[0;7mMaps\u001b[25;8Hmaps.google.com/maps\u001b[25;40Hl\u001b[0m\u001b[2;18H"
+    ],
+    [
+      0.298467,
+      "\u001b[0;1mMaps\u001b[0m \u001b[0;7mPlay\u001b[25;5Hs://play.google.com/?hl=en&tab=w8\u001b[0m   \u001b[0m\u001b[2;23H"
+    ],
+    [
+      0.192227,
+      "\u001b[0;1mPlay\u001b[0m \u001b[0;7mYouTube\u001b[25;5H://www.youtube.com/?gl=US&tab=w1\u001b[0m \u001b[0m\u001b[2;28H"
+    ],
+    [
+      0.141367,
+      "\u001b[0;1mYouTube\u001b[0m \u001b[0;7mNews\u001b[25;8Hnews.google.com/nwshp?hl=en&tab=wn\u001b[0m\u001b[2;36H"
+    ],
+    [
+      0.157414,
+      "\u001b[0;1mNews\u001b[0m \u001b[0;7mGmail\u001b[25;5Hs://mail.google.com/mail/?tab=wm\u001b[0m     \u001b[0m\u001b[2;41H"
+    ],
+    [
+      0.163541,
+      "\u001b[0;1mGmail\u001b[0m \u001b[0;7mDrive\u001b[25;9Hdrive.google.com/?tab=wo\u001b[0m    \u001b[0m\u001b[2;47H"
+    ],
+    [
+      0.176607,
+      "\u001b[0;1mDrive\u001b[0m \u001b[0;7mMore *\b»\u001b[2;59H\u001b[25;9Hwww.google.com/intl/en/options/\u001b[0m\u001b[2;53H"
+    ],
+    [
+      0.1478,
+      "\u001b[0;1mMore\u001b[0;1m *\b»\u001b[2;59H\u001b[3;4H\u001b[0;7mWeb History\u001b[25;5H://www.google.com/history/optout?hl=en\u001b[0m\u001b[3;4H"
+    ],
+    [
+      0.241948,
+      "\u001b[0;1mWeb History\u001b[0m | \u001b[0;7mSettings\u001b[25;23Hpreferences?hl=en\u001b[0m   \u001b[0m\u001b[3;18H"
+    ],
+    [
+      0.216828,
+      "\u001b[0;1mSettings\u001b[0m | \u001b[0;7mSign in\u001b[25;5Hs://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www\u001b[0m\u001b[3;29H"
+    ],
+    [
+      0.248171,
+      "\u001b[0;1mSign in\u001b[4;38H\u001b[0;7mGoogle\u001b[25;1HImage http://www\u001b[25;29Himages/branding/googlelogo/1x/googlelogo_white_back\u001b[0m\u001b[4;38H"
+    ],
+    [
+      0.396661,
+      "\u001b[0mGoogle\u001b[6;3H__________________________________________________________\u001b[25;1H\u001b[0;7mText field, name q\u001b[0m                                                             \u001b[0m\u001b[6;3H"
+    ],
+    [
+      0.739549,
+      "\u001b[0mp\u001b[0m"
+    ],
+    [
+      0.243296,
+      "\u001b[0mh\u001b[0m"
+    ],
+    [
+      0.179453,
+      "\u001b[0mr\u001b[0m"
+    ],
+    [
+      0.156879,
+      "\u001b[0me\u001b[0m"
+    ],
+    [
+      0.206242,
+      "\u001b[0ma\u001b[0m"
+    ],
+    [
+      0.224204,
+      "\u001b[0mk\u001b[0m"
+    ],
+    [
+      0.33168,
+      "\u001b[0mn\u001b[0m"
+    ],
+    [
+      0.094619,
+      "\u001b[0mi\u001b[0m"
+    ],
+    [
+      0.133937,
+      "\u001b[0mc\u001b[0m"
+    ],
+    [
+      0.304102,
+      "\u001b[6;3H\u001b[0;1mphreaknic_________________________________________________\u001b[7;12H\u001b[0;7m[ Google Search ]\u001b[25;1HSubmit form to http://www.google.com/search\u001b[0m\u001b[7;14H"
+    ],
+    [
+      0.565208,
+      "\u001b[25;1H\u001b[0;7mRequest sent\u001b[0m                               \u001b[0m\u001b[7;14H"
+    ],
+    [
+      0.124372,
+      "\u001b[1;55H\u001b[0mphreaknic - Google Search\u001b[2;11H\u001b[0;7mImages\u001b[4;38H\u001b[0m      \u001b[5;4H\u001b[0;1mGo to Google Home\u001b[0m \u001b[0;1mphreaknic____________\u001b[5;66H[ Search ]\u001b[0m  \u001b[6;1H                                                                     \u001b[7;12H                                       \u001b[7;62H              \u001b[8;62H     \u001b[10;12H                                                         \u001b[12;29H                        \u001b[25;1H\u001b[0;7mTransferring\u001b[0m\u001b[2;11H"
+    ],
+    [
+      0.453539,
+      "\u001b[1;45H\u001b[0mphreaknic - Google Search (p1 of 5)\u001b[5;1H\u001b[0;1mGo to Google Home\u001b[0m \u001b[0;1mphreaknic____________\u001b[0m   \u001b[5;66H            \u001b[0;1m[ S\u001b[6;19H\u001b[0mAll\u001b[7;19H\u001b[0;1mImages\u001b[8;19HVideos\u001b[9;19HNews\u001b[10;19HShopping\u001b[11;19HMaps\u001b[12;19HBooks\u001b[13;1H\u001b[0mSearch Options    About 26,400 results\u001b[14;19H 1. \u001b[0;1mphreaknic.info - PhreakNIC 21 - For the Intellectually Cur\u001b[15;3H\u001b[0m*    * Any time\u001b[16;8H* \u001b[0;1mPast\u001b[0m         Ad\u001b[0mwww.\u001b[0;1mphreaknic\u001b[0m.info/\u001b[17;10H\u001b[0;1mhour\u001b[0m         Oldest continuous regional hacker con. Join us for our ann\u001b[18;8H* \u001b[0;1mPast 24\u001b[0m      antics\u001b[19;10H\u001b[0;1mhours\u001b[20;8H\u001b[0m* \u001b[0;1mPast\u001b[0m       \u001b[0;1mPhreakNIC\u001b[21;10Hweek\u001b[22;8H\u001b[0m* \u001b[0;1mPast\u001b[0m     \u001b[0mhttps://\u001b[0;1mphreaknic\u001b[0m.info/\u001b[23;10H\u001b[0;1mmonth\u001b[0m    PhreakNIC21: Bringing together the Intellectually Curious.\u001b[24;8H* \u001b[0;1mPast\u001b[25;1H\u001b[0;7mhttp://www.google.com/search?hl=en&tbm=isch&source=og&tab=wi\u001b[0m\u001b[2;11H"
+    ],
+    [
+      1.39624,
+      "\u001b[9;5H\u001b[0;7m                                                                        \u001b[10;5H   +----------------------------\u001b[0m Search \u001b[0;7m----------------------------+   \u001b[11;5H   |  Search for text                                               |   \u001b[12;5H   |  \u001b[0m             \u001b[12;71H\u001b[0;7m  |   \u001b[13;5H   |                                                                |   \u001b[14;5H   |                       [ OK ]  [ Cancel ]                       |   \u001b[15;5H   +----------------------------------------------------------------+   \u001b[16;5H                                                                        \u001b[0m\u001b[12;11H"
+    ],
+    [
+      0.348155,
+      "\u001b[0mp\u001b[0m"
+    ],
+    [
+      0.262494,
+      "\u001b[0mh\u001b[0m"
+    ],
+    [
+      0.139218,
+      "\u001b[0mr\u001b[0m"
+    ],
+    [
+      0.089895,
+      "\u001b[0me\u001b[0m"
+    ],
+    [
+      0.152406,
+      "\u001b[0ma\u001b[0m"
+    ],
+    [
+      0.169059,
+      "\u001b[0mk\u001b[0m"
+    ],
+    [
+      0.620084,
+      "\u001b[0mn\u001b[0m"
+    ],
+    [
+      0.127254,
+      "\u001b[0mi\u001b[0m"
+    ],
+    [
+      0.133156,
+      "\u001b[0mc\u001b[0m"
+    ],
+    [
+      0.182482,
+      "\u001b[2;11H\u001b[0;1mImages\u001b[9;5H\u001b[0m              \u001b[0;1mNews\u001b[0m                                                      \u001b[10;5H              \u001b[0;1mShopping\u001b[0m                                                  \u001b[11;5H              \u001b[0;1mMaps\u001b[0m                                                      \u001b[12;5H              \u001b[0;1mBooks\u001b[12;71H\u001b[0m      \u001b[13;5Hch Options    About 26,400 results                                      \u001b[14;5H               1. phreaknic\u001b[0;7m.info - \u001b[0mPhreakNIC\u001b[0;7m 21 - For the Intellectually Cur\u001b[15;5H\u001b[0m   * Any time                                                           \u001b[16;5H   * \u001b[0;1mPast\u001b[0m         Ad\u001b[0mwww.\u001b[0;7mphreaknic\u001b[0m.info/\u001b[0m                                 \u001b[20;21H\u001b[0;7mPhreakNIC\u001b[22;27H\u001b[0;7mphreaknic\u001b[23;19H\u001b[0;7mPhreakNIC\u001b[25;23Haclk?sa=L&ai=DChcSEwjeycewt5nXAhXHRIYKHdVACj8YABAAGgJ2dQ&\u001b[0m\u001b[14;23H"
+    ],
+    [
+      1.075741,
+      "\u001b[25;1H\u001b[0;7mRequest sent\u001b[0m                                                                   \u001b[0m\u001b[14;23H"
+    ],
+    [
+      0.061914,
+      "\u001b[25;1H\u001b[0;7mLooking up host\u001b[0m\u001b[14;23H"
+    ],
+    [
+      0.056362,
+      "\u001b[25;1H\u001b[0;7mMaking connection\u001b[0m\u001b[14;23H"
+    ],
+    [
+      0.054358,
+      "\u001b[25;1H\u001b[0;7mRequest sent\u001b[0m     \u001b[0m\u001b[14;23H"
+    ],
+    [
+      0.072811,
+      "\u001b[1;45H\u001b[0m              PhreakNIC21 (p1 of 8\u001b[2;4H   PHREAKNIC21: Mufreesboro TN. November 3rd - 5th     \u001b[3;4H                                \u001b[4;6H* \u001b[0;7m[ ]\u001b[0m NEWS\u001b[5;1H          * \u001b[0;1mHome\u001b[0m                       \u001b[5;78H   \u001b[6;11H* \u001b[0;1mTwitter\u001b[0m  \u001b[7;11H* \u001b[0;1mFacebook\u001b[0m    \u001b[8;6H* \u001b[0;1m[ ]\u001b[0m PROGRAMING   \u001b[9;11H* \u001b[0;1mSessions\u001b[0m  \u001b[10;11H* \u001b[0;1mSchedule\u001b[0m      \u001b[11;11H* \u001b[0;1mActivitie\u001b[12;6H\u001b[0m* \u001b[0;1m[ ]\u001b[0m PARTICIPATE \u001b[13;1H          * \u001b[0;1mRegistration\u001b[0m              \u001b[14;11H* \u001b[0;1mSpeak\u001b[0m                                                               \u001b[15;3H        * \u001b[0;1mVendors\u001b[16;8H\u001b[0m   * \u001b[0;1mVolunteers\u001b[0m                     \u001b[17;10H * \u001b[0;1mSponsor\u001b[0m                                                             \u001b[18;6H* \u001b[0;1m[ ]\u001b[0m ABOUT            \u001b[19;10H * \u001b[0;1mFAQ\u001b[20;8H\u001b[0m   * \u001b[0;1mLocation\u001b[0m         \u001b[21;10H * \u001b[0;1mPolicies\u001b[22;8H\u001b[0m   * \u001b[0;1mCredits\u001b[0m                      \u001b[23;10H * \u001b[0;1mHistory\u001b[0m                                      "
+    ],
+    [
+      5.9e-05,
+      "                   \u001b[24;8H   * \u001b[0;1mCode of Conduct\u001b[25;1H\u001b[0;7mCheckbox, name checkbox-accordion, value on\u001b[0m\u001b[4;9H"
+    ],
+    [
+      1.481932,
+      "\u001b[9;5H\u001b[0;7m                                                                        \u001b[10;5H   +----------------------------\u001b[0m Search \u001b[0;7m----------------------------+   \u001b[11;5H   |  Search for text                                               |   \u001b[12;5H   |  \u001b[0m            \u001b[12;71H\u001b[0;7m  |   \u001b[13;5H   |                                                                |   \u001b[14;5H   |                       [ OK ]  [ Cancel ]                       |   \u001b[15;5H   +----------------------------------------------------------------+   \u001b[16;5H                                                                        \u001b[0m\u001b[12;11H"
+    ],
+    [
+      0.247074,
+      "\u001b[0ms\u001b[0m"
+    ],
+    [
+      0.224746,
+      "\u001b[0me\u001b[0m"
+    ],
+    [
+      0.226645,
+      "\u001b[0ms\u001b[0m"
+    ],
+    [
+      0.157784,
+      "\u001b[0ms\u001b[0m"
+    ],
+    [
+      0.124253,
+      "\u001b[0mi\u001b[0m"
+    ],
+    [
+      0.065823,
+      "\u001b[0mo\u001b[0m"
+    ],
+    [
+      0.090242,
+      "\u001b[0mn\u001b[0m"
+    ],
+    [
+      0.1055,
+      "\u001b[0ms\u001b[0m"
+    ],
+    [
+      0.162582,
+      "\u001b[4;8H\u001b[0;1m[ ]\u001b[9;5H\u001b[0m      * Sessions                                                        \u001b[10;5H      * \u001b[0;1mSchedule\u001b[0m                                                        \u001b[11;5H      * \u001b[0;1mActivities\u001b[0m                                                      \u001b[12;5H * \u001b[0;1m[ ]\u001b[0m PARTICIPATE\u001b[12;71H      \u001b[13;5H      * \u001b[0;1mRegistration\u001b[0m                                                    \u001b[14;5H      * \u001b[0;1mSpeak\u001b[0m                                                           \u001b[15;5H      * \u001b[0;1mVendors\u001b[0m                                                         \u001b[16;5H      * \u001b[0;1mVolunteers\u001b[0m                                                      \u001b[25;1H\u001b[0;7mhttp://phreaknic.info/sessions.html\u001b[0m        \u001b[0m\u001b[9;13H"
+    ],
+    [
+      0.778774,
+      "\u001b[25;1H\u001b[0;7mMaking connection\u001b[0m                  \u001b[0m\u001b[9;13H"
+    ],
+    [
+      0.05494,
+      "\u001b[25;1H\u001b[0;7mRequest sent\u001b[0m     \u001b[0m\u001b[9;13H"
+    ],
+    [
+      0.142605,
+      "\u001b[1;58H\u001b[0mPhreakNIC21 (p1 of 12\u001b[4;8H\u001b[0;7m[ ]\u001b[9;13H\u001b[0;1mSessions\u001b[25;1H\u001b[0;7mTransferring\u001b[0m\u001b[4;9H"
+    ],
+    [
+      0.070033,
+      "\u001b[1;77H\u001b[0m45\u001b[25;1H\u001b[0;7mCheckbox, name checkbox-accordion, value on\u001b[0m\u001b[4;9H"
+    ],
+    [
+      0.955444,
+      "\u001b[9;5H\u001b[0;7m                                                                        \u001b[10;5H   +----------------------------\u001b[0m Search \u001b[0;7m----------------------------+   \u001b[11;5H   |  Search for text                                               |   \u001b[12;5H   |  \u001b[0m            \u001b[12;71H\u001b[0;7m  |   \u001b[13;5H   |                                                                |   \u001b[14;5H   |                       [ OK ]  [ Cancel ]                       |   \u001b[15;5H   +----------------------------------------------------------------+   \u001b[16;5H                                                                        \u001b[0m\u001b[12;11H"
+    ],
+    [
+      0.39653,
+      "\u001b[0mg\u001b[0m"
+    ],
+    [
+      0.095504,
+      "\u001b[0mo\u001b[0m"
+    ],
+    [
+      0.079109,
+      "\u001b[0mi\u001b[0m"
+    ],
+    [
+      0.110216,
+      "\u001b[0mn\u001b[0m"
+    ],
+    [
+      0.128758,
+      "\u001b[0mg\u001b[0m"
+    ],
+    [
+      0.865176,
+      "\u001b[1;72H\u001b[0m4\u001b[2;7H      \u001b[0;1mArnie Holder\u001b[0m                             \u001b[3;11H* \u001b[0;1mClosing Ceremonies\u001b[4;6H\u001b[0m     * \u001b[0;1mCommunicating your tech knowledge through stand-up, storytelling,\u001b[5;11H\u001b[0m  \u001b[0;1mand magical thinking - West\u001b[6;13HContinuous Intergration - SpaceB0x(@spaceb0xx\u001b[0m)\u001b[7;13H\u001b[0;1mDKEY - Data Destruction At Scale - Drew Sutton\u001b[8;6H\u001b[0m     * \u001b[0;1mThe Drone State of the Union - Ron Foster\u001b[9;5H\u001b[0m      * \u001b[0;1mFOIA Update: It finally got hard - Steve Esposito\u001b[0m               \u001b[10;5H        \u001b[0;1m(@AustrianAnarchy\u001b[0m)                                              \u001b[11;5H      * \u001b[0;1mThe Friedman Tombstone - Elonka Dunin\u001b[0m                           \u001b[12;5H      * \u001b[0;1mGeek Ladies Tea Party\u001b[12;71H\u001b[0m      \u001b[13;5H      * \u001b[0;1mGeek's Guide To A Healthy Lifestyle - Ben White\u001b[0m                 \u001b[14;5H      * GOING\u001b[0;7m COMMANDO! - Joe Cathell & Robert Ward\u001b[0m                     \u001b[15;5H        \u001b[0;7m(\u001b[0;1m@kamikazejoe\u001b[0m)(\u001b[0;1m@rtward\u001b[0m)                              "
+    ],
+    [
+      9.3e-05,
+      "           \u001b[16;5H      * \u001b[0;1mHacking 101\u001b[0m                                                     \u001b[17;13H\u001b[0;1mHacking Academia for Fun and Profit. - Michael Walker\u001b[18;6H\u001b[0m     * \u001b[0;1mHaskell Doesn't Have to be a Hassle - Elbino Bunny\u001b[19;13HI ******* Love Lasers! - Laughing Boy\u001b[20;13HMaking pottery from CAD using open source tools - Phil Showers\u001b[21;13HThe Password GameShow - Mog and Brimstone\u001b[22;13HKnights Templar: - Elonka Dunin\u001b[0m (\u001b[0;1m@ElonkaDunin\u001b[0m)\u001b[23;13H\u001b[0;1mLightning Talks - (Brought to you by Shae Erisson (@Shapr\u001b[0m)\u001b[24;13H\u001b[0;1mMaking life in an MSP easier (and more difficult!) with Labtech\u001b[25;1H\u001b[0;7mhttp://phreaknic.info/sessions.html#commando\u001b[0m\u001b[14;13H"
+    ],
+    [
+      1.712157,
+      "\u001b[1;72H\u001b[0m9\u001b[2;3HGOING COMMANDO! - Joe Cathell & Robert Ward (\u001b[0;7m@kamikazejoe\u001b[0m)(\u001b[0;1m@rtward\u001b[0m)\u001b[3;11H                    \u001b[4;4HThat's right, watch two guys stand up in front of a room of people and go \u001b[5;4Hfull commando! Whoa, don't get too excited there. We will both be wearing\u001b[6;4Hclean...ish undergarments. By \"going commando\", we are referring to\u001b[7;4Hconducting any and all of your everyday computing tasks from the command\u001b[8;4Hline! Everything from being productive in an office environment, to\u001b[9;4Hposting the twitters and streamin' the youtubes! Why you ask? We are all\u001b[10;4Hhackers here aren't we? And what hacker doesn't want to look as cool as in\u001b[11;4Hreal life as we do in the movies? So come and enjoy all the typie-typie\u001b[12;4Hcarpal tunnel goodness!       \u001b[13;11H                                                 \u001b[14;4H\u001b[0;1m[ ]\u001b[0m About Joe Cathell and Robert Ward:              \u001b[15;4H\u001b[0;1mimage\u001b[0m \u001b[0;1mimage\u001b[0m                     \u001b[16;11H             \u001b[17;4HJoe Cathell is an info"
+    ],
+    [
+      7.4e-05,
+      "sec professional at the Washington University in St.\u001b[18;4HLouis. Robert ward is a co-founder and engineer at the legal-tech startup\u001b[19;4HJuristat. When they're not defending our next generation of doctors from\u001b[20;4HRussian hackers, or trying to out-wit the patent office, they can usually\u001b[21;4Hbe found at the Arch Reactor Hackerspace. Robert and Joe are both founding\u001b[22;4Hmembers of Arch Reactor, and Joe is currently serving as president.\u001b[23;4HThey're also the co-organizers of the monthly STL2600 / DC314 meetup, as\u001b[24;4Hwell as regular presenters.                                             \u001b[25;5H\u001b[0;7ms://twitter.com/kamikazejoe\u001b[0m             \u001b[0m\u001b[2;48H"
+    ],
+    [
+      6.400215,
+      "\u001b[9;18H\u001b[0;7m                                             \u001b[10;18H   +------------\u001b[0m Exit Links \u001b[0;7m-------------+   \u001b[11;18H   |                                     |   \u001b[12;18H   |  Do you really want to exit Links?  |   \u001b[13;18H   |                                     |   \u001b[14;18H   |           \u001b[0;1m[ Yes ]\u001b[0;7m  [ No ]           |   \u001b[15;18H   +-------------------------------------+   \u001b[16;18H                                             \u001b[0m\u001b[14;35H"
+    ],
+    [
+      0.832419,
+      "\u001b[2J\u001b8\r \b\u001b[?1000l\r       \r\u001b[?1002l\r       \r\u001b[?1006l\r       \r"
+    ],
+    [
+      0.00403,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.009944,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[36m[~]\u001b[32m\u001b[1m$\u001b[0m \u001b[K\u001b[73C \u001b[74D\u001b[?2004h"
+    ],
+    [
+      1.977167,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
