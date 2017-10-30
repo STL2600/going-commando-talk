@@ -1,0 +1,1162 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 205.623583,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.008419,
+      "\u001b]0;backdoor@bozeman:~\u0007"
+    ],
+    [
+      0.000389,
+      "[backdoor@bozeman ~]$ "
+    ],
+    [
+      1.862099,
+      "t"
+    ],
+    [
+      0.095727,
+      "m"
+    ],
+    [
+      0.231911,
+      "u"
+    ],
+    [
+      0.160959,
+      "x"
+    ],
+    [
+      0.09529,
+      " "
+    ],
+    [
+      0.264182,
+      "a"
+    ],
+    [
+      0.336354,
+      "t"
+    ],
+    [
+      0.166981,
+      "t"
+    ],
+    [
+      0.104907,
+      "a"
+    ],
+    [
+      0.198667,
+      "c"
+    ],
+    [
+      0.160848,
+      "h"
+    ],
+    [
+      0.376379,
+      "-"
+    ],
+    [
+      0.264009,
+      "s"
+    ],
+    [
+      0.167579,
+      "e"
+    ],
+    [
+      0.200676,
+      "s"
+    ],
+    [
+      0.127468,
+      "s"
+    ],
+    [
+      0.071163,
+      "i"
+    ],
+    [
+      0.080487,
+      "o"
+    ],
+    [
+      0.120847,
+      "n"
+    ],
+    [
+      0.159692,
+      " "
+    ],
+    [
+      0.160081,
+      "-"
+    ],
+    [
+      0.232404,
+      "t"
+    ],
+    [
+      0.111419,
+      " "
+    ],
+    [
+      0.215905,
+      "1"
+    ],
+    [
+      1.673294,
+      "\r\n"
+    ],
+    [
+      0.028338,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[c\u001b(B\u001b[m\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[?1003l\u001b[?1006l\u001b[?2004l\u001b[1;1H\u001b[1;24r\u001b]112\u0007\u001b[23;1H\u001b[?25l\u001b[H       *** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\u001b[K\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 0    ]\u001b(B\u001b[m\u001b[3;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n(14:05:10) Command failed: Target of wrong type to command.\u001b[K\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 0/3 \u001b[24;1H\u001b(B\u001b[m\u001b[30m\u001b[42m[1] 0:rtorrent*                                        \"bozeman\" 14:05 30-Oct-17\u001b(B\u001b[m\u001b[23;1H"
+    ],
+    [
+      0.004291,
+      "\u001b(B\u001b[m\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[?1003l\u001b[?1006l\u001b[?2004l\u001b[1;1H\u001b[1;24r\u001b[23;1H\u001b[?25l\u001b[H       *** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\u001b[K\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 0    ]\u001b(B\u001b[m\u001b[3;1H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n(14:05:10) Command failed: Target of wrong type to command.\u001b[K\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 0/3 \u001b[24;1H\u001b(B\u001b[m\u001b[30m\u001b[42m[1] 0:rtorrent*                                        \"bozeman\" 14:05 30-Oct-17\u001b(B\u001b[m\u001b[23;1H"
+    ],
+    [
+      2.582337,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[7C*** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 0    ]\u001b[22;1H\u001b(B\u001b[m(14:05:10) Command failed: Target of wrong type to command.\r\nload.start> \u001b[7m \u001b[1;24r\u001b[23;13H\u001b(B\u001b[m"
+    ],
+    [
+      2.700076,
+      "http://takeovertheworld.org/matrix/The.Matrix-ASCII.torrent\u001b[7m \b\u001b(B\u001b[m"
+    ],
+    [
+      1.118347,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[7C*** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 0    ]\u001b[22;1H\u001b(B\u001b[m(14:05:10) Command failed: Target of wrong type to command.\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 0/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b(B\u001b[m\u001b[1;7H\u001b[1K *** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\u001b[K\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 0    ]\u001b[21;1H\u001b(B\u001b[m(14:05:10) Command failed: Target of wrong type to command.\u001b[K\r\nHttp [1]  The.Matrix-ASCII done\u001b[K\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 1/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      3.942038,
+      "\u001b[2;75H\u001b[97m\u001b[44m\u001b[1m1\u001b[3;3H\u001b(B\u001b[m\u001b[35m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m…chattanoogastate.edu\u001b[1m}\u001b[4;3H\u001b(B\u001b[m\u001b[37m[OPEN]      0.0K \u001b[90m/\u001b[37m   4.4G    \u001b[90m U/D:\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m \u001b[90m/\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m  \u001b[90mUploaded:\u001b[37m   0.0K     \u001b[90m \u001b[31m   \u001b[90m \u001b[5;3H\u001b[39mHashing: Checking hash [100%]\u001b[23;1H"
+    ],
+    [
+      0.080101,
+      "\u001b[1;7H\u001b[1K *** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 1    ]\u001b[3;1H\u001b(B\u001b[m  \u001b[33m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m…chattanoogastate.edu\u001b[1m}\u001b[4;1H\u001b(B\u001b[m  \u001b[37m            0.0K \u001b[90m/\u001b[37m   4.4G    \u001b[90m U/D:\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m \u001b[90m/\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m  \u001b[90mUploaded:\u001b[37m   0.0K     \u001b[90m[\u001b[31m 0%\u001b[90m]\u001b[5;1H\u001b[39m  Tracker[0:0]: Connecting to http://onyx.chattanoogastate.edu:6969/announce\u001b[K\u001b[21;1H\u001b[K\r\n(14:05:10) Command failed: Target of wrong type to command.\u001b[K\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 1/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[49m\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;24r\u001b[23;1H"
+    ],
+    [
+      0.049641,
+      "\u001b[A(14:05:10) Command failed: Target of wrong type to command.\r\n"
+    ],
+    [
+      0.269521,
+      "\u001b[1;8H*** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 1    ]\u001b[3;3H\u001b(B\u001b[m\u001b[33m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m…chattanoogastate.edu\u001b[1m}\u001b[4;3H\u001b(B\u001b[m\u001b[37m            0.0K \u001b[90m/\u001b[37m   4.4G    \u001b[90m U/D:\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m \u001b[90m/\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m  \u001b[90mUploaded:\u001b[37m   0.0K     \u001b[90m[\u001b[31m 0%\u001b[90m]\u001b[5;3H\u001b[39mTracker[0:0]: Connecting to http://onyx.chattanoogastate.edu:6969/announce\u001b[23;1H\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 1/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      1.000415,
+      "\u001b[3d "
+    ],
+    [
+      0.000405,
+      "\u001b[37m\u001b[41m\u001b[1m \u001b[4;2H\u001b(B\u001b[m"
+    ],
+    [
+      0.000278,
+      "\u001b[37m\u001b[41m\u001b[1m \u001b[5;2H\u001b(B\u001b[m"
+    ],
+    [
+      0.000287,
+      "\u001b[37m\u001b[41m\u001b[1m Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce            \u001b[23;77H\u001b(B\u001b[m"
+    ],
+    [
+      0.000397,
+      "\u001b[96m\u001b[44m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      5.48734,
+      "\u001b[2;67H\u001b[97m\u001b[44m\u001b[1m   1\r\n\u001b(B\u001b[m\u001b[7m*\u001b(B\u001b[m\u001b[37m\u001b[41m\u001b[1m \u001b(B\u001b[m\u001b[33m\u001b[7m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m\u001b[7m…chattanoogastate.edu\u001b[1m}\u001b[4;1H\u001b(B\u001b[m\u001b[7m*\r\n*\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      11.073071,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mname\u001b[55Cnone\r\n\u001b(B\u001b[m \u001b[37m\u001b[41m\u001b[1m \u001b(B\u001b[m\u001b[33m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m…chattanoogastate.edu\u001b[1m}\u001b[4;1H\u001b(B\u001b[m \r\n \u001b[23;1H"
+    ],
+    [
+      1.439167,
+      "\u001b[1;7H\u001b[1K *** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\u001b[K\r\n\u001b[97m\u001b[44m\u001b[1m[View: name]                                                    [ none of 1    ]\u001b[3;1H\u001b(B\u001b[m \u001b[37m\u001b[41m\u001b[1m \u001b(B\u001b[m\u001b[33m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m…chattanoogastate.edu\u001b[1m}\u001b[4;1H\u001b(B\u001b[m \u001b[37m\u001b[41m\u001b[1m \u001b(B\u001b[m\u001b[37m            0.0K \u001b[90m/\u001b[37m   4.4G    \u001b[90m U/D:\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m \u001b[90m/\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m  \u001b[90mUploaded:\u001b[37m   0.0K     \u001b[90m[\u001b[31m 0%\u001b[90m]\u001b[5;1H\u001b[39m \u001b[37m\u001b[41m\u001b[1m Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce            \u001b(B\u001b[m\u001b[22;1H\u001b[K\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.250691,
+      "\r\n\u001b[30m\u001b[42m[1] 0:rtorrent*                                        \"bozeman\" 14:06 30-Oct-17\u001b(B\u001b[m\u001b[23;1H"
+    ],
+    [
+      1.581031,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mstarted]\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      2.329345,
+      "\u001b[2;10H\u001b[97m\u001b[44m\u001b[1mopp\u001b[62C0\u001b(B\u001b[m\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[23d"
+    ],
+    [
+      2.374812,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mcomplete]\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      2.424752,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mincomplete]\u001b[56C1\u001b[3;2H\u001b[37m\u001b[41m \u001b(B\u001b[m\u001b[33m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m…chattanoogastate.edu\u001b[1m}\u001b[4;2H\u001b[41m \u001b(B\u001b[m\u001b[37m            0.0K \u001b[90m/\u001b[37m   4.4G    \u001b[90m U/D:\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m \u001b[90m/\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m  \u001b[90mUploaded:\u001b[37m   0.0K     \u001b[90m[\u001b[31m 0%\u001b[90m]\u001b[5;2H\u001b[37m\u001b[41m\u001b[1m Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce            \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      2.496349,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mhashing]   \u001b[56C0\u001b(B\u001b[m\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[23d"
+    ],
+    [
+      2.519648,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mseed\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.769689,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mleeching]\u001b[58C1\u001b[3;2H\u001b[37m\u001b[41m \u001b(B\u001b[m\u001b[33m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m…chattanoogastate.edu\u001b[1m}\u001b[4;2H\u001b[41m \u001b(B\u001b[m\u001b[37m            0.0K \u001b[90m/\u001b[37m   4.4G    \u001b[90m U/D:\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m \u001b[90m/\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m  \u001b[90mUploaded:\u001b[37m   0.0K     \u001b[90m[\u001b[31m 0%\u001b[90m]\u001b[5;2H\u001b[37m\u001b[41m\u001b[1m Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce            \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      2.398174,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mactive]  \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      2.256695,
+      "\u001b[2;8H\u001b[97m\u001b[44m\u001b[1mmain]  \u001b[52C   1\r\n\u001b(B\u001b[m\u001b[7m*\u001b(B\u001b[m\u001b[37m\u001b[41m\u001b[1m \u001b(B\u001b[m\u001b[33m\u001b[7m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m\u001b[7m…chattanoogastate.edu\u001b[1m}\u001b[4;1H\u001b(B\u001b[m\u001b[7m*\r\n*\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      9.513385,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HIP\u001b[14CUP     DOWN   PEER   CT/RE/LO  QS    DONE  REQS\u001b[3;1H\u001b[7mPeer list\u001b[6C\u001b(B\u001b[mNUBFAILED\u001b[5;1HInfo\u001b[7;1HFile list\u001b[9;1HTracker list\u001b[11;1HChunks seen\u001b[13;1HTransfer list\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:27] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.084363,
+      "\u001b[A[C:26\r\n"
+    ],
+    [
+      1.000229,
+      "\u001b[A[C:25\r\n"
+    ],
+    [
+      0.754532,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;24r\u001b[1;1H"
+    ],
+    [
+      0.003884,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HName:\u001b[13CThe.Matrix-ASCII\r\nPeer list\u001b[6CLocal id:\u001b[9C-lt0D60-%AB%9F%80a%A5%A4%23P%96%12%92%18\u001b[4;16HInfo hash:\u001b[8C3F200842A6F7D6F0A1A03970F6414A39D4426E35\r\n\u001b[7mInfo\u001b[11C\u001b(B\u001b[mCreated:\u001b[10C20/12/2003 12:08:39\u001b[7;1HFile list\u001b[6CDirectory:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[8;16HBase Path:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[9;1HTracker list   Tied to file:\u001b[10;16HFile stats:\u001b[7Cmulti 13 files\r\nChunks seen\n    Chunks:\u001b[11C0 / 17944 * 262144 (17944)\r\nTransfer list  Priority:\u001b[9C2\u001b[14;16HPeer exchange:    enabled active (0/8)\u001b[15;16HState changed:     0:00:56\u001b[17;16HMemory usage:\u001b[10C0.0 MB\u001b[18;16HMax memory usage:   3276.8 MB =   3.2 GB\u001b[19;16HFree diskspace:   1306242.1 MB =   1.2 TB\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:24] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44"
+    ],
+    [
+      5.8e-05,
+      "m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.244137,
+      "\u001b[15;41H7\u001b[23;1H"
+    ],
+    [
+      1.001385,
+      "\u001b[15;41H8\u001b[22;5H3\r\n"
+    ],
+    [
+      1.001092,
+      "\u001b[15;41H9\u001b[22;5H2\r\n"
+    ],
+    [
+      0.99884,
+      "\u001b[15;38H1:00\u001b[22;5H1\r\n"
+    ],
+    [
+      0.998781,
+      "\u001b[15;41H1\u001b[22;5H0\r\n"
+    ],
+    [
+      1.000933,
+      "\u001b[15;41H2\u001b[22;4H19\r\n"
+    ],
+    [
+      1.004508,
+      "\u001b[15;41H3\u001b[22;5H8\r\n"
+    ],
+    [
+      0.994703,
+      "\u001b[15;41H4\u001b[22;5H7\r\n"
+    ],
+    [
+      0.96873,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HCmp Pri  Size   Filename\r\nPeer list\u001b[6C\u001b[1m  0       0.4 K| Readme.txt\u001b(B\u001b[m\u001b[K\u001b[4;18H0\u001b[7C0.2 K| The.Matrix-ASCII.url\r\nInfo\u001b[26C\\ VIDEO_TS\u001b[6;18H0\u001b[7C6.0 K | VIDEO_TS.BUP\r\n\u001b[7mFile list\u001b[8C\u001b(B\u001b[m0\u001b[7C6.0 K | VIDEO_TS.IFO\u001b[8;18H0     104.0 K | VTS_01_0.BUP\r\nTracker list     0     104.0 K | VTS_01_0.IFO\u001b[10;18H0\u001b[7C1.0 G | VTS_01_1.VOB\r\nChunks seen\u001b[6C0\u001b[7C1.0 G | VTS_01_2.VOB\u001b[12;18H0\u001b[7C1.0 G | VTS_01_3.VOB\r\nTransfer list    0\u001b[7C1.0 G | VTS_01_4.VOB\u001b[14;18H0     384.9 M | VTS_01_5.VOB\u001b[15;31H/\u001b[16;18H0     849.3 K| cd.jpg\u001b[17;18H0\u001b[7C4.2 M| insert.jpg\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:16] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.050178,
+      "\u001b[A[C:15\r\n"
+    ],
+    [
+      0.97865,
+      "\u001b[A[C:5] Tracker[11:11]: Connecting to http://bt1.cdres.cn:12345\u001b[3P\u001b[23;77H\u001b[96m\u001b[44m\u001b[1m1\r\u001b(B\u001b[m"
+    ],
+    [
+      1.000201,
+      "\u001b[A[C:4\r\n"
+    ],
+    [
+      0.999246,
+      "\u001b[A[C:3\r\n"
+    ],
+    [
+      0.999576,
+      "\u001b[A[C:2\r\n"
+    ],
+    [
+      1.001909,
+      "\u001b[A[C:1\r\n"
+    ],
+    [
+      0.998739,
+      "\u001b[A[C:10] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\u001b[23;77H\u001b[96m\u001b[44m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      1.00067,
+      "\u001b[A[C:9\u001b[1P\r\n"
+    ],
+    [
+      0.714765,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HTrackers: [Key: 6cc148dd] [    prom     ]\r\nPeer list\u001b[7C0: \u001b[1mhttp://onyx.chattanoogastate.edu:6969/announce\u001b(B\u001b[m\u001b[K\u001b[4;20H\u001b[1m Id:  Counters: 4f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b(B\u001b[m\u001b[K\r\nInfo\u001b[12C1: http://denis.stalker.h3q.com:6969/announce\u001b[6;21HId:  Counters: 4f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nFile list\u001b[7C2: http://tracker.bittorrent.am/announce\u001b[8;21HId:  Counters: 4f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\n\u001b[7mTracker list\u001b(B\u001b[m    3: http://tracker.mightynova.com:4315/announce\u001b[10;21HId:  Counters: 4f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nChunks seen     4: http://tracker.prq.to/announce\u001b[12;21HId:  Counters: 4f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nTransfer list  \u001b[7m 5: \u001b(B\u001b[mhttp://tracker.ilibr.org:6969/announce\u001b[14;16H\u001b[7mreq \u001b(B\u001b[m Id:  Counters: 1f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[15;17H6: http://bttrack.9you.com:8080/announce\u001b[16;21HId:  Counters: 4f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[17;17H7: http://tracker1.torrentum"
+    ],
+    [
+      0.000244,
+      ".pl/announce\u001b[18;21HId:  Counters: 4f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[19;17H8: http://bt1.the9.com:6969/announce\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:8] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.285034,
+      "\u001b[A[C:7\r\n"
+    ],
+    [
+      0.998348,
+      "\u001b[A[C:6\r\n"
+    ],
+    [
+      0.766398,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HChunks seen: [C/A/D 0/0/0.00]     X downloaded  \u001b[1mX\u001b(B\u001b[m missing  \u001b[1m\u001b[4mX\u001b(B\u001b[m qu\u001b[3;1HPeer list\u001b[10C0 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[4;19H\u001b(B\u001b[m50 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mInfo\u001b[13C100 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[6;18H\u001b(B\u001b[m150 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mFile list\u001b[8C200 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[8;18H\u001b(B\u001b[m250 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTracker list     300 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[10;18H\u001b(B\u001b"
+    ],
+    [
+      4.6e-05,
+      "[m350 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[m\u001b[7mChunks seen\u001b[6C\u001b(B\u001b[m400 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[12;18H\u001b(B\u001b[m450 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTransfer list    500 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[14;18H\u001b(B\u001b[m550 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[15;18H\u001b(B\u001b[m600 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[16;18H\u001b(B\u001b[m650 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[17;18H\u001b(B\u001b[m700 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[18;18H\u001b(B\u001b[m750 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b"
+    ],
+    [
+      2.5e-05,
+      "[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[19;18H\u001b(B\u001b[m800 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[20;13H\u001b(B\u001b[m0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:5] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.234884,
+      "\u001b[A[C:4\r\n"
+    ],
+    [
+      0.999045,
+      "\u001b[A[C:3\r\n"
+    ],
+    [
+      1.001603,
+      "\u001b[A[C:2\r\n"
+    ],
+    [
+      0.999622,
+      "\u001b[A[C:1\r\n"
+    ],
+    [
+      0.999538,
+      "\u001b[A[C:80] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\u001b[23;77H\u001b[96m\u001b[44m\u001b[1m4\r\u001b(B\u001b[m"
+    ],
+    [
+      0.999533,
+      "\u001b[A[C:79\u001b[23;77H\u001b[96m\u001b[44m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.999905,
+      "\u001b[A[C:78\r\n"
+    ],
+    [
+      0.117843,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HChunks seen: [C/A/D 0/0/0.00]     X downloaded  \u001b[1mX\u001b(B\u001b[m missing  \u001b[1m\u001b[4mX\u001b(B\u001b[m qu\u001b[3;1HPeer list\u001b[10C0 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[4;19H\u001b(B\u001b[m50 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mInfo\u001b[13C100 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[6;18H\u001b(B\u001b[m150 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mFile list\u001b[8C200 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[8;18H\u001b(B\u001b[m250 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTracker list     300 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[10;18H\u001b(B\u001b"
+    ],
+    [
+      3.8e-05,
+      "[m350 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\nChunks seen\u001b[6C\u001b(B\u001b[m400 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[12;18H\u001b(B\u001b[m450 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTransfer list    500 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[14;18H\u001b(B\u001b[m550 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[15;18H\u001b(B\u001b[m600 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[16;18H\u001b(B\u001b[m650 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[17;18H\u001b(B\u001b[m700 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[18;18H\u001b(B\u001b[m750 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m000"
+    ],
+    [
+      2.5e-05,
+      "0000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[19;18H\u001b(B\u001b[m800 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[20;13H\u001b(B\u001b[m0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:77] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.038697,
+      "\u001b[3;19H5\u001b[4;18H10\u001b[5;19H5\u001b[6;18H20\u001b[7;19H5\u001b[8;18H30\u001b[9;19H5\u001b[10;18H40\u001b[11;19H5\u001b[12;18H50\u001b[13;19H5\u001b[14;18H60\u001b[15;19H5\u001b[16;18H70\u001b[17;19H5\u001b[18;18H80\u001b[19;19H5\u001b[23;1H"
+    ],
+    [
+      0.104548,
+      "\r\n\u001b[30m\u001b[42m[1] 0:rtorrent*                                        \"bozeman\" 14:07 30-Oct-17\u001b(B\u001b[m\u001b[23;1H"
+    ],
+    [
+      0.647027,
+      "\u001b[14;19r\u001b[14;1H\u001bM\u001b[3;19H \u001b[4;18H 5\u001b[5;19H0\u001b[6;18H15\u001b[7;19H0\u001b[8;18H25\u001b[9;19H0\u001b[10;18H35\u001b[11;19H0\u001b[12;18H45\u001b[13;19H0\u001b[14;18H550 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.091419,
+      "\u001b[A[C:76\r\n"
+    ],
+    [
+      0.572099,
+      "\u001b[14;19r\u001b[19;80H\n\u001b[3;19H5\u001b[4;18H10\u001b[5;19H5\u001b[6;18H20\u001b[7;19H5\u001b[8;18H30\u001b[9;19H5\u001b[10;18H40\u001b[11;19H5\u001b[12;18H50\u001b[13;19H5\u001b[19;18H850 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.24852,
+      "\u001b[14;19r\u001b[19;80H\n\u001b[3;18H10\u001b[4;19H5\u001b[5;18H20\u001b[6;19H5\u001b[7;18H30\u001b[8;19H5\u001b[9;18H40\u001b[10;19H5\u001b[11;18H50\u001b[12;19H5\u001b[13;18H60\u001b[19;18H900 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.179023,
+      "\u001b[A[C:75\r\n"
+    ],
+    [
+      0.053296,
+      "\u001b[14;19r\u001b[19;80H\n\u001b[3;19H5\u001b[4;18H20\u001b[5;19H5\u001b[6;18H30\u001b[7;19H5\u001b[8;18H40\u001b[9;19H5\u001b[10;18H50\u001b[11;19H5\u001b[12;18H60\u001b[13;19H5\u001b[19;18H950 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.44696,
+      "\u001b[14;19r\u001b[14;1H\u001bM\u001b[3;19H0\u001b[4;18H15\u001b[5;19H0\u001b[6;18H25\u001b[7;19H0\u001b[8;18H35\u001b[9;19H0\u001b[10;18H45\u001b[11;19H0\u001b[12;18H55\u001b[13;19H0\u001b[14;18H650 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.200928,
+      "\u001b[14;19r\u001b[14;1H\u001bM\u001b[3;18H 5\u001b[4;19H0\u001b[5;18H15\u001b[6;19H0\u001b[7;18H25\u001b[8;19H0\u001b[9;18H35\u001b[10;19H0\u001b[11;18H45\u001b[12;19H0\u001b[13;18H55\u001b[14;18H600 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.168132,
+      "\u001b[14;19r\u001b[14;1H\u001bM\u001b[3;19H \u001b[4;18H 5\u001b[5;19H0\u001b[6;18H15\u001b[7;19H0\u001b[8;18H25\u001b[9;19H0\u001b[10;18H35\u001b[11;19H0\u001b[12;18H45\u001b[13;19H0\u001b[14;18H550 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.131402,
+      "\u001b[A[C:74\r\n"
+    ],
+    [
+      0.051126,
+      "\u001b[3;16H1755\u001b[4;16H1760\u001b[5;16H1765\u001b[6;16H1770\u001b[7;16H1775\u001b[8;16H1780\u001b[9;16H1785\u001b[10;16H1790\u001b[46C\u001b[6P\u001b[11;18H\u001b[K\r\n\u001b[K\u001b[13;18H\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[23d"
+    ],
+    [
+      0.096519,
+      "\u001b[3;19H0\u001b[4;18H55\u001b[5;19H0\u001b[6;18H65\u001b[7;19H0\u001b[8;18H75\u001b[9;19H0\u001b[10;18H85\u001b[46C\u001b[1m0000000000\u001b[11;16H\u001b(B\u001b[m17900 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.184932,
+      "\u001b[3;18H45\u001b[4;19H0\u001b[5;18H55\u001b[6;19H0\u001b[7;18H65\u001b[8;19H0\u001b[9;18H75\u001b[10;19H0\u001b[11;18H85\u001b[46C\u001b[1m0000000000\u001b[12;16H\u001b(B\u001b[m17900 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.667868,
+      "\u001b[A[C:73\r\n"
+    ],
+    [
+      0.083607,
+      "\u001b[3;18H50\u001b[4;19H5\u001b[5;18H60\u001b[6;19H5\u001b[7;18H70\u001b[8;19H5\u001b[9;18H80\u001b[10;19H5\u001b[11;18H90\u001b[46C\u001b[6P\r\n\u001b[K\u001b[23d"
+    ],
+    [
+      0.239847,
+      "\u001b[3;19H5\u001b[4;18H60\u001b[5;19H5\u001b[6;18H70\u001b[7;19H5\u001b[8;18H80\u001b[9;19H5\u001b[10;18H90\u001b[46C\u001b[6P\u001b[11;16H\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.312727,
+      "\u001b[3;16H    \u001b[4;16H   5\u001b[5;16H  10\u001b[6;16H  15\u001b[7;16H  20\u001b[8;16H  25\u001b[9;16H  30\u001b[10;16H  35\u001b[46C\u001b[1m0000000000\u001b[11;18H\u001b(B\u001b[m400 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[12;18H\u001b(B\u001b[m450 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[13;18H\u001b(B\u001b[m500 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[14;18H\u001b(B\u001b[m550 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[15;18H\u001b(B\u001b[m600 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[16;18H\u001b(B\u001b[m650 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[17;18H\u001b(B\u001b[m700 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[18;18H\u001b(B\u001b[m750 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b["
+    ],
+    [
+      5.7e-05,
+      "1m0000000000\u001b[19;18H\u001b(B\u001b[m800 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.364971,
+      "\u001b[A[C:72\r\n"
+    ],
+    [
+      0.882594,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HChunks seen: [C/A/D 0/0/0.00]     X downloaded  \u001b[1mX\u001b(B\u001b[m missing  \u001b[1m\u001b[4mX\u001b(B\u001b[m qu\u001b[3;1HPeer list\u001b[10C0 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[4;19H\u001b(B\u001b[m50 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mInfo\u001b[13C100 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[6;18H\u001b(B\u001b[m150 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mFile list\u001b[8C200 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[8;18H\u001b(B\u001b[m250 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTracker list     300 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[10;18H\u001b(B\u001b"
+    ],
+    [
+      2.1e-05,
+      "[m350 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[m\u001b[7mChunks seen\u001b[6C\u001b(B\u001b[m400 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[12;18H\u001b(B\u001b[m450 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTransfer list    500 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[14;18H\u001b(B\u001b[m550 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[15;18H\u001b(B\u001b[m600 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[16;18H\u001b(B\u001b[m650 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[17;18H\u001b(B\u001b[m700 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[18;18H\u001b(B\u001b[m750 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b"
+    ],
+    [
+      2.2e-05,
+      "[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[19;18H\u001b(B\u001b[m800 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[20;13H\u001b(B\u001b[m0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:71] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.584115,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HTransfer list: [Size 0]\r\nPeer list\u001b[5;1HInfo\u001b[7;1HFile list\u001b[9;1HTracker list\u001b[11;1HChunks seen\u001b[13;1H\u001b[7mTransfer list\u001b[20;13H\u001b(B\u001b[m0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:70] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.531767,
+      "\u001b[A[C:69\r\n"
+    ],
+    [
+      0.285786,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HChunks seen: [C/A/D 0/0/0.00]     X downloaded  \u001b[1mX\u001b(B\u001b[m missing  \u001b[1m\u001b[4mX\u001b(B\u001b[m qu\u001b[3;1HPeer list\u001b[10C0 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[4;19H\u001b(B\u001b[m50 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mInfo\u001b[13C100 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[6;18H\u001b(B\u001b[m150 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mFile list\u001b[8C200 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[8;18H\u001b(B\u001b[m250 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTracker list     300 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m"
+    ],
+    [
+      0.000261,
+      " \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[10;18H\u001b(B\u001b[m350 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[m\u001b[7mChunks seen\u001b[6C\u001b(B\u001b[m400 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[12;18H\u001b(B\u001b[m450 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\r\n\u001b(B\u001b[mTransfer list    500 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[14;18H\u001b(B\u001b[m550 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[15;18H\u001b(B\u001b[m600 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[16;18H\u001b(B\u001b[m650 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[17;18H\u001b(B\u001b[m700 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[18;18H\u001b(B\u001b[m750 \u001b[1m00000000"
+    ],
+    [
+      3.2e-05,
+      "00\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[19;18H\u001b(B\u001b[m800 \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b(B\u001b[m \u001b[1m0000000000\u001b[20;13H\u001b(B\u001b[m0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:68] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.38276,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HTrackers: [Key: 6cc148dd] [    prom     ]\r\nPeer list\u001b[7C0: \u001b[1mhttp://onyx.chattanoogastate.edu:6969/announce\u001b(B\u001b[m\u001b[K\u001b[4;20H\u001b[1m Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b(B\u001b[m\u001b[K\r\nInfo\u001b[12C1: http://denis.stalker.h3q.com:6969/announce\u001b[6;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nFile list\u001b[7C2: http://tracker.bittorrent.am/announce\u001b[8;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\n\u001b[7mTracker list\u001b(B\u001b[m    3: http://tracker.mightynova.com:4315/announce\u001b[10;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nChunks seen     4: http://tracker.prq.to/announce\u001b[12;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nTransfer list  \u001b[7m 5: \u001b(B\u001b[mhttp://tracker.ilibr.org:6969/announce\u001b[14;16H\u001b[7mreq \u001b(B\u001b[m Id:  Counters: 1f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[15;17H6: http://bttrack.9you.com:8080/announce\u001b[16;21HId:  Counters: 5f / 0s (0)  on S/L/D:"
+    ],
+    [
+      0.000713,
+      " 0/0/0 (0/0)\u001b[17;17H7: http://tracker1.torrentum.pl/announce\u001b[18;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[19;17H8: http://bt1.the9.com:6969/announce\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:68] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.287489,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HTrackers: [Key: 6cc148dd] [    prom     ]\r\nPeer list\u001b[7C0: \u001b[7mhttp://onyx.chattanoogastate.edu:6969/announce               \u001b[4;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[5;1H\u001b(B\u001b[mInfo\u001b[12C1: http://denis.stalker.h3q.com:6969/announce\u001b[6;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nFile list\u001b[7C2: http://tracker.bittorrent.am/announce\u001b[8;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\n\u001b[1mTracker list\u001b(B\u001b[m    3: http://tracker.mightynova.com:4315/announce\u001b[10;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nChunks seen     4: http://tracker.prq.to/announce\u001b[12;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nTransfer list  \u001b[7m 5: \u001b(B\u001b[mhttp://tracker.ilibr.org:6969/announce\u001b[14;16H\u001b[7mreq \u001b(B\u001b[m Id:  Counters: 1f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[15;17H6: http://bttrack.9you.com:8080/announce\u001b[16;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[17;17H7: http://trac"
+    ],
+    [
+      4e-05,
+      "ker1.torrentum.pl/announce\u001b[18;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[19;17H8: http://bt1.the9.com:6969/announce\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:67] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.551759,
+      "\u001b[3;20Hhttp://onyx.chattanoogastate.edu:6969/announce\u001b[K\u001b[4;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[5;20H\u001b[7mhttp://denis.stalker.h3q.com:6969/announce                   \u001b[6;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.216668,
+      "\u001b[5;20Hhttp://denis.stalker.h3q.com:6969/announce\u001b[K\u001b[6;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[7;20H\u001b[7mhttp://tracker.bittorrent.am/announce                        \u001b[8;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.167329,
+      "\u001b[7;20Hhttp://tracker.bittorrent.am/announce\u001b[K\u001b[8;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[9;20H\u001b[7mhttp://tracker.mightynova.com:4315/announce                  \u001b[10;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.106377,
+      "\u001b[A[C:66\r\n"
+    ],
+    [
+      0.050713,
+      "\u001b[9;20Hhttp://tracker.mightynova.com:4315/announce\u001b[K\u001b[10;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[11;20H\u001b[7mhttp://tracker.prq.to/announce                               \u001b[12;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.138855,
+      "\u001b[3;17H1\u001b[9Cdenis.stalker.h3q.com\u001b[4P\u001b[5;17H2\u001b[9Ctracker.bittorrent.am\u001b[5P\u001b[7;17H3\u001b[17Cmightynova.com:4315/announce\u001b[9;17H4\u001b[17Cprq.to\u001b[13P\u001b[11;16H\u001b[7m 5: \u001b[15Cilibr.org:6969/announce\u001b[12;16Hreq \u001b[16C1\u001b[13;16H\u001b(B\u001b[m 6: \u001b[7Cbttrack.9you.com:8080\u001b[1P\u001b[14;20H\u001b[1K \u001b[15C5\u001b[15;17H7\u001b[9Ctracker1.torrentum.pl\u001b[17;17H8\u001b[9Cbt1.the9.com:6969\u001b[4P\u001b[19;17H9\u001b[9Cexodus.desync.com:6969/announce\u001b[23;1H"
+    ],
+    [
+      0.151695,
+      "\u001b[11A"
+    ],
+    [
+      0.000399,
+      "\u001b[12;20r\u001b[12;1H\u001b[2M\u001b[1;24r\u001b[3;17H"
+    ],
+    [
+      0.000355,
+      "2\u001b[9Ctracker.bittorrent.am\u001b[5P\u001b[5;17H3\u001b[17C"
+    ],
+    [
+      0.000333,
+      "mightynova.com:4315/announce\u001b[7;17H4\u001b[17Cprq.to\u001b[13P\u001b[9;16H\u001b[7m 5: \u001b[15C\u001b(B\u001b[milibr.org:6969/announce\u001b[10;16H"
+    ],
+    [
+      0.000336,
+      "\u001b[7mreq \u001b[16C\u001b(B\u001b[m1\u001b[11;16H 6: \u001b[7C\u001b[7mbttrack.9you.com:8080/announce \u001b[12;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[13;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.000339,
+      "Transfer list\u001b[18;20H\u001b[1K Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[19;16H10: http://tracker.irc.su:80/announce\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\u001b[23;1H"
+    ],
+    [
+      0.133533,
+      "\u001b[12;19r\u001b[12;1H\u001b[2M\u001b[3;17H3\u001b[17Cmightynova.com:4315/announce\u001b[5;17H4\u001b[17Cprq.to\u001b[13P\u001b[7;16H\u001b[7m 5: \u001b[15C\u001b(B\u001b[milibr.org:6969/announce\u001b[8;16H\u001b[7mreq \u001b[16C\u001b(B\u001b[m1\u001b[9;16H 6: \u001b[7Cbttrack.9you.com:8080\u001b[1P\u001b[10;20H\u001b[1K \u001b[15C5\u001b[11;17H7\u001b[9C\u001b[7mtracker1.torrentum.pl\u001b[12;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[13;1H\u001b(B\u001b[mTransfer list\u001b[18d  \u001b[7m    \u001b(B\u001b[m Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[19;16H\u001b[7m11: \u001b(B\u001b[mhttp://bt1.cdres.cn:12345/announce\u001b[1;24r\u001b[23;1H"
+    ],
+    [
+      0.161018,
+      "\u001b[3;10r\u001b[3;1H\u001b[2M\u001b[3;1HPeer list\u001b[5;1HInfo     \u001b[7;1HFile list   \u001b[9;1H\u001b[1mTracker list\u001b(B\u001b[m    7: http://tracker1.torrentum.pl/announce\u001b[10;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[11;17H8\u001b[9C\u001b[7mbt1.the9.com:6969/announce    \u001b[13;17H\u001b(B\u001b[m9\u001b[9Cexodus.desync.com:6969/announce\u001b[15;16H10\u001b[9Ctracker.irc.su:80\u001b[5P\u001b[17;16H\u001b[7m11: \u001b[7C\u001b(B\u001b[mbt1.cdres.cn:12345/announce\u001b[18;16H\u001b[7mreq\u001b[17C\u001b(B\u001b[m0\u001b[19;17H\u001b[7m2\u001b[9C\u001b(B\u001b[mtracker.openbittorrent.com/announce\u001b[1;24r\u001b[23;1H"
+    ],
+    [
+      0.362609,
+      "\u001b[A[C:65\r\n"
+    ],
+    [
+      0.06848,
+      "\u001b[12;19r\u001b[12;1H\u001b[2L\u001b[3;10r\u001b[3;1H\u001b[2L\u001b[3;1HPeer list\u001b[7C3: http://tracker.mightynova.com:4315/announce\u001b[4;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nInfo     \u001b[7;1HFile list\u001b[9;1H\u001b[1mTracker list\u001b[11;17H\u001b(B\u001b[m7\u001b[9C\u001b[7mtracker1.torrentum.pl/announce\u001b[12;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[13;1H\u001b(B\u001b[mTransfer list   8: http://bt1.the9.com:6969/announce\u001b[14;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[15;16H\u001b[1K\u001b[18d\u001b[7m    \u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.191844,
+      "\u001b[12;19r\u001b[12;1H\u001b[2L\u001b[3;10r\u001b[3;1H\u001b[2L\u001b[3;1HPeer list\u001b[7C2: http://tracker.bittorrent.am/announce\u001b[4;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nInfo     \u001b[7;1HFile list\u001b[9;1H\u001b[1mTracker list\u001b[11;17H\u001b(B\u001b[m6\u001b[9C\u001b[7mbttrack.9you.com:8080\u001b[12;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[13;1H\u001b(B\u001b[mTransfer list   7: http://tracker1.torrentum.pl/announce\u001b[14;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[15;16H\u001b[1K\u001b[1;24r\u001b[23;1H"
+    ],
+    [
+      0.175631,
+      "\u001b[14;19r\u001b[14;1H\u001b[2L\u001b[3;17H1\u001b[9Cdenis.stalker.h3q.com:6969/announce\u001b[5;17H2\u001b[17Cbittorrent.am\u001b[6P\u001b[7;17H3\u001b[17Cmightynova.com:4315/announce\u001b[9;16H 4: \u001b[15Cprq.to\u001b[8P\u001b[10;20H\u001b[1K \u001b[15C5\u001b[11;16H\u001b[7m 5: \u001b[7Ctracker.ilibr.org:6969/announce\u001b[12;16Hreq \u001b[16C1\u001b[13;17H\u001b(B\u001b[m6\u001b[9Cbttrack.9you.com:8080\u001b[14;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[15;17H7: http://tracker1.torrentum.pl/announce\u001b[1;24r\u001b[23;1H"
+    ],
+    [
+      0.312146,
+      "\u001b[8;19r\u001b[8;1H\u001b[2L\u001b[3;17H0\u001b[9Conyx.chattanoogastate.edu:6969/announce\u001b[5;17H1\u001b[9Cdenis.stalker.h3q.com:6969/announce\u001b[7;17H2\u001b[17Cbittorrent.am\u001b[6P\u001b[8;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\n\u001b[1mTracker list\u001b(B\u001b[m    3: \u001b[7mhttp://tracker.mightynova.com:4315/announce                  \u001b[10;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[11;1H\u001b(B\u001b[mChunks seen \u001b[13;1HTransfer list\u001b[6Chttp://tracker.ilibr.org:6969/announce\u001b[K\u001b[14;20H Id:  Counters: 1f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[15;16H\u001b[1K\u001b[1;24r\u001b[23;1H"
+    ],
+    [
+      0.128582,
+      "\u001b[7;20H\u001b[7mhttp://tracker.bittorrent.am/announce                        \u001b[8;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[9;20H\u001b(B\u001b[mhttp://tracker.mightynova.com:4315/announce\u001b[K\u001b[10;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.124711,
+      "\u001b[A[C:64\r\n"
+    ],
+    [
+      0.063593,
+      "\u001b[5;20H\u001b[7mhttp://denis.stalker.h3q.com:6969/announce                   \u001b[6;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[7;20H\u001b(B\u001b[mhttp://tracker.bittorrent.am/announce\u001b[K\u001b[8;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.316354,
+      "\u001b[3;20H\u001b[7mhttp://onyx.chattanoogastate.edu:6969/announce               \u001b[4;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)           \u001b[5;20H\u001b(B\u001b[mhttp://denis.stalker.h3q.com:6969/announce\u001b[K\u001b[6;20H Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.619029,
+      "\u001b[A[C:63\r\n"
+    ],
+    [
+      0.295287,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HTrackers: [Key: 6cc148dd] [    prom     ]\r\nPeer list\u001b[7C0: \u001b[1mhttp://onyx.chattanoogastate.edu:6969/announce\u001b(B\u001b[m\u001b[K\u001b[4;20H\u001b[1m Id:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b(B\u001b[m\u001b[K\r\nInfo\u001b[12C1: http://denis.stalker.h3q.com:6969/announce\u001b[6;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nFile list\u001b[7C2: http://tracker.bittorrent.am/announce\u001b[8;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\n\u001b[7mTracker list\u001b(B\u001b[m    3: http://tracker.mightynova.com:4315/announce\u001b[10;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nChunks seen     4: http://tracker.prq.to/announce\u001b[12;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\r\nTransfer list  \u001b[7m 5: \u001b(B\u001b[mhttp://tracker.ilibr.org:6969/announce\u001b[14;16H\u001b[7mreq \u001b(B\u001b[m Id:  Counters: 1f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[15;17H6: http://bttrack.9you.com:8080/announce\u001b[16;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[17;17H7: http://tracker1.torrentum"
+    ],
+    [
+      8.1e-05,
+      ".pl/announce\u001b[18;21HId:  Counters: 5f / 0s (0)  on S/L/D: 0/0/0 (0/0)\u001b[19;17H8: http://bt1.the9.com:6969/announce\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:62] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.48589,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HCmp Pri  Size   Filename\r\nPeer list\u001b[6C\u001b[1m  0       0.4 K| Readme.txt\u001b(B\u001b[m\u001b[K\u001b[4;18H0\u001b[7C0.2 K| The.Matrix-ASCII.url\r\nInfo\u001b[26C\\ VIDEO_TS\u001b[6;18H0\u001b[7C6.0 K | VIDEO_TS.BUP\r\n\u001b[7mFile list\u001b[8C\u001b(B\u001b[m0\u001b[7C6.0 K | VIDEO_TS.IFO\u001b[8;18H0     104.0 K | VTS_01_0.BUP\r\nTracker list     0     104.0 K | VTS_01_0.IFO\u001b[10;18H0\u001b[7C1.0 G | VTS_01_1.VOB\r\nChunks seen\u001b[6C0\u001b[7C1.0 G | VTS_01_2.VOB\u001b[12;18H0\u001b[7C1.0 G | VTS_01_3.VOB\r\nTransfer list    0\u001b[7C1.0 G | VTS_01_4.VOB\u001b[14;18H0     384.9 M | VTS_01_5.VOB\u001b[15;31H/\u001b[16;18H0     849.3 K| cd.jpg\u001b[17;18H0\u001b[7C4.2 M| insert.jpg\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:62] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.890762,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HCmp Pri  Size   Filename\r\nPeer list\u001b[6C\u001b[7m  0       0.4 K| Readme.txt                                      \u001b[4;18H\u001b(B\u001b[m0\u001b[7C0.2 K| The.Matrix-ASCII.url\r\nInfo\u001b[26C\\ VIDEO_TS\u001b[6;18H0\u001b[7C6.0 K | VIDEO_TS.BUP\r\n\u001b[1mFile list\u001b[8C\u001b(B\u001b[m0\u001b[7C6.0 K | VIDEO_TS.IFO\u001b[8;18H0     104.0 K | VTS_01_0.BUP\r\nTracker list     0     104.0 K | VTS_01_0.IFO\u001b[10;18H0\u001b[7C1.0 G | VTS_01_1.VOB\r\nChunks seen\u001b[6C0\u001b[7C1.0 G | VTS_01_2.VOB\u001b[12;18H0\u001b[7C1.0 G | VTS_01_3.VOB\r\nTransfer list    0\u001b[7C1.0 G | VTS_01_4.VOB\u001b[14;18H0     384.9 M | VTS_01_5.VOB\u001b[15;31H/\u001b[16;18H0     849.3 K| cd.jpg\u001b[17;18H0\u001b[7C4.2 M| insert.jpg\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:61] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1"
+    ],
+    [
+      3.9e-05,
+      "@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.464847,
+      "\u001b[3;16H  0       0.4 K| Readme.txt\u001b[K\u001b[4;16H\u001b[7m  0       0.2 K| The.Matrix-ASCII.url                            \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.154893,
+      "\u001b[4;16H  0       0.2 K| The.Matrix-ASCII.url\u001b[K\u001b[5;16H\u001b[7m               \\ VIDEO_TS                                        \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.161218,
+      "\u001b[5;16H               \\ VIDEO_TS\u001b[K\u001b[6;16H\u001b[7m  0       6.0 K | VIDEO_TS.BUP                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.160118,
+      "\u001b[6;16H  0       6.0 K | VIDEO_TS.BUP\u001b[K\u001b[7;16H\u001b[7m  0       6.0 K | VIDEO_TS.IFO                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.159631,
+      "\u001b[7;16H  0       6.0 K | VIDEO_TS.IFO\u001b[K\u001b[8;16H\u001b[7m  0     104.0 K | VTS_01_0.BUP                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.12801,
+      "\u001b[8;16H  0     104.0 K | VTS_01_0.BUP\u001b[K\u001b[9;16H\u001b[7m  0     104.0 K | VTS_01_0.IFO                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.100771,
+      "\u001b[A[C:60\r\n"
+    ],
+    [
+      0.414847,
+      "\u001b[9;16H  0     104.0 K | VTS_01_0.IFO\u001b[K\u001b[10;16H\u001b[7m  0       1.0 G | VTS_01_1.VOB                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.050931,
+      "\u001b[10;16H  0       1.0 G | VTS_01_1.VOB\u001b[K\u001b[12;16H\u001b[7m  0       1.0 G | VTS_01_3.VOB                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.050746,
+      "\u001b[12;16H  0       1.0 G | VTS_01_3.VOB\u001b[K\u001b[13;16H\u001b[7m  0       1.0 G | VTS_01_4.VOB                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.050472,
+      "\u001b[13;16H  0       1.0 G | VTS_01_4.VOB\u001b[K\u001b[15;16H\u001b[7m               /                                                 \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.050367,
+      "\u001b[15;30H"
+    ],
+    [
+      0.000308,
+      "\u001b[1K "
+    ],
+    [
+      0.000278,
+      "/\u001b[K\u001b[17;16H"
+    ],
+    [
+      0.000132,
+      "\u001b[7m  0       4.2 M| insert.jpg                                      \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.05002,
+      "\u001b[3;16H"
+    ],
+    [
+      0.000468,
+      "\u001b[7m  0       0.4 K| Readme.txt                                      \u001b[17;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.000406,
+      "  0       4.2 M| insert.jpg\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.049917,
+      "\u001b[3;16H"
+    ],
+    [
+      0.000171,
+      "  0       0.4 K| Readme.txt\u001b[K\u001b[5;16H"
+    ],
+    [
+      0.000149,
+      "\u001b[7m               \\ VIDEO_TS                                        \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.188725,
+      "\u001b[5;16H               \\ VIDEO_TS\u001b[K\u001b[6;16H\u001b[7m  0       6.0 K | VIDEO_TS.BUP                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.090348,
+      "\u001b[A[C:59\r\n"
+    ],
+    [
+      0.108245,
+      "\u001b[6;16H  0       6.0 K | VIDEO_TS.BUP\u001b[K\u001b[7;16H\u001b[7m  0       6.0 K | VIDEO_TS.IFO                                   \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.297073,
+      "\u001b[6;16H\u001b[7m  0       6.0 K | VIDEO_TS.BUP                                   \u001b[7;16H\u001b(B\u001b[m  0       6.0 K | VIDEO_TS.IFO\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.191936,
+      "\u001b[5;16H\u001b[7m               \\ VIDEO_TS                                        \u001b[6;16H\u001b(B\u001b[m  0       6.0 K | VIDEO_TS.BUP\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.159055,
+      "\u001b[4;16H\u001b[7m  0       0.2 K| The.Matrix-ASCII.url                            \u001b[5;16H\u001b(B\u001b[m               \\ VIDEO_TS\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.161031,
+      "\u001b[3;16H"
+    ],
+    [
+      0.000318,
+      "\u001b[7m  0       0.4 K| Readme.txt                                      \u001b[4;16H\u001b(B\u001b[m"
+    ],
+    [
+      0.000387,
+      "  0       0.2 K| The.Matrix-ASCII.url\u001b[K\u001b[23;1H"
+    ],
+    [
+      0.081705,
+      "\u001b[A[C:58\r\n"
+    ],
+    [
+      0.51039,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HCmp Pri  Size   Filename\r\nPeer list\u001b[6C\u001b[1m  0       0.4 K| Readme.txt\u001b(B\u001b[m\u001b[K\u001b[4;18H0\u001b[7C0.2 K| The.Matrix-ASCII.url\r\nInfo\u001b[26C\\ VIDEO_TS\u001b[6;18H0\u001b[7C6.0 K | VIDEO_TS.BUP\r\n\u001b[7mFile list\u001b[8C\u001b(B\u001b[m0\u001b[7C6.0 K | VIDEO_TS.IFO\u001b[8;18H0     104.0 K | VTS_01_0.BUP\r\nTracker list     0     104.0 K | VTS_01_0.IFO\u001b[10;18H0\u001b[7C1.0 G | VTS_01_1.VOB\r\nChunks seen\u001b[6C0\u001b[7C1.0 G | VTS_01_2.VOB\u001b[12;18H0\u001b[7C1.0 G | VTS_01_3.VOB\r\nTransfer list    0\u001b[7C1.0 G | VTS_01_4.VOB\u001b[14;18H0     384.9 M | VTS_01_5.VOB\u001b[15;31H/\u001b[16;18H0     849.3 K| cd.jpg\u001b[17;18H0\u001b[7C4.2 M| insert.jpg\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:57] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.383096,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;24r\u001b[1;1H"
+    ],
+    [
+      0.002959,
+      "\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HName:\u001b[13CThe.Matrix-ASCII\r\nPeer list\u001b[6CLocal id:\u001b[9C-lt0D60-%AB%9F%80a%A5%A4%23P%96%12%92%18\u001b[4;16HInfo hash:\u001b[8C3F200842A6F7D6F0A1A03970F6414A39D4426E35\r\n\u001b[7mInfo\u001b[11C\u001b(B\u001b[mCreated:\u001b[10C20/12/2003 12:08:39\u001b[7;1HFile list\u001b[6CDirectory:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[8;16HBase Path:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[9;1HTracker list   Tied to file:\u001b[10;16HFile stats:\u001b[7Cmulti 13 files\r\nChunks seen\n    Chunks:\u001b[11C0 / 17944 * 262144 (17944)\r\nTransfer list  Priority:\u001b[9C2\u001b[14;16HPeer exchange:    enabled active (0/8)\u001b[15;16HState changed:     0:01:43\u001b[17;16HMemory usage:\u001b[10C0.0 MB\u001b[18;16HMax memory usage:   3276.8 MB =   3.2 GB\u001b[19;16HFree diskspace:   1306242.1 MB =   1.2 TB\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:57] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] ["
+    ],
+    [
+      3.1e-05,
+      "Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.106885,
+      "\u001b[15;41H4\u001b[23;1H"
+    ],
+    [
+      0.723731,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;24r\u001b[1;1H"
+    ],
+    [
+      0.003253,
+      "\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HName:\u001b[13CThe.Matrix-ASCII\r\nPeer list\u001b[6CLocal id:\u001b[9C-lt0D60-%AB%9F%80a%A5%A4%23P%96%12%92%18\u001b[4;16HInfo hash:\u001b[8C3F200842A6F7D6F0A1A03970F6414A39D4426E35\r\n\u001b[1mInfo\u001b[11C\u001b(B\u001b[mCreated:\u001b[10C20/12/2003 12:08:39\u001b[7;1HFile list\u001b[6CDirectory:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[8;16HBase Path:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[9;1HTracker list   Tied to file:\u001b[10;16HFile stats:\u001b[7Cmulti 13 files\r\nChunks seen\n    Chunks:\u001b[11C0 / 17944 * 262144 (17944)\r\nTransfer list  Priority:\u001b[9C2\u001b[14;16HPeer exchange:    enabled active (0/8)\u001b[15;16HState changed:     0:01:44\u001b[17;16HMemory usage:\u001b[10C0.0 MB\u001b[18;16HMax memory usage:   3276.8 MB =   3.2 GB\u001b[19;16HFree diskspace:   1306242.1 MB =   1.2 TB\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:56] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] ["
+    ],
+    [
+      3.9e-05,
+      "Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.273822,
+      "\u001b[15;41H5\u001b[23;1H"
+    ],
+    [
+      1.000137,
+      "\u001b[15;41H6\u001b[22;5H5\r\n"
+    ],
+    [
+      0.857577,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;24r\u001b[1;1H"
+    ],
+    [
+      0.003423,
+      "\u001b[28C*** The.Matrix-ASCII ***\u001b[2;16HName:\u001b[13CThe.Matrix-ASCII\r\nPeer list\u001b[6CLocal id:\u001b[9C-lt0D60-%AB%9F%80a%A5%A4%23P%96%12%92%18\u001b[4;16HInfo hash:\u001b[8C3F200842A6F7D6F0A1A03970F6414A39D4426E35\r\n\u001b[7mInfo\u001b[11C\u001b(B\u001b[mCreated:\u001b[10C20/12/2003 12:08:39\u001b[7;1HFile list\u001b[6CDirectory:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[8;16HBase Path:\u001b[8C/home/backdoor/TERTIARY/downloaded/The.Matrix-A\u001b[9;1HTracker list   Tied to file:\u001b[10;16HFile stats:\u001b[7Cmulti 13 files\r\nChunks seen\n    Chunks:\u001b[11C0 / 17944 * 262144 (17944)\r\nTransfer list  Priority:\u001b[9C2\u001b[14;16HPeer exchange:    enabled active (0/8)\u001b[15;16HState changed:     0:01:46\u001b[17;16HMemory usage:\u001b[10C0.0 MB\u001b[18;16HMax memory usage:   3276.8 MB =   3.2 GB\u001b[19;16HFree diskspace:   1306242.1 MB =   1.2 TB\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:54] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] ["
+    ],
+    [
+      3.8e-05,
+      "Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.138641,
+      "\u001b[15;41H7\u001b[23;1H"
+    ],
+    [
+      0.345791,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[28C*** The.Matrix-ASCII ***\u001b[2;18HIP\u001b[14CUP     DOWN   PEER   CT/RE/LO  QS    DONE  REQS\u001b[3;1H\u001b[7mPeer list\u001b[6C\u001b(B\u001b[mNUBFAILED\u001b[5;1HInfo\u001b[7;1HFile list\u001b[9;1HTracker list\u001b[11;1HChunks seen\u001b[13;1HTransfer list\u001b[20;13H0.0K /   4.4G    Rate:   0.0K /   0.0K  Uploaded:   0.0K     [ 0%\r\nPeers: 0(0) Min/Max: 100/200 Slots: U:0/50 D:0/50 U/I/C/A: 0/0/0/0 Unchoked:\r\n[C:53] Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      1.320648,
+      "\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[1;23r\u001b[2;23r\u001b[22S\u001b[1;1H\u001b[K\u001b[7C*** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [    1 of 1    ]\u001b[3;1H\u001b(B\u001b[m\u001b[7m*\u001b(B\u001b[m\u001b[37m\u001b[41m\u001b[1m \u001b(B\u001b[m\u001b[33m\u001b[7m The.Matrix-ASCII                                      \u001b[37m\u001b[1m{\u001b(B\u001b[m\u001b[37m\u001b[7m…chattanoogastate.edu\u001b[1m}\u001b[4;1H\u001b(B\u001b[m\u001b[7m*\u001b(B\u001b[m\u001b[37m\u001b[41m\u001b[1m \u001b(B\u001b[m\u001b[37m            0.0K \u001b[90m/\u001b[37m   4.4G    \u001b[90m U/D:\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m \u001b[90m/\u001b[37m \u001b[90m\u001b[1m  0.0K\u001b(B\u001b[m\u001b[37m  \u001b[90mUploaded:\u001b[37m   0.0K     \u001b[90m[\u001b[31m 0%\u001b[90m]\u001b[5;1H\u001b[39m\u001b[7m*\u001b(B\u001b[m\u001b[37m\u001b[41m\u001b[1m Tracker[5:5]: Connecting to http://tracker.ilibr.org:6969/announce            \u001b[23;1H\u001b[96m\u001b[44m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 3/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\u001b[1;24r\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      11.823335,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m  5\u001b[49C6\r\u001b(B\u001b[m"
+    ],
+    [
+      0.557628,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m10\u001b[49C11] [D 0/0] [H 3/\r\u001b(B\u001b[m"
+    ],
+    [
+      0.522897,
+      "\u001b[12C\u001b[96m\u001b[44m\u001b[1m5\u001b[50C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.567713,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m20\u001b[50C4\r\u001b(B\u001b[m"
+    ],
+    [
+      1.528031,
+      "\u001b[14C\u001b[96m\u001b[44m\u001b[1m 50\u001b[54C20] [H 3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.38113,
+      "\u001b[14C\u001b[96m\u001b[44m\u001b[1m10\u001b[55C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.627597,
+      "\u001b[15C\u001b[96m\u001b[44m\u001b[1m5\u001b[55C4\r\u001b(B\u001b[m"
+    ],
+    [
+      1.322631,
+      "\u001b[78C\u001b[96m\u001b[44m\u001b[1m2\r\u001b(B\u001b[m"
+    ],
+    [
+      3.221013,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m7\u001b[50C2\r\u001b(B\u001b[m"
+    ],
+    [
+      0.447048,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m12\u001b[50C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.793184,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m7\u001b[50C4\u001b[15C0\r\u001b(B\u001b[m"
+    ],
+    [
+      0.537928,
+      "\u001b[5;10H\u001b[37m\u001b[41m\u001b[1m: [Couldn't connect to server]                             \u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.053252,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m22\u001b[50C5\r\u001b(B\u001b[m"
+    ],
+    [
+      2.996994,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m5\u001b[55C1\r\u001b(B\u001b[m"
+    ],
+    [
+      0.388761,
+      "\u001b[15C\u001b[96m\u001b[44m\u001b[1m60\u001b[55C2\r\u001b(B\u001b[m"
+    ],
+    [
+      0.382891,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m5\u001b[55C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.336259,
+      "\u001b[15C\u001b[96m\u001b[44m\u001b[1m70\u001b[55C4\r\u001b(B\u001b[m"
+    ],
+    [
+      4.631979,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m7\u001b[51C154] [D 0/44] [H \r\u001b(B\u001b[m"
+    ],
+    [
+      0.464775,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m1220/170 KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/254] [D 0/44] [H\r\u001b(B\u001b[m"
+    ],
+    [
+      0.745008,
+      "\u001b[5;10H\u001b[37m\u001b[41m\u001b[1m[5:5]: Connecting to http://tracker.ilibr.org:6969/announce\u001b[23;1H\u001b(B\u001b[m"
+    ],
+    [
+      0.654219,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m7\u001b[51C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.560642,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m22\u001b[51C4\r\u001b(B\u001b[m"
+    ],
+    [
+      0.215798,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m7\u001b[51C5\r\u001b(B\u001b[m"
+    ],
+    [
+      0.223519,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m32\u001b[51C6\r\u001b(B\u001b[m"
+    ],
+    [
+      0.256446,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m7\u001b[51C7\r\u001b(B\u001b[m"
+    ],
+    [
+      0.191499,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m42\u001b[51C8\r\u001b(B\u001b[m"
+    ],
+    [
+      0.208208,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m7\u001b[51C9\r\u001b(B\u001b[m"
+    ],
+    [
+      0.232228,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m52\u001b[51C1054] [D 0/44] [\r\u001b(B\u001b[m"
+    ],
+    [
+      0.722087,
+      "\r\n\u001b[30m\u001b[42m[1] 0:rtorrent*                                        \"bozeman\" 14:08 30-Oct-17\u001b(B\u001b[m\u001b[23;1H"
+    ],
+    [
+      6.086723,
+      "\u001b[12C\u001b[96m\u001b[44m\u001b[1m15\u001b[52C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.543327,
+      "\u001b[13C\u001b[96m\u001b[44m\u001b[1m0\u001b[52C2\r\u001b(B\u001b[m"
+    ],
+    [
+      0.255869,
+      "\u001b[12C\u001b[96m\u001b[44m\u001b[1m05\u001b[52C1\r\u001b(B\u001b[m"
+    ],
+    [
+      0.234941,
+      "\u001b[13C\u001b[96m\u001b[44m\u001b[1m0\u001b[52C0\r\u001b(B\u001b[m"
+    ],
+    [
+      0.20487,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m195\u001b[51C49\r\u001b(B\u001b[m"
+    ],
+    [
+      0.672831,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m65\u001b[57C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.191093,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C2\r\u001b(B\u001b[m"
+    ],
+    [
+      0.713653,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m55\u001b[57C1\r\u001b(B\u001b[m"
+    ],
+    [
+      0.383183,
+      "\u001b[17C"
+    ],
+    [
+      0.000213,
+      "\u001b[96m\u001b[44m\u001b[1m0\u001b[57C\u001b(B\u001b[m"
+    ],
+    [
+      0.000262,
+      "\u001b[96m\u001b[44m\u001b[1m0\r\u001b(B\u001b[m"
+    ],
+    [
+      0.222933,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m45\u001b[56C39\r\u001b(B\u001b[m"
+    ],
+    [
+      0.296937,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C8\r\u001b(B\u001b[m"
+    ],
+    [
+      0.182913,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m35\u001b[57C7\r\u001b(B\u001b[m"
+    ],
+    [
+      0.24862,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C6\r\u001b(B\u001b[m"
+    ],
+    [
+      0.198261,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m25\u001b[57C5\r\u001b(B\u001b[m"
+    ],
+    [
+      0.297171,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C4\r\u001b(B\u001b[m"
+    ],
+    [
+      0.223776,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m15\u001b[57C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.192887,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C2\r\u001b(B\u001b[m"
+    ],
+    [
+      0.231696,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m05\u001b[57C1\r\u001b(B\u001b[m"
+    ],
+    [
+      0.207197,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C0\r\u001b(B\u001b[m"
+    ],
+    [
+      0.336425,
+      "\u001b[15C\u001b[96m\u001b[44m\u001b[1m 95\u001b[56C29\r\u001b(B\u001b[m"
+    ],
+    [
+      0.208134,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C8\r\u001b(B\u001b[m"
+    ],
+    [
+      0.192783,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m85\u001b[57C7\r\u001b(B\u001b[m"
+    ],
+    [
+      0.343241,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C6\r\u001b(B\u001b[m"
+    ],
+    [
+      0.232424,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m75\u001b[57C5\r\u001b(B\u001b[m"
+    ],
+    [
+      0.240209,
+      "\u001b[17C\u001b[96m\u001b[44m\u001b[1m0\u001b[57C4\r\u001b(B\u001b[m"
+    ],
+    [
+      0.183631,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m65\u001b[57C3\r\u001b(B\u001b[m"
+    ],
+    [
+      1.096117,
+      "\u001b[16C\u001b[96m\u001b[44m\u001b[1m1\u001b[57C1\r\u001b(B\u001b[m"
+    ],
+    [
+      0.705041,
+      "\u001b[15C\u001b[96m\u001b[44m\u001b[1moff\u001b[56C0] [H\r\u001b(B\u001b[m"
+    ],
+    [
+      2.758167,
+      "\u001b[13C\u001b[96m\u001b[44m\u001b[1m0\u001b[52C8\r\u001b(B\u001b[m"
+    ],
+    [
+      0.248943,
+      "\u001b[12C\u001b[96m\u001b[44m\u001b[1m85\u001b[52C7\r\u001b(B\u001b[m"
+    ],
+    [
+      0.650991,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m46\u001b[51C947] [D 0/0] [H \r\u001b(B\u001b[m"
+    ],
+    [
+      0.269221,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m1\u001b[51C8\r\u001b(B\u001b[m"
+    ],
+    [
+      0.287984,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m36\u001b[51C7\r\u001b(B\u001b[m"
+    ],
+    [
+      0.207479,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m1\u001b[51C6\r\u001b(B\u001b[m"
+    ],
+    [
+      0.280714,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m26\u001b[51C5\r\u001b(B\u001b[m"
+    ],
+    [
+      0.247889,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m1\u001b[51C4\r\u001b(B\u001b[m"
+    ],
+    [
+      0.303707,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m16\u001b[51C3\r\u001b(B\u001b[m"
+    ],
+    [
+      0.403734,
+      "\u001b[11C\u001b[96m\u001b[44m\u001b[1m1\u001b[51C2\r\u001b(B\u001b[m"
+    ],
+    [
+      0.15605,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m685/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/147] [D 0/0] [H 2\r\u001b(B\u001b[m"
+    ],
+    [
+      0.744555,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1m1\u001b[51C47] [D 0/0] [H 2/\r\u001b(B\u001b[m"
+    ],
+    [
+      0.336187,
+      "\u001b[10C\u001b[96m\u001b[44m\u001b[1moff\u001b[49C0] [D 0/0] [H 2/3\r\u001b(B\u001b[m"
+    ],
+    [
+      13.713485,
+      "\u001b[3;3H\u001b[35m\u001b[7m The.Matrix-ASCII                                      \u001b[4;3H\u001b(B\u001b[m\u001b[37m[CLOSED]\u001b[65C\u001b[90m \u001b[31m   \u001b[90m \u001b[5;3H\u001b[37m\u001b[41m\u001b[1mInactive: Tracker: [Couldn't connect to server]                   \u001b[23;77H\u001b[96m\u001b[44m0\r\u001b(B\u001b[m"
+    ],
+    [
+      0.454777,
+      "\u001b[2;67H\u001b[97m\u001b[44m\u001b[1mnone of 0\u001b(B\u001b[m\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\u001b[23d"
+    ],
+    [
+      2.705643,
+      "\u001b[1;7H\u001b[1K *** rTorrent PS-1.0.r68.g882aa4e 0.9.6/0.13.6 - bozeman:22420 ***\u001b[K\r\n\u001b[97m\u001b[44m\u001b[1m[View: main]                                                    [ none of 0    ]\u001b[22;1H\u001b(B\u001b[m(14:08:50) Command failed: Target of wrong type to command.\u001b[K\r\n\u001b[96m\u001b[44m\u001b[1m[Throttle off/off KB] [Rate   0.0/  0.0 KB] [Port: 6904] [U 0/0] [D 0/0] [H 0/3\b \u001b(B\u001b[m\u001b[44m\b\u001b[1@\u001b[96m\u001b[1m3\r\u001b(B\u001b[m"
+    ],
+    [
+      5.095909,
+      "\u001b[1;24r\u001b(B\u001b[m\u001b[?1l\u001b>\u001b[H\u001b[2J\u001b]112\u0007\u001b[?12l\u001b[?25h\u001b[?1000l\u001b[?1002l\u001b[?1006l\u001b[?1005l\u001b[?1049l"
+    ],
+    [
+      0.001518,
+      "[detached (from session 1)]\r\n"
+    ],
+    [
+      0.000431,
+      "\u001b]0;backdoor@bozeman:~\u0007"
+    ],
+    [
+      0.000286,
+      "[backdoor@bozeman ~]$ "
+    ],
+    [
+      0.748144,
+      "e"
+    ],
+    [
+      0.224063,
+      "x"
+    ],
+    [
+      0.216546,
+      "i"
+    ],
+    [
+      0.079352,
+      "t"
+    ],
+    [
+      2.671908,
+      "\r\nexit\r\n"
+    ]
+  ]
+}

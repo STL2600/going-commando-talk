@@ -1,0 +1,5278 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 159.518746,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009188,
+      "\u001b]0;kamikazejoe@endeavour:~\u0007"
+    ],
+    [
+      0.000136,
+      "[kamikazejoe@endeavour ~]$ "
+    ],
+    [
+      0.941179,
+      "n"
+    ],
+    [
+      0.215831,
+      "c"
+    ],
+    [
+      0.200374,
+      "m"
+    ],
+    [
+      0.320076,
+      "p"
+    ],
+    [
+      0.279566,
+      "c"
+    ],
+    [
+      0.264178,
+      "p"
+    ],
+    [
+      0.199968,
+      "p"
+    ],
+    [
+      0.368073,
+      "\r\n"
+    ],
+    [
+      0.011141,
+      "Reading configuration from /home/kamikazejoe/.ncmpcpp/config...\r\n"
+    ],
+    [
+      0.001115,
+      "\u001b[?1049h\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[39;49m\u001b[?25l\u001b[?1001s\u001b[?1000h\u001b[?1015h"
+    ],
+    [
+      0.01143,
+      "\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      3.5e-05,
+      "\u001b(B\u001b[0;1mPlaylist \u001b(B\u001b[m"
+    ],
+    [
+      0.010308,
+      "\r\u001b[24dMPD: you don't have permission for \"status\"\u001b[?12l\u001b[?25h\u001b[?1015l\u001b[?1000l\u001b[?1001r"
+    ],
+    [
+      3.2e-05,
+      "\rPassword:\u001b[K "
+    ],
+    [
+      0.862123,
+      "*"
+    ],
+    [
+      0.137162,
+      "*"
+    ],
+    [
+      0.09589,
+      "*"
+    ],
+    [
+      0.118813,
+      "*"
+    ],
+    [
+      0.080137,
+      "*"
+    ],
+    [
+      0.240905,
+      "*"
+    ],
+    [
+      0.120209,
+      "*"
+    ],
+    [
+      0.103907,
+      "*"
+    ],
+    [
+      0.055972,
+      "*"
+    ],
+    [
+      0.240157,
+      "*"
+    ],
+    [
+      0.19182,
+      "*"
+    ],
+    [
+      0.119345,
+      "*"
+    ],
+    [
+      0.183769,
+      "*"
+    ],
+    [
+      0.016116,
+      "*"
+    ],
+    [
+      0.19166,
+      "*"
+    ],
+    [
+      0.176391,
+      "*"
+    ],
+    [
+      0.088594,
+      "*"
+    ],
+    [
+      0.152272,
+      "*"
+    ],
+    [
+      0.09487,
+      "*"
+    ],
+    [
+      0.120273,
+      "*"
+    ],
+    [
+      0.423604,
+      "\u001b[?1001s\u001b[?1000h\u001b[?1015h\u001b[?25l"
+    ],
+    [
+      0.001345,
+      "\u001b[24;9H accepted\u001b[K"
+    ],
+    [
+      0.003793,
+      "\u001b]0;ncmpcpp 0.8\u0007\u001b[1;69H"
+    ],
+    [
+      2.9e-05,
+      "Volume: 100%\u001b[2;1H"
+    ],
+    [
+      0.001177,
+      "\u001b(0\u001b[0mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b(B[\u001b(B\u001b[0;1mrz\u001b(B\u001b[m]\u001b(0\u001b[0mq\u001b(B\u001b[2;80H\u001b(0\u001b[0m\u001b(B"
+    ],
+    [
+      0.000122,
+      "\r\u001b[23d\u001b(0\u001b[0;1m\u001b[30mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[23;1H\u001b(0\u001b[0;1m\u001b[30m\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[3d\u001b(B\u001b[0;1m\u001b[33mArtist          Track Title\u001b[35X\u001b[3;63HAlbum      Time\u001b[K\r\u001b[4d\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[4;1H\u001b(0\u001b[0m\u001b[33m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      2.8e-05,
+      "\u001b[5d"
+    ],
+    [
+      0.005488,
+      "\u001b[24dCouldn't open \"/tmp/mpd.fifo\" for reading PCM data: No such file or directory"
+    ],
+    [
+      0.001308,
+      "\rThere is no output named \"Visualizer feed\"\u001b[K\r"
+    ],
+    [
+      3e-05,
+      "Connected to venture.secretlair.org\u001b[K\r\u001b[5d"
+    ],
+    [
+      0.000126,
+      "\u001b[1;10H\u001b(B\u001b[0;1m(0 items)\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      1.378801,
+      "\u001b[A"
+    ],
+    [
+      5.6e-05,
+      "\u001b(B\u001b[0;1mBrowse: /\u001b(B\u001b[m         \r\u001b[2d"
+    ],
+    [
+      0.028076,
+      "\u001b[3d\u001b(B\u001b[0;7m\u001b[33m[Files]                                                                         \u001b[4;1H\u001b(B\u001b[0m\u001b[33m[Local media]\u001b[K\r\u001b[5d[Pandora]\u001b[K\r\u001b[6d[Podcasts]\u001b[K\r\u001b[7d[Spotify]\u001b[K\r\u001b[8d[Spotify Web Browse]\u001b[K\r\u001b[9d"
+    ],
+    [
+      6.6e-05,
+      "\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\u001b[K\r\u001b[10d\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\u001b[K\r\u001b[11d"
+    ],
+    [
+      9.9e-05,
+      "\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)\u001b[K\r\u001b[12d\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\u001b[K\r\u001b[13d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\u001b[K\r\u001b[14d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\u001b[K\r\u001b[15d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\u001b[K\r\u001b[16d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\u001b[K\r\u001b[17d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\u001b[K\r\u001b[18d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\u001b[K\r\u001b[19d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\u001b[K\r\u001b[20d\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\u001b[K\r\u001b[21d"
+    ],
+    [
+      6.7e-05,
+      "\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\u001b[K\r\u001b[22d\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      8e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000102,
+      "\u001b[22;51H"
+    ],
+    [
+      0.500898,
+      "\r\u001b[2d"
+    ],
+    [
+      0.559107,
+      "\u001b[4d\u001b[A\u001b[33m[Files]\u001b[K\r\u001b[4d\u001b(B\u001b[0;7m\u001b[33m[Local media]                                                                   \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.175354,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000125,
+      "\u001b[33m[Local media]\u001b[K\r\u001b[5d"
+    ],
+    [
+      2.3e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[Pandora]                                                                       \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.42355,
+      "\u001b[1;9H\u001b(B\u001b[0;1mPandora\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      5.7e-05,
+      "\u001b[4d"
+    ],
+    [
+      8e-05,
+      "\u001b[A"
+    ],
+    [
+      8e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;2H\u001b(B\u001b[0m\u001b[33m60s Folk Radio]\r\u001b[5d[70s Folk Radio]\u001b[K\r\u001b[6d[80s Pop Radio*]\r\u001b[7d[90s Alternative  Radio]\r\u001b[8d[A Perfect Circle Radio*]\r\u001b[9d"
+    ],
+    [
+      3.7e-05,
+      "[African Radio]\u001b[K\r\u001b[10d[Afro Funk Radio]\u001b[K\r\u001b[11d[Afro House Radio]\u001b[K\r\u001b[12d[Afro Latino Architects Radio]\u001b[K\r\u001b[13d"
+    ],
+    [
+      2.7e-05,
+      "[Afrobeat Radio]\u001b[K\r\u001b[14d"
+    ],
+    [
+      3.4e-05,
+      "[Americana Radio]\u001b[K\r\u001b[15d[Anytime Ragas Radio]\u001b[K\r\u001b[16d"
+    ],
+    [
+      3.2e-05,
+      "[Beats for Studying Radio]\u001b[K\r\u001b[17d[Black History on Broadway Radio]\r\u001b[18d"
+    ],
+    [
+      2.7e-05,
+      "[Blues Traveler Radio*]\u001b[K\r\u001b[19d[Brazilian Radio]\u001b[K\r\u001b[20d"
+    ],
+    [
+      3.2e-05,
+      "[Broadway Showtunes Radio]\u001b[K\r\u001b[21d"
+    ],
+    [
+      2.8e-05,
+      "[Browse Genres]\u001b[K\r\u001b[22d[Cake Radio*]\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500663,
+      "\r\u001b[2d"
+    ],
+    [
+      1.501696,
+      "\u001b[24d\u001b[J"
+    ],
+    [
+      4.4e-05,
+      "\u001b[2d"
+    ],
+    [
+      1.689223,
+      "\u001b[1;9H\u001b(B\u001b[0;1m/\u001b(B\u001b[m      \r\u001b[2d"
+    ],
+    [
+      4.1e-05,
+      "\u001b[4d"
+    ],
+    [
+      0.000132,
+      "\u001b[A\u001b[33m[Files]\u001b[K\r\u001b[4d[Local media"
+    ],
+    [
+      3.3e-05,
+      "]\u001b[K\r\u001b[5d\u001b(B\u001b[0;7m\u001b[33m[Pandora]                                                                       \u001b[6;2H"
+    ],
+    [
+      2.4e-05,
+      "\u001b(B\u001b[0m\u001b[33mPodcasts]\u001b[K\r\u001b[7d[Spotify]\u001b[K\r\u001b[8d[Spotify Web Browse"
+    ],
+    [
+      2.3e-05,
+      "]\u001b[K\r\u001b[9d\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\r\u001b[10d\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\r\u001b[11d"
+    ],
+    [
+      2e-05,
+      "\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)\r\u001b[12d\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\r\u001b[13d"
+    ],
+    [
+      1.7e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\r\u001b[14d"
+    ],
+    [
+      1.7e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\r\u001b[15d"
+    ],
+    [
+      1.9e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\r\u001b[16d"
+    ],
+    [
+      2e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\r\u001b[17d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\u001b[K\r\u001b[18d"
+    ],
+    [
+      2e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\r\u001b[19d"
+    ],
+    [
+      2e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\r\u001b[20d"
+    ],
+    [
+      1.8e-05,
+      "\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\r\u001b[21d\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\r\u001b[22d"
+    ],
+    [
+      1.7e-05,
+      "\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500625,
+      "\r\u001b[2d"
+    ],
+    [
+      0.136039,
+      "\u001b[4d\u001b[5d\u001b[33m[Pandora]\u001b[K\r\u001b[6d\u001b(B\u001b[0;7m\u001b[33m[Podcasts]                                                                      \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500565,
+      "\r\u001b[2d"
+    ],
+    [
+      0.127574,
+      "\u001b[1;9H\u001b(B\u001b[0;1mPodcasts\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      6.1e-05,
+      "\u001b[4d"
+    ],
+    [
+      5.4e-05,
+      "\u001b[A"
+    ],
+    [
+      2.9e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;2H\u001b(B\u001b[0m\u001b[33mDefensive S"
+    ],
+    [
+      1.6e-05,
+      "ecurity Podcast - Malware, Hacking, Cyber Security & Infosec]\r\u001b[5d[Edumacation]\r\u001b[6d"
+    ],
+    [
+      3.9e-05,
+      "[Enterprise Security Weekly (Audio)]\u001b[K\r\u001b[7d[Fat Man on Batman]\r\u001b[8d[Hello from the Magic Tavern]\r\u001b[9d[Highlands: A Peephole His]\u001b[K\r\u001b[10d"
+    ],
+    [
+      4.2e-05,
+      "[Hollywood Babble-On]\u001b[K\r\u001b[11d[Jay & Silent Bob Get Old]\u001b[K\r\u001b[12d[MacBreak Weekly (MP3)]\u001b[K\r\u001b[13d"
+    ],
+    [
+      2.5e-05,
+      "[Mission Log: A Roddenberry Star Trek Podcast]\r\u001b[14d[Paul's Security Weekly]\u001b[K\r\u001b[15d[Paul's Security Weekly (Podcast-Only)]\u001b[K\r\u001b[16d[Risky Business]\u001b[K\r\u001b[17d"
+    ],
+    [
+      1.9e-05,
+      "[Security Now (MP3)]\u001b[K\r\u001b[18d"
+    ],
+    [
+      1.7e-05,
+      "[SModcast]\u001b[K\r\u001b[19d[Tell 'Em Steve-Dave]\u001b[K\r\u001b[20d[The Linux Action Show! MP3]\u001b[K\r\u001b[21d"
+    ],
+    [
+      2.3e-05,
+      "[The Social-Engineer Podcast]\u001b[K\r\u001b[22d[The Southern Fried Security Podcast]\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500667,
+      "\r\u001b[2d"
+    ],
+    [
+      0.494674,
+      "\u001b[4d"
+    ],
+    [
+      0.000125,
+      "\u001b[A"
+    ],
+    [
+      6e-05,
+      "\u001b[33m[..]\u001b[K\r\u001b[4d\u001b(B\u001b[0;7m\u001b[33m[Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec]       \u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.256364,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000279,
+      "\u001b[33m[Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec]\u001b[K\r\u001b[5d\u001b(B\u001b[0;7m\u001b[33m[Edumacation]                                                                   \u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.198855,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000104,
+      "\u001b[5d"
+    ],
+    [
+      2.3e-05,
+      "\u001b[33m[Edumacation]\u001b[K\r\u001b[6d\u001b(B\u001b[0;7m\u001b[33m[Enterprise Security Weekly (Audio)]                                            \u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.14503,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000259,
+      "\u001b[6d"
+    ],
+    [
+      6.7e-05,
+      "\u001b[33m[Enterprise Security Weekly (Audio)]\u001b[K\r\u001b[7d\u001b(B\u001b[0;7m\u001b[33m[Fat Man on Batman]                                                             \u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.286676,
+      "\r\u001b[2d"
+    ],
+    [
+      4.9e-05,
+      "\u001b[4d"
+    ],
+    [
+      5e-05,
+      "\u001b[7d"
+    ],
+    [
+      2.2e-05,
+      "\u001b[33m[Fat Man on Batman]\u001b[K\r\u001b[8d\u001b(B\u001b[0;7m\u001b[33m[Hello from the Magic Tavern]                                                   \u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.22487,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000145,
+      "\u001b[8d"
+    ],
+    [
+      0.000173,
+      "\u001b[33m[Hello from the Magic Tavern]\u001b[K\r\u001b[9d\u001b(B\u001b[0;7m\u001b[33m[Highlands: A Peephole His]                                                     \u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500517,
+      "\r\u001b[2d"
+    ],
+    [
+      0.066153,
+      "\u001b[4d"
+    ],
+    [
+      0.000151,
+      "\u001b[8d\u001b(B\u001b[0;7m\u001b[33m[Hello from the Magic Tavern]                                                   \u001b[9;1H"
+    ],
+    [
+      3.6e-05,
+      "\u001b(B\u001b[0m\u001b[33m[Highlands: A Peephole His]\u001b[K\u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.209064,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000222,
+      "\u001b[7d\u001b(B\u001b[0;7m\u001b[33m[Fat Man on Batman]                                                             \u001b[8;1H"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0m\u001b[33m[Hello from the Magic Tavern]\u001b[K\u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.166661,
+      "\r\u001b[4d"
+    ],
+    [
+      9.7e-05,
+      "\u001b[6d"
+    ],
+    [
+      2.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[Enterprise Security Weekly (Audio)]                                            \u001b[7;1H\u001b(B\u001b[0m\u001b[33m[Fat Man on Batman]\u001b[K\u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.184145,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000195,
+      "\u001b[5d"
+    ],
+    [
+      6.2e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[Edumacation]                                                                   \u001b[6;1H\u001b(B\u001b[0m\u001b[33m[Enterprise Security Weekly (Audio)]\u001b[K\u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.327675,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000163,
+      "\u001b(B\u001b[0;7m\u001b[33m[Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec]       \u001b[5;1H\u001b(B\u001b[0m\u001b[33m[Edumacation]\u001b[K\u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.376697,
+      "\r\u001b[2d"
+    ],
+    [
+      0.000164,
+      "\u001b[4d"
+    ],
+    [
+      0.000135,
+      "\u001b[A\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;1H"
+    ],
+    [
+      5.6e-05,
+      "\u001b(B\u001b[0m\u001b[33m[Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec]\u001b[K\u001b[22;38H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.50085,
+      "\r\u001b[2d"
+    ],
+    [
+      2.026652,
+      "\u001b[1;9H\u001b(B\u001b[0;1m/\u001b(B\u001b[m       \r\u001b[2d"
+    ],
+    [
+      5.8e-05,
+      "\u001b[4d"
+    ],
+    [
+      0.000281,
+      "\u001b[A\u001b[33m[Files]\u001b[K\r\u001b[4d[Local media]\u001b[K\r\u001b[5d[Pandora"
+    ],
+    [
+      6.2e-05,
+      "]\u001b[K\r\u001b[6d\u001b(B\u001b[0;7m\u001b[33m[Podcasts]                                                                      \u001b[7;2H\u001b(B\u001b[0m\u001b[33mSpotify"
+    ],
+    [
+      5e-05,
+      "]\u001b[K\r\u001b[8d[Spotify Web Browse]\u001b[K\r\u001b[9d"
+    ],
+    [
+      4.7e-05,
+      "\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\r\u001b[10d"
+    ],
+    [
+      6.1e-05,
+      "\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\r\u001b[11d\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)\r\u001b[12d\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\r\u001b[13d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\u001b[K\r\u001b[14d"
+    ],
+    [
+      3.8e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\r\u001b[15d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\r\u001b[16d"
+    ],
+    [
+      4.3e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\r\u001b[17d"
+    ],
+    [
+      8.6e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\r\u001b[18d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\r\u001b[19d"
+    ],
+    [
+      5.5e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\r\u001b[20d\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\r\u001b[21d"
+    ],
+    [
+      6.7e-05,
+      "\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\r\u001b[22d\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500679,
+      "\r\u001b[2d"
+    ],
+    [
+      0.250488,
+      "\u001b[4d"
+    ],
+    [
+      0.000285,
+      "\u001b[6d\u001b[33m[Podcasts]\u001b[K\r\u001b[7d\u001b(B\u001b[0;7m\u001b[33m[Spotify]                                                                       \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.50082,
+      "\r\u001b[2d"
+    ],
+    [
+      0.079344,
+      "\u001b[1;9H\u001b(B\u001b[0;1mSpotify\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      3.4e-05,
+      "\u001b[4d"
+    ],
+    [
+      0.000106,
+      "\u001b[A\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;2H\u001b(B\u001b[0m\u001b[33mTop albums]\u001b[K\r\u001b[5d[Top artists]\r\u001b[6d[Top tracks]\r\u001b[7d\u001b[K\u001b[8d\u001b[K\u001b[9d\u001b[K\u001b[10d\u001b[K\u001b[11d\u001b[K\u001b[12d\u001b[K\u001b[13d\u001b[K\u001b[14d\u001b[K\u001b[15d\u001b[K\u001b[16d\u001b[K\u001b[17d\u001b[K\u001b[18d\u001b[K\u001b[19d\u001b[K\u001b[20d\u001b[K\u001b[21d\u001b[K\u001b[22d\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.466807,
+      "\u001b[2d"
+    ],
+    [
+      5.9e-05,
+      "\u001b[4d"
+    ],
+    [
+      2.9e-05,
+      "\u001b[A\u001b[33m[..]\u001b[K\r\u001b[4d\u001b(B\u001b[0;7m\u001b[33m[Top albums]                                                                    \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.400742,
+      "\u001b[4d"
+    ],
+    [
+      0.000174,
+      "\u001b[33m[Top albums]\u001b[K\r\u001b[5d\u001b(B\u001b[0;7m\u001b[33m[Top artists]                                                                   \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500605,
+      "\u001b[2d"
+    ],
+    [
+      0.750818,
+      "\u001b[1;16H\u001b(B\u001b[0;1m/Top artists\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      6.4e-05,
+      "\u001b[4d"
+    ],
+    [
+      3.9e-05,
+      "\u001b[A"
+    ],
+    [
+      3.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;2H\u001b(B\u001b[0m\u001b[33mCountry"
+    ],
+    [
+      3.9e-05,
+      "]\u001b[K\r\u001b[5d"
+    ],
+    [
+      8.3e-05,
+      "[Global]\u001b[K\r\u001b[6d[Other countries]\r\u001b[7d"
+    ],
+    [
+      3.2e-05,
+      "[Personal]\r\u001b[22d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500839,
+      "\u001b[2d"
+    ],
+    [
+      0.095142,
+      "\u001b[4d"
+    ],
+    [
+      8.2e-05,
+      "\u001b[A"
+    ],
+    [
+      0.000164,
+      "\u001b[33m[..]\u001b[K\r\u001b[4d\u001b(B\u001b[0;7m\u001b[33m[Country]                                                                       \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.192027,
+      "\u001b[4d"
+    ],
+    [
+      8.8e-05,
+      "\u001b[33m[Country]\u001b[K\r\u001b[5d\u001b(B\u001b[0;7m\u001b[33m[Global]                                                                        \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.346448,
+      "\u001b[1;28H\u001b(B\u001b[0;1m/Global\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      5.5e-05,
+      "\u001b[4d"
+    ],
+    [
+      0.000172,
+      "\u001b[A\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;2H\u001b(B\u001b[0m\u001b[33m21 Savage]\r\u001b[5d"
+    ],
+    [
+      5.4e-05,
+      "[Alessia Cara]\u001b[K\r\u001b[6d[Alesso]\u001b[K\r\u001b[7d[Avicii]\u001b[K\r\u001b[8d[Axwell \\ Ingrosso]\r\u001b[9d"
+    ],
+    [
+      4.7e-05,
+      "[Bad Bunny]\r\u001b[10d[Bebe Rexha]\r\u001b[11d[Becky G]\r\u001b[12d"
+    ],
+    [
+      5e-05,
+      "[Beyoncé]\r\u001b[13d[Big Sean]\r\u001b[14d"
+    ],
+    [
+      3.6e-05,
+      "[BloodPop®]\r\u001b[15d[Bruno Mars]\r\u001b[16d"
+    ],
+    [
+      8.4e-05,
+      "[Bryson Tiller]\r\u001b[17d[Calvin Harris]\r\u001b[18d[Camila Cabello]\r\u001b[19d"
+    ],
+    [
+      5.7e-05,
+      "[Cardi B]\r\u001b[20d[Charlie Puth]\r\u001b[21d"
+    ],
+    [
+      3.6e-05,
+      "[Cheat Codes]\r\u001b[22d[Chris Brown]\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500626,
+      "\r\u001b[2d"
+    ],
+    [
+      1.676543,
+      "\u001b[1;28H       \r\u001b[2d"
+    ],
+    [
+      9.5e-05,
+      "\u001b[4d\u001b[A"
+    ],
+    [
+      5.1e-05,
+      "\u001b[33m[..]\u001b[K\r\u001b[4d[Country]\u001b[K\r\u001b[5d"
+    ],
+    [
+      4.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[Global]                                                                        \u001b[6;2H\u001b(B\u001b[0m\u001b[33mOther "
+    ],
+    [
+      3.8e-05,
+      "countries]\r\u001b[7d[Person"
+    ],
+    [
+      4.3e-05,
+      "al]\r\u001b[8d\u001b[K\u001b[9d\u001b[K\u001b[10d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[K\u001b[11d\u001b[K\u001b[12d\u001b[K\u001b[13d"
+    ],
+    [
+      4.2e-05,
+      "\u001b[K\u001b[14d\u001b[K\u001b[15d\u001b[K\u001b[16d"
+    ],
+    [
+      4.2e-05,
+      "\u001b[K\u001b[17d\u001b[K\u001b[18d"
+    ],
+    [
+      4.3e-05,
+      "\u001b[K\u001b[19d\u001b[K\u001b[20d\u001b[K\u001b[21d\u001b[K\u001b[22d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500768,
+      "\u001b[2d"
+    ],
+    [
+      0.366557,
+      "\u001b[4d\u001b(B\u001b[0;7m\u001b[33m[Country]                                                                       \u001b[5;1H\u001b(B\u001b[0m\u001b[33m[Global]\u001b[K\r\u001b[22d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.175881,
+      "\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000104,
+      "\u001b[A\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;1H"
+    ],
+    [
+      6.3e-05,
+      "\u001b(B\u001b[0m\u001b[33m[Country]\u001b[K\r\u001b[22d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.243501,
+      "\u001b[1;16H            \r\u001b[2d"
+    ],
+    [
+      5.3e-05,
+      "\u001b[4d"
+    ],
+    [
+      3.1e-05,
+      "\u001b[A"
+    ],
+    [
+      2.8e-05,
+      "\u001b[33m[..]\u001b[K\r\u001b[4d[Top albums]\r\u001b[5d"
+    ],
+    [
+      8.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[Top artists]                                                                   \u001b[6;2H\u001b(B\u001b[0m\u001b[33mTop tracks]\u001b[K\r\u001b[7d"
+    ],
+    [
+      4e-05,
+      "\u001b[K\u001b[22d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500875,
+      "\u001b[2d"
+    ],
+    [
+      0.142527,
+      "\u001b[4d\u001b(B\u001b[0;7m\u001b[33m[Top albums]                                                                    \u001b[5;1H\u001b(B\u001b[0m\u001b[33m[Top artists]\u001b[K\r\u001b[22d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.17547,
+      "\u001b[4d"
+    ],
+    [
+      8.5e-05,
+      "\u001b[A\u001b(B\u001b[0;7m\u001b[33m[..]                                                                            \u001b[4;1H\u001b(B\u001b[0m\u001b[33m[Top albums]\u001b[K\r\u001b[22d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.24826,
+      "\u001b[1;9H\u001b(B\u001b[0;1m/\u001b(B\u001b[m      \r\u001b[2d"
+    ],
+    [
+      8.4e-05,
+      "\u001b[4d"
+    ],
+    [
+      0.000167,
+      "\u001b[A\u001b[33m[Files]\u001b[K\r\u001b[4d[Local media]\r\u001b[5d[Pandora]\u001b[K\r\u001b[6d[Podcast"
+    ],
+    [
+      3.2e-05,
+      "s]\u001b[K\r\u001b[7d"
+    ],
+    [
+      2.8e-05,
+      "\u001b(B\u001b[0;7m\u001b[33m[Spotify]                                                                       \u001b[8;1H\u001b(B\u001b[0m\u001b[33m[Spotify Web Browse]\r\u001b[9d"
+    ],
+    [
+      2.7e-05,
+      "\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\r\u001b[10d"
+    ],
+    [
+      3.8e-05,
+      "\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\r\u001b[11d\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)\r\u001b[12d"
+    ],
+    [
+      2.8e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\r\u001b[13d"
+    ],
+    [
+      0.000123,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\r\u001b[14d"
+    ],
+    [
+      0.000109,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\r\u001b[15d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\r\u001b[16d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\r\u001b[17d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\r\u001b[18d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\r\u001b[19d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\r\u001b[20d\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\r\u001b[21d\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\r\u001b[22d\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500793,
+      "\r\u001b[2d"
+    ],
+    [
+      0.274776,
+      "\u001b[4d\u001b[7d\u001b[33m[Spotify]\u001b[K\r\u001b[8d\u001b(B\u001b[0;7m\u001b[33m[Spotify Web Browse]                                                            \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.210114,
+      "\r\u001b[4d\u001b[8d\u001b[33m[Spotify Web Browse]\u001b[K\r\u001b[9d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)                    \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.366635,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000106,
+      "\u001b[9d"
+    ],
+    [
+      5.4e-05,
+      "\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\u001b[K\r\u001b[10d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)                                  \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.167905,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000411,
+      "\u001b[10d\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\u001b[K\r\u001b[11d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)                                         \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.326319,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000134,
+      "\u001b[11d"
+    ],
+    [
+      4.1e-05,
+      "\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)\u001b[K\r\u001b[12d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons                                              \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.175874,
+      "\r\u001b[2d"
+    ],
+    [
+      0.000145,
+      "\u001b[4d\u001b[12d\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\u001b[K\r\u001b[13d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)                                     \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.168348,
+      "\r\u001b[4d"
+    ],
+    [
+      0.00016,
+      "\u001b[13d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\u001b[K\r\u001b[14d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)                                     \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.176224,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000269,
+      "\u001b[14d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\u001b[K\r\u001b[15d"
+    ],
+    [
+      3.2e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)                                     \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.168258,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000275,
+      "\u001b[15d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\u001b[K\r\u001b[16d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)                                     \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159649,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000288,
+      "\u001b[16d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\u001b[K\r\u001b[17d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5                                                 \u001b[22;51H"
+    ],
+    [
+      5.7e-05,
+      "\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159754,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000294,
+      "\u001b[17d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\u001b[K\r\u001b[18d"
+    ],
+    [
+      4.9e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)                                  \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159093,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000224,
+      "\u001b[18d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\u001b[K\r\u001b[19d"
+    ],
+    [
+      6.2e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)                               \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159157,
+      "\r\u001b[2d"
+    ],
+    [
+      3.6e-05,
+      "\u001b[4d"
+    ],
+    [
+      6.6e-05,
+      "\u001b[19d"
+    ],
+    [
+      3.9e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\u001b[K\r\u001b[20d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)   \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.176091,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000186,
+      "\u001b[20d\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\u001b[K\r\u001b[21d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist                                           \u001b[22;51H"
+    ],
+    [
+      4.2e-05,
+      "\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.144334,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000201,
+      "\u001b[21d\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\u001b[K\r\u001b[22d"
+    ],
+    [
+      5.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)                              \u001b[22;51H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.167103,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000152,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      3e-05,
+      "\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      6.4e-05,
+      "\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[K\r\u001b[22d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)     \u001b[22;76H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159325,
+      "\r\u001b[2d"
+    ],
+    [
+      7.7e-05,
+      "\u001b[4d"
+    ],
+    [
+      5.8e-05,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      3.1e-05,
+      "\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      2.5e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)\u001b[K\r\u001b[22d"
+    ],
+    [
+      3.1e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.160355,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000213,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.6e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[22;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159302,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000139,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      1.7e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[22;1H"
+    ],
+    [
+      1.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)                                         \u001b[22;40H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.168191,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000264,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      4.7e-05,
+      "\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      3e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\u001b[K\r\u001b[22d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.191676,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000217,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      2.8e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[22;1H"
+    ],
+    [
+      2.7e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)                                 \u001b[22;48H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.224596,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000434,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      7.7e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)\u001b[K\r\u001b[22d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)                             \u001b[22;52H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.415052,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000345,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.5e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)\u001b[K\r\u001b[22d"
+    ],
+    [
+      4.7e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis                                               \u001b[22;34H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.303457,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000306,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      4.8e-05,
+      "\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis\u001b[K\r\u001b[22d"
+    ],
+    [
+      3.3e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Gitmo Playlist                                                         \u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.463126,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      9.8e-05,
+      "\u001b[21d"
+    ],
+    [
+      2e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis                                               \u001b[22;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Gitmo Playlist\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.37701,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000358,
+      "\u001b[20d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)                             \u001b[21;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis\u001b[K\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.407663,
+      "\r\u001b[2d"
+    ],
+    [
+      0.000417,
+      "\u001b[4d\u001b[19d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)                                 \u001b[20;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)\u001b[K\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500517,
+      "\r\u001b[2d"
+    ],
+    [
+      1.794405,
+      "\u001b[A\u001b(B\u001b[0;1mSearch engine\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      5.3e-05,
+      "\u001b[4d"
+    ],
+    [
+      9.7e-05,
+      "\u001b[A"
+    ],
+    [
+      4e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[33mAny          \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[4;1H"
+    ],
+    [
+      3.1e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mArtist       \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[5d"
+    ],
+    [
+      3.3e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mAlbum Artist \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[6d\u001b(B\u001b[0;1m\u001b[33mTitle        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[7d"
+    ],
+    [
+      3.2e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mAlbum        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[8d"
+    ],
+    [
+      3e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mFilename     \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[9d"
+    ],
+    [
+      5.9e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mComposer     \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[10d"
+    ],
+    [
+      3.7e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mPerformer    \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[11d\u001b(B\u001b[0;1m\u001b[33mGenre        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[12d"
+    ],
+    [
+      3.1e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mDate         \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[13d"
+    ],
+    [
+      2.9e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mComment      \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[14d"
+    ],
+    [
+      4e-05,
+      "\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[15;1H\u001b(0\u001b[0m\u001b[33m\u001b(B\u001b[0;1m\u001b[33mSearch in:\u001b(B\u001b[0m\u001b[33m Database\u001b[K\r\u001b[16d"
+    ],
+    [
+      4.4e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mSearch mode:\u001b(B\u001b[0m\u001b[33m Match if tag contains searched phrase (no regexes)\u001b[K\r\u001b[17d\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[18;1H\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      3.1e-05,
+      "\u001b(B\u001b[0m\u001b[33mSearch\u001b[K\r\u001b[19dReset\u001b[K\r\u001b[20d"
+    ],
+    [
+      3.5e-05,
+      "\u001b[K\u001b[21d\u001b[K\u001b[22d\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.942772,
+      "\u001b[4d"
+    ],
+    [
+      9.4e-05,
+      "\u001b[A\u001b(B\u001b[0;1m\u001b[33mAny          \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[4d"
+    ],
+    [
+      2.3e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[33mArtist       \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.527908,
+      "\u001b[?12l\u001b[?25h\u001b[?1015l\u001b[?1000l\u001b[?1001r"
+    ],
+    [
+      3.7e-05,
+      "\u001b[24d\u001b(B\u001b[0;1mArtist\u001b(B\u001b[m: "
+    ],
+    [
+      2.328061,
+      "T"
+    ],
+    [
+      0.288609,
+      "a"
+    ],
+    [
+      0.112474,
+      "y"
+    ],
+    [
+      0.232303,
+      "l"
+    ],
+    [
+      0.232033,
+      "o"
+    ],
+    [
+      0.103931,
+      "r"
+    ],
+    [
+      0.215234,
+      " "
+    ],
+    [
+      0.19204,
+      "S"
+    ],
+    [
+      0.288831,
+      "w"
+    ],
+    [
+      0.199565,
+      "i"
+    ],
+    [
+      0.112418,
+      "f"
+    ],
+    [
+      0.20759,
+      "t"
+    ],
+    [
+      0.935434,
+      "\u001b[?1001s\u001b[?1000h\u001b[?1015h\u001b[?25l"
+    ],
+    [
+      4.3e-05,
+      "\r\u001b[J"
+    ],
+    [
+      5.7e-05,
+      "\u001b[4d"
+    ],
+    [
+      4.2e-05,
+      "\u001b[4;16H"
+    ],
+    [
+      2.9e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift\r\u001b[22d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.336945,
+      "\u001b[4d"
+    ],
+    [
+      0.000242,
+      "\u001b(B\u001b[0;1m\u001b[33mArtist       \u001b(B\u001b[0m\u001b[33m: Taylor Swift\u001b[K\r\u001b[5d\u001b(B\u001b[0;1;7m\u001b[33mAlbum Artist \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.183738,
+      "\u001b[4d"
+    ],
+    [
+      0.000192,
+      "\u001b[5d"
+    ],
+    [
+      6.8e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mAlbum Artist \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[6d\u001b(B\u001b[0;1;7m\u001b[33mTitle        \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.174797,
+      "\u001b[4d\u001b[6d\u001b(B\u001b[0;1m\u001b[33mTitle        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[7d\u001b(B\u001b[0;1;7m\u001b[33mAlbum        \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.144035,
+      "\u001b[4d\u001b[7d\u001b(B\u001b[0;1m\u001b[33mAlbum        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[8d\u001b(B\u001b[0;1;7m\u001b[33mFilename     \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.15958,
+      "\u001b[4d"
+    ],
+    [
+      0.000133,
+      "\u001b[8d\u001b(B\u001b[0;1m\u001b[33mFilename     \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[9d\u001b(B\u001b[0;1;7m\u001b[33mComposer     \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.160882,
+      "\u001b[4d"
+    ],
+    [
+      0.000177,
+      "\u001b[9d"
+    ],
+    [
+      7.2e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mComposer     \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[10d"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[33mPerformer    \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.152019,
+      "\u001b[4d"
+    ],
+    [
+      0.000182,
+      "\u001b[10d"
+    ],
+    [
+      0.000114,
+      "\u001b(B\u001b[0;1m\u001b[33mPerformer    \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[11d\u001b(B\u001b[0;1;7m\u001b[33mGenre        \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.152986,
+      "\u001b[4d"
+    ],
+    [
+      7.4e-05,
+      "\u001b[11d\u001b(B\u001b[0;1m\u001b[33mGenre        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[12d\u001b(B\u001b[0;1;7m\u001b[33mDate         \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.158749,
+      "\u001b[4d"
+    ],
+    [
+      0.000167,
+      "\u001b[12d"
+    ],
+    [
+      9.7e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mDate         \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[13d\u001b(B\u001b[0;1;7m\u001b[33mComment      \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.151697,
+      "\u001b[4d"
+    ],
+    [
+      0.000146,
+      "\u001b[13d"
+    ],
+    [
+      6.6e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mComment      \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[15d"
+    ],
+    [
+      4.1e-05,
+      "\u001b(B\u001b[0;1;7m\u001b[33mSearch in:\u001b(B\u001b[0;7m\u001b[33m Database                                                             \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.166784,
+      "\u001b[4d\u001b[15d\u001b(B\u001b[0;1m\u001b[33mSearch in:\u001b(B\u001b[0m\u001b[33m Database\u001b[K\r\u001b[16d\u001b(B\u001b[0;1;7m\u001b[33mSearch mode:\u001b(B\u001b[0;7m\u001b[33m Match if tag contains searched phrase (no regexes)                 \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.160078,
+      "\u001b[4d"
+    ],
+    [
+      9.5e-05,
+      "\u001b[16d"
+    ],
+    [
+      2.8e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mSearch mode:\u001b(B\u001b[0m\u001b[33m Match if tag contains searched phrase (no regexes)\u001b[K\r\u001b[18d\u001b(B\u001b[0;7m\u001b[33mSearch                                                                          \u001b[22;1H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.456781,
+      "\u001b[24dSearching..."
+    ],
+    [
+      0.661396,
+      "\b\b\b finished\r\u001b[4d"
+    ],
+    [
+      0.00013,
+      "\u001b[3;19r\u001b[19;1H"
+    ],
+    [
+      0.000107,
+      "\n\u001b[1;24r\u001b[17;1H\u001b[33mSearch\u001b[K\r\u001b[19d\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[20;1H\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      3.2e-05,
+      "\u001b(B\u001b[0;1m\u001b[37mSearch results: \u001b[32mFound 71 songs\r\u001b[21d\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[22;1H\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      1.9e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Artist: Taylor Swift                                       \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.841516,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000168,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      9e-05,
+      "\u001b[33mTaylor Swift - Artist: Taylor Swift\u001b[39X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift (Pandora artist) - Artist: Taylor Swift (Pandora artist)     \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.343778,
+      "\r\u001b[4d\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H\u001b[33mTaylor Swift (Pandora artist) - Artist: Taylor Swift (Pandora artist)     \u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Look What You Made Me Do                            \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.151968,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000187,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      3.9e-05,
+      "\u001b[33mTaylor Swift - Album: Look What You Made Me Do\u001b[28X\u001b[75G\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      2.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Gorgeous                                            \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.152678,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000331,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      9e-05,
+      "\u001b[33mTaylor Swift - Album: Gorgeous\u001b[44X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: 1989                                                \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.151819,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000172,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      4e-05,
+      "\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      3e-05,
+      "\u001b[33mTaylor Swift - Album: 1989\u001b[48X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: ...Ready For It?                                    \u001b[32m(-:--)\u001b[22;80H"
+    ],
+    [
+      4e-05,
+      "\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.150186,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000137,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      2.5e-05,
+      "\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      3.1e-05,
+      "\u001b[33mTaylor Swift - Album: ...Ready For It?\u001b[36X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: 1989 (Deluxe Edition)                               \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.136911,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000292,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      6e-05,
+      "\u001b[33mTaylor Swift - Album: 1989 (Deluxe Edition)\u001b[31X\u001b[75G\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      7.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Red (Deluxe Edition)                                \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.151738,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000393,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      6.3e-05,
+      "\u001b[33mTaylor Swift - Album: Red (Deluxe Edition)\u001b[32X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Fearless                                            \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.167683,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000347,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      7.5e-05,
+      "\u001b[33mTaylor Swift - Album: Fearless\u001b[44X\u001b[75G\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      4.5e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Red                                                 \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.142208,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000187,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      0.0001,
+      "\u001b[33mTaylor Swift - Album: Red\u001b[49X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Speak Now (Deluxe Edition)                          \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.50055,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000185,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      4.2e-05,
+      "\u001b[33mTaylor Swift - Album: Speak Now (Deluxe Edition)\u001b[26X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift                                        \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.032557,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000288,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      5.2e-05,
+      "\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5e-05,
+      "\u001b[33mTaylor Swift - Album: Taylor Swift\u001b[40X\u001b[75G\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      5.2e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Speak Now                                           \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.027125,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000177,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      4.7e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[33mTaylor Swift - Album: Speak Now\u001b[43X\u001b[75G"
+    ],
+    [
+      2.7e-05,
+      "\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      4.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Fearless Platinum Edition                           \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030548,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000393,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.9e-05,
+      "\u001b[33mTaylor Swift - Album: Fearless Platinum Edition\u001b[27X\u001b[75G\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      5.2e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Speak Now World Tour Live                           \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029676,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000351,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.4e-05,
+      "\u001b[33mTaylor Swift - Album: Speak Now World Tour Live\u001b[27X\u001b[75G\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Bad Blood                                           \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.02963,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000267,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      4.6e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[33mTaylor Swift - Album: Bad Blood\u001b[43X\u001b[75G"
+    ],
+    [
+      3.8e-05,
+      "\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: 1989                          \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031094,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000328,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5e-05,
+      "\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: 1989\u001b[26X\u001b[75G"
+    ],
+    [
+      6.2e-05,
+      "\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Red                           \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030344,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000291,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      8.4e-05,
+      "\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Red\u001b[27X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Speak Now                     \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029832,
+      "\r\u001b[4d"
+    ],
+    [
+      0.00039,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.3e-05,
+      "\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Speak Now\u001b[21X\u001b[75G\u001b[32m(-:--)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Fearless Karaoke                                    \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.032375,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000446,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.4e-05,
+      "\u001b[33mTaylor Swift - Album: Fearless Karaoke\u001b[36X\u001b[75G\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      7.1e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke                                \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.027985,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000628,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      5.4e-05,
+      "\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.6e-05,
+      "\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke\u001b[32X\u001b[75G"
+    ],
+    [
+      4e-05,
+      "\u001b[32m(-:--)\u001b[22;1H"
+    ],
+    [
+      3.5e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Look What You Made Me Do                                   \u001b[32m(3:31)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029027,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000386,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.7e-05,
+      "\u001b[33mTaylor Swift - Look What You Made Me Do\u001b[35X\u001b[75G\u001b[32m(3:31)\u001b[22;1H"
+    ],
+    [
+      4.1e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Gorgeous                                                   \u001b[32m(3:29)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030132,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000466,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      6.5e-05,
+      "\u001b[33mTaylor Swift - Gorgeous\u001b[51X\u001b[75G\u001b[32m(3:29)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - ...Ready For It?                                           \u001b[32m(3:28)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030015,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000562,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      8.2e-05,
+      "\u001b[33mTaylor Swift - ...Ready For It?\u001b[43X\u001b[75G\u001b[32m(3:28)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mZAYN;Taylor Swift - I Don’t Wanna Live Forever (Fifty Shades Darker)      \u001b[32m(4:05)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.02976,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000547,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      0.00012,
+      "\u001b[33mZAYN;Taylor Swift - I Don’t Wanna Live Forever (Fifty Shades Darker)      \u001b[32m(4:05)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Shake It Off                                               \u001b[32m(3:39)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029243,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000437,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      5.2e-05,
+      "\u001b[33mTaylor Swift - Shake It Off\u001b[47X\u001b[75G\u001b[32m(3:39)\u001b[22;1H"
+    ],
+    [
+      3.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Blank Space                                                \u001b[32m(3:51)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.178798,
+      "\r\u001b[4d\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H\u001b[33mTaylor Swift - Blank Space\u001b[48X\u001b[75G\u001b[32m(3:51)\u001b[22;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Wildest Dreams                                             \u001b[32m(3:40)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.528189,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000523,
+      "\u001b[21d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Blank Space                                                \u001b[32m(3:51)\u001b[22;1H"
+    ],
+    [
+      6e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Wildest Dreams\u001b[45X\u001b[75G\u001b[32m(3:40)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500025,
+      "\r\u001b[24d\u001b[J\u001b[4d"
+    ],
+    [
+      0.000618,
+      "\u001b[20d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Shake It Off                                               \u001b[32m(3:39)\u001b[21;1H"
+    ],
+    [
+      5.8e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Blank Space\u001b[48X\u001b[75G\u001b[32m(3:51)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029247,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000896,
+      "\u001b[19d\u001b(B\u001b[0;7m\u001b[33mZAYN;Taylor Swift - I Don’t Wanna Live Forever (Fifty Shades Darker)      \u001b[32m(4:05)\u001b[20;1H"
+    ],
+    [
+      9.8e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Shake It Off\u001b[47X\u001b[75G\u001b[32m(3:39)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029287,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000581,
+      "\u001b[18d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - ...Ready For It?                                           \u001b[32m(3:28)\u001b[19;1H"
+    ],
+    [
+      9.2e-05,
+      "\u001b(B\u001b[0m\u001b[33mZAYN;Taylor Swift - I Don’t Wanna Live Forever (Fifty Shades Darker)      \u001b[32m(4:05)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030628,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000605,
+      "\u001b[17d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Gorgeous                                                   \u001b[32m(3:29)\u001b[18;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - ...Ready For It?\u001b[43X\u001b[75G\u001b[32m(3:28)\u001b[22;80H"
+    ],
+    [
+      7.1e-05,
+      "\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029177,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000283,
+      "\u001b[16d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Look What You Made Me Do                                   \u001b[32m(3:31)\u001b[17;1H"
+    ],
+    [
+      2.7e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Gorgeous\u001b[51X\u001b[75G\u001b[32m(3:29)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029285,
+      "\r\u001b[4d\u001b[15d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke                                \u001b[32m(-:--)\u001b[16;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Look What You Made Me Do\u001b[35X\u001b[75G\u001b[32m(3:31)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030377,
+      "\r\u001b[4d\u001b[14d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Fearless Karaoke                                    \u001b[32m(-:--)\u001b[15;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke\u001b[32X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030473,
+      "\r\u001b[4d\u001b[13d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Speak Now                     \u001b[32m(-:--)\u001b[14;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Fearless Karaoke\u001b[36X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030887,
+      "\r\u001b[4d\u001b[12d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Red                           \u001b[32m(-:--)\u001b[13;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Speak Now\u001b[21X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030255,
+      "\r\u001b[4d\u001b[11d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: 1989                          \u001b[32m(-:--)\u001b[12;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: Red\u001b[27X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030042,
+      "\r\u001b[4d\u001b[10d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Bad Blood                                           \u001b[32m(-:--)\u001b[11;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Taylor Swift Karaoke: 1989\u001b[26X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029564,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000231,
+      "\u001b[9d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Speak Now World Tour Live                           \u001b[32m(-:--)\u001b[10;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Bad Blood\u001b[43X\u001b[75G"
+    ],
+    [
+      3.5e-05,
+      "\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031105,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000329,
+      "\u001b[8d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Fearless Platinum Edition                           \u001b[32m(-:--)\u001b[9;1H"
+    ],
+    [
+      3.2e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Speak Now World Tour Live\u001b[27X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030269,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000412,
+      "\u001b[7d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Speak Now                                           \u001b[32m(-:--)\u001b[8;1H"
+    ],
+    [
+      4.7e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Fearless Platinum Edition\u001b[27X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029366,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000323,
+      "\u001b[6d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Taylor Swift                                        \u001b[32m(-:--)\u001b[7;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Speak Now\u001b[43X\u001b[75G\u001b[32m(-:--)\u001b[22;80H"
+    ],
+    [
+      2.7e-05,
+      "\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029626,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000434,
+      "\u001b[5d\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Speak Now (Deluxe Edition)                          \u001b[32m(-:--)\u001b[6;1H"
+    ],
+    [
+      5.6e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Taylor Swift\u001b[40X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029406,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000221,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Red                                                 \u001b[32m(-:--)\u001b[5;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Speak Now (Deluxe Edition)\u001b[26X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030321,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000238,
+      "\u001b[A\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Fearless                                            \u001b[32m(-:--)\u001b[4;1H"
+    ],
+    [
+      2.7e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Red\u001b[49X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030619,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000457,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      7.8e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Red (Deluxe Edition)                                \u001b[32m(-:--)\u001b[4;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Fearless\u001b[44X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029205,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000515,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: 1989 (Deluxe Edition)                               \u001b[32m(-:--)\u001b[4;1H"
+    ],
+    [
+      6.7e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Red (Deluxe Edition)\u001b[32X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.033343,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000544,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: ...Ready For It?                                    \u001b[32m(-:--)\u001b[4;1H"
+    ],
+    [
+      6.3e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: 1989 (Deluxe Edition)\u001b[31X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.026722,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000455,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      6.7e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: 1989                                                \u001b[32m(-:--)\u001b[4;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: ...Ready For It?\u001b[36X\u001b[75G"
+    ],
+    [
+      8.9e-05,
+      "\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029675,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000455,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Gorgeous                                            \u001b[32m(-:--)\u001b[4;1H"
+    ],
+    [
+      6.2e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: 1989\u001b[48X\u001b[75G"
+    ],
+    [
+      5.2e-05,
+      "\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029876,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000527,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Album: Look What You Made Me Do                            \u001b[32m(-:--)\u001b[4;1H"
+    ],
+    [
+      6.1e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Gorgeous\u001b[44X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029044,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000241,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift (Pandora artist) - Artist: Taylor Swift (Pandora artist)     \u001b[32m(-:--)\u001b[4;1H"
+    ],
+    [
+      3.9e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Album: Look What You Made Me Do\u001b[28X\u001b[75G\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030633,
+      "\r\u001b[4d\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[33mTaylor Swift - Artist: Taylor Swift                                       \u001b[32m(-:--)\u001b[4;1H\u001b(B\u001b[0m\u001b[33mTaylor Swift (Pandora artist) - Artist: Taylor Swift (Pandora artist)     \u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030093,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000429,
+      "\u001b[3;22r\u001b[3;1H\u001b[4T\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      6.3e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mReset                                                                           \u001b[4;1H"
+    ],
+    [
+      5.9e-05,
+      "\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[5;1H\u001b(0\u001b[0m\u001b[33m\u001b(B\u001b[0;1m\u001b[37mSearch results: \u001b[32mFound 71 songs\u001b(B\u001b[0m\u001b[33m\u001b[K\r\u001b[6d"
+    ],
+    [
+      4.6e-05,
+      "\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[7;1H\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0m\u001b[33mTaylor Swift - Artist: Taylor Swift\u001b[39X\u001b[75G"
+    ],
+    [
+      4.7e-05,
+      "\u001b[32m(-:--)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030043,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000148,
+      "\u001b[A"
+    ],
+    [
+      4.8e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mAny          \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[4d\u001b(B\u001b[0;1m\u001b[33mArtist       \u001b(B\u001b[0m\u001b[33m: Taylor Swift\u001b[K\r\u001b[5d"
+    ],
+    [
+      5.7e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mAlbum Artist \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[6d"
+    ],
+    [
+      3.7e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mTitle        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[7d"
+    ],
+    [
+      3.7e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mAlbum        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[8d"
+    ],
+    [
+      3.6e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mFilename     \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[9d"
+    ],
+    [
+      3.5e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mComposer     \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[10d"
+    ],
+    [
+      9.9e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mPerformer    \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[11d\u001b(B\u001b[0;1m\u001b[33mGenre        \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[12d"
+    ],
+    [
+      5.2e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mDate         \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[13d\u001b(B\u001b[0;1m\u001b[33mComment      \u001b(B\u001b[0m\u001b[33m: \u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[14d"
+    ],
+    [
+      4.1e-05,
+      "\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[15;1H\u001b(0\u001b[0m\u001b[33m\u001b(B\u001b[0;1m\u001b[33mSearch in:\u001b(B\u001b[0m\u001b[33m Database\u001b[K\r\u001b[16d"
+    ],
+    [
+      3.9e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mSearch mode:\u001b(B\u001b[0m\u001b[33m Match if tag contains searched phrase (no regexes)\u001b[K\r\u001b[17d"
+    ],
+    [
+      3.8e-05,
+      "\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[18;1H\u001b(0\u001b[0m\u001b[33m\u001b(B\u001b[0m\u001b[33mSearch\u001b[K\r\u001b[19d"
+    ],
+    [
+      3.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mReset                                                                           \u001b[20;1H\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[21;1H\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      3.4e-05,
+      "\u001b(B\u001b[0;1m\u001b[37mSearch results: \u001b[32mFound 71 songs\u001b(B\u001b[0m\u001b[33m\u001b[K\r\u001b[22d"
+    ],
+    [
+      3.7e-05,
+      "\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[22;1H\u001b(0\u001b[0m\u001b[33m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.030731,
+      "\u001b[4d"
+    ],
+    [
+      0.000223,
+      "\u001b[22d"
+    ],
+    [
+      0.029751,
+      "\u001b[4d\u001b[22d"
+    ],
+    [
+      0.029587,
+      "\u001b[4d"
+    ],
+    [
+      0.000216,
+      "\u001b[22d"
+    ],
+    [
+      0.030987,
+      "\u001b[4d"
+    ],
+    [
+      0.000199,
+      "\u001b[22d"
+    ],
+    [
+      0.030192,
+      "\u001b[4d"
+    ],
+    [
+      0.000214,
+      "\u001b[22d"
+    ],
+    [
+      0.030428,
+      "\u001b[4d"
+    ],
+    [
+      0.000194,
+      "\u001b[22d"
+    ],
+    [
+      0.029987,
+      "\u001b[4d"
+    ],
+    [
+      0.000225,
+      "\u001b[22d"
+    ],
+    [
+      0.030573,
+      "\u001b[4d"
+    ],
+    [
+      0.000211,
+      "\u001b[22d"
+    ],
+    [
+      0.029174,
+      "\u001b[4d"
+    ],
+    [
+      9.5e-05,
+      "\u001b[22d"
+    ],
+    [
+      0.030073,
+      "\u001b[4d"
+    ],
+    [
+      0.000172,
+      "\u001b[22d"
+    ],
+    [
+      0.030548,
+      "\u001b[4d"
+    ],
+    [
+      7.9e-05,
+      "\u001b[22d"
+    ],
+    [
+      0.030617,
+      "\u001b[4d"
+    ],
+    [
+      7.8e-05,
+      "\u001b[22d"
+    ],
+    [
+      0.030242,
+      "\u001b[4d"
+    ],
+    [
+      7.4e-05,
+      "\u001b[22d"
+    ],
+    [
+      0.030556,
+      "\u001b[4d"
+    ],
+    [
+      7.1e-05,
+      "\u001b[22d"
+    ],
+    [
+      2.295163,
+      "\u001b[24dSearch state reset\r\u001b[4d"
+    ],
+    [
+      0.000239,
+      "\u001b[A\u001b(B\u001b[0;1;7m\u001b[33mAny          \u001b(B\u001b[0;7m\u001b[33m: \u001b[36m<empty>\u001b[33m                                                          \u001b[4;16H\u001b(B\u001b[0m\u001b[36m<empty>\u001b[33m\u001b[K\r\u001b[19d"
+    ],
+    [
+      6.7e-05,
+      "Reset\u001b[K\r\u001b[20d\u001b[K\u001b[21d\u001b[K\u001b[22d\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      3.734488,
+      "\u001b[H"
+    ],
+    [
+      6.1e-05,
+      "\u001b(B\u001b[0;1mBrowse: /\u001b(B\u001b[m    \r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.00013,
+      "\u001b[A\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\u001b[K\r\u001b[4d"
+    ],
+    [
+      2.6e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\r\u001b[5d"
+    ],
+    [
+      1.9e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\r\u001b[6d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\r\u001b[7d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\r\u001b[8d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\r\u001b[9d"
+    ],
+    [
+      5.5e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\r\u001b[10d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\r\u001b[11d"
+    ],
+    [
+      3.1e-05,
+      "\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\r\u001b[12d\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\r\u001b[13d"
+    ],
+    [
+      2.3e-05,
+      "\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\r\u001b[14d\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)\u001b[K\r\u001b[15d\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[16;1H"
+    ],
+    [
+      1.9e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[17;1H\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\u001b[K\r\u001b[18d"
+    ],
+    [
+      1.7e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[19;1H"
+    ],
+    [
+      5.5e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)                                 \u001b[20;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)\r\u001b[21d\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis\r\u001b[22d\u001b[31mplaylist\u001b[33m Gitmo Playlist\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500736,
+      "\r\u001b[2d"
+    ],
+    [
+      1.000885,
+      "\u001b[24d\u001b[J"
+    ],
+    [
+      5.2e-05,
+      "\u001b[2d"
+    ],
+    [
+      1.428662,
+      "\u001b[24dPlaylist \"Electronic|Hacker's Coffee (by omegak)\" loaded"
+    ],
+    [
+      5.1e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.0002,
+      "\u001b[22;24H"
+    ],
+    [
+      0.179449,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000203,
+      "\u001b[22;24H"
+    ],
+    [
+      4.7e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      0.007475,
+      "\u001b]0;Daft Punk - End Of Line\u0007\u001b]0;Daft Punk - End Of Line\u0007\u001b]0;Daft Punk - End Of Line\u0007\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      8.5e-05,
+      "\u001b[23d\u001b(B\u001b[0;1m\u001b[32m>\u001b[39m\u001b(B\u001b[m\u001b[4d\b"
+    ],
+    [
+      0.000314,
+      "\u001b[22;24H"
+    ],
+    [
+      0.00658,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      3.5e-05,
+      "\u001b[23;2H"
+    ],
+    [
+      0.500124,
+      "\u001b[2d\b"
+    ],
+    [
+      0.504537,
+      "\u001b]0;Daft Punk - End Of Line\u0007\u001b[23;2H"
+    ],
+    [
+      3.6e-05,
+      "\u001b[2d\b"
+    ],
+    [
+      0.57428,
+      "\u001b[A"
+    ],
+    [
+      8.1e-05,
+      "\u001b(B\u001b[0;1mPlaylist (596 items, length: 1 day, 23 hours, 16 minutes, 34 second\r\u001b[2d\u001b(B\u001b[m\u001b[3d\u001b(B\u001b[0;1m\u001b[33mArtist          Track Title\u001b[35X\u001b[3;63HAlbum      Time\u001b[K\r\u001b[4d\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[4;1H\u001b(0\u001b[0m\u001b[33m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.000208,
+      "\u001b[5d\u001b(B\u001b[0;1;7m\u001b[33mDaft Punk       \u001b[32m12    \u001b[37mEnd Of Line                             \u001b[36mTRON: Lega \u001b[35m2:36   \u001b[6;1H\u001b(B\u001b[0m\u001b[33mFreedomatik     \u001b[32m01    \u001b[37mFrom Scratch\u001b[28X\u001b[6;63H"
+    ],
+    [
+      2.9e-05,
+      "\u001b[36mOne Nite O \u001b[35m3:26\u001b[K\r\u001b[7d"
+    ],
+    [
+      0.000174,
+      "\u001b[33mDepeche Mode    \u001b[32m01    \u001b[37mPersonal Jesus - 2006 Digital Remaster  \u001b[36mThe Best O \u001b[35m3:47\u001b[K\r\u001b[8d\u001b[33mHans Zimmer     \u001b[32m07    \u001b[37mMombasa\u001b[33X\u001b[8;63H\u001b[36mInception  \u001b[35m4:54\u001b[K\r\u001b[9d\u001b[33mC418            \u001b[32m09    \u001b[37mAlong the Busiest of Roads\u001b[14X\u001b[9;63H\u001b[36m72 Minutes \u001b[35m5:11\u001b[K\r\u001b[10d\u001b[33mJuno Reactor    \u001b[32m01    \u001b[37mConquistador I\u001b[26X\u001b[10;63H\u001b[36mLabyrinth  \u001b[35m6:03\u001b[K\r\u001b[11d\u001b[33mE.S. Posthumus  \u001b[32m06    \u001b[37mNara (Theme to Cold Case)\u001b[15X\u001b[11;63H\u001b[36mUnearthed  \u001b[35m4:51\u001b[K\r\u001b[12d\u001b[33mBreak of Realit \u001b[32m04    \u001b[37mSpectrum of the Sky\u001b[21X\u001b[12;63H\u001b[36mSpectrum o \u001b[35m5:31\u001b[K\r\u001b[13d\u001b[33mMan With No Nam \u001b[32m04    \u001b[37mSugar Rush - Astrix Remix\u001b[15X\u001b[13;63H\u001b[36mWe Are Pla \u001b[35m7:07\u001b[K\r\u001b[14d\u001b[33mMan With No Nam \u001b[32m04    \u001b[37mTeleport\u001b[32X\u001b[14;63H\u001b[36mA Voyage I \u001b[35m5:53\u001b[K\r\u001b[15d\u001b[33mMind.in.a.box   \u001b[32m06    \u001b[37m8 Bits\u001b[34X\u001b[15;63H\u001b[36mR.E.T.R.O. \u001b[35m3:28\u001b[K\r\u001b[16d\u001b[33mMind.in.a.box   \u001b[32m02    \u001b[37mLightforce\u001b[30X\u001b[16;63H\u001b[36mR.E.T.R.O. \u001b[35m7:56\u001b[K\r\u001b[17d\u001b[33mZircon          "
+    ],
+    [
+      3.1e-05,
+      "\u001b[32m05    \u001b[37mCellular\u001b[32X\u001b[17;63H\u001b[36mFittest -  \u001b[35m5:43\u001b[K\r\u001b[18d\u001b[33mZircon          \u001b[32m05    \u001b[37mThe Emerald Lounge\u001b[22X\u001b[18;63H\u001b[36mMass Media \u001b[35m3:10\u001b[K\r\u001b[19d\u001b[33mAtlas Plug      \u001b[32m01    \u001b[37mAround The World\u001b[24X\u001b[19;63H\u001b[36mAround The \u001b[35m4:36\u001b[K\r\u001b[20d\u001b[33mBeatbully       \u001b[32m01    \u001b[37mRnbully\u001b[33X\u001b[20;63H\u001b[36mDødpop - V \u001b[35m2:49\u001b[K\r\u001b[21d\u001b[33m009 Sound Syste \u001b[32m02    \u001b[37mDreamscape\u001b[30X\u001b[21;63H\u001b[36mTrack One  \u001b[35m4:37\u001b[K\r\u001b[22d\u001b[33m009 Sound Syste \u001b[32m09    \u001b[37mSpeak To Angels\u001b[25X\u001b[22;63H\u001b[36m009 Sound  \u001b[35m10:36\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.50665,
+      "\u001b]0;Daft Punk - End Of Line\u0007\r\u001b[23d\u001b(B\u001b[0;1m\u001b[32m=>\u001b[39m\u001b(B\u001b[m\u001b[1;10H\u001b(B\u001b[0;1m596 items, length: 1 day, 23 hours, 16 minutes, 34 seconds\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500828,
+      "\u001b[1;10H\u001b(B\u001b[0;1m96 items, length: 1 day, 23 hours, 16 minutes, 34 seconds)\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.507125,
+      "\u001b]0;Daft Punk - End Of Line\u0007\u001b[23;3H"
+    ],
+    [
+      0.000106,
+      "\u001b[1;10H\u001b(B\u001b[0;1m6 items, length: 1 day, 23 hours, 16 minutes, 34 seconds) \r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500789,
+      "\u001b[1;10H\u001b(B\u001b[0;1m items, length: 1 day, 23 hours, 16 minutes, 34 seconds) *\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.506628,
+      "\u001b]0;Daft Punk - End Of Line\u0007\u001b[23;2H"
+    ],
+    [
+      3.1e-05,
+      "\u001b(B\u001b[0;1m\u001b[32m=>\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      4e-05,
+      "\u001b[1;10H"
+    ],
+    [
+      2.1e-05,
+      "\u001b(B\u001b[0;1mitems, length: 1 day, 23 hours, 16 minutes, 34 seconds) *\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500812,
+      "\u001b[1;10H\u001b(B\u001b[0;1mtems, length: 1 day, 23 hours, 16 minutes, 34 seconds) ** \r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.507107,
+      "\u001b]0;Daft Punk - End Of Line\u0007\u001b[23;4H\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      0.000135,
+      "\r\u001b[24d\u001b(B\u001b[0;1mPlaying:\u001b(B\u001b[m Daft Punk \"TRON: Legacy\" (2010) - End Of Line  \u001b[24;70H"
+    ],
+    [
+      6.4e-05,
+      "\u001b(B\u001b[0;1m[0:05/2:36\u001b[?7l]\u001b[?7h\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000245,
+      "\u001b[1;10H\u001b(B\u001b[0;1mems, length: 1 day, 23 hours, 16 minutes, 34 seconds) ** (\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500602,
+      "\u001b[1;10H\u001b(B\u001b[0;1mms, length: 1 day, 23 hours, 16 minutes, 34 seconds) ** (5\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.507939,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      7.8e-05,
+      "\u001b[23;3H"
+    ],
+    [
+      5.8e-05,
+      "\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m6\u001b[23;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.000221,
+      "\u001b[1;10H\u001b(B\u001b[0;1ms, length: 1 day, 23 hours, 16 minutes, 34 seconds) ** (59\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.501044,
+      "\u001b[5d\u001b(B\u001b[0;1m\u001b[33mDaft Punk       \u001b[32m12    \u001b[37mEnd Of Line\u001b[29X\u001b[5;63H\u001b[36mTRON: Lega \u001b[35m2:36\u001b[K\u001b[22;79H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      4.1e-05,
+      "\u001b[1;10H\u001b(B\u001b[0;1m, length: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.519974,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      8.2e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m7\u001b[23;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.000219,
+      "\u001b[1;10H\u001b(B\u001b[0;1m length: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 \r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500624,
+      "\u001b[1;10H\u001b(B\u001b[0;1mlength: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 i\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.507966,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      9.4e-05,
+      "\u001b[23;4H"
+    ],
+    [
+      6.2e-05,
+      "\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m8\u001b[23;6H\u001b(B\u001b[m"
+    ],
+    [
+      5.5e-05,
+      "\u001b[1;10H\u001b(B\u001b[0;1mength: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 it\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.50088,
+      "\u001b[1;10H\u001b(B\u001b[0;1mngth: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 ite\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.50772,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      8.3e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m9\u001b[23;6H\u001b(B\u001b[m"
+    ],
+    [
+      3.2e-05,
+      "\u001b[1;10H\u001b(B\u001b[0;1mgth: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 item\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500665,
+      "\u001b[1;10H\u001b(B\u001b[0;1mth: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 items\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.507149,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      4.7e-05,
+      "\u001b[23;5H"
+    ],
+    [
+      3e-05,
+      "\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;73H\u001b[39m10\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      9.7e-05,
+      "\u001b[1;10H\u001b(B\u001b[0;1mh: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 items,\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500674,
+      "\u001b[1;10H\u001b(B\u001b[0;1m: 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 items, \r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.508792,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      4.5e-05,
+      "\u001b[24;74H"
+    ],
+    [
+      2.6e-05,
+      "\u001b(B\u001b[0;1m1\u001b[23;7H\u001b(B\u001b[m"
+    ],
+    [
+      2.5e-05,
+      "\u001b[1;10H\u001b(B\u001b[0;1m 1 day, 23 hours, 16 minutes, 34 seconds) ** (596 items, l\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500682,
+      "\u001b[1;10H\u001b(B\u001b[0;1m1 day, 23 hours, 16 minutes, 34 seconds) ** (596 items, le\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.513886,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      8.9e-05,
+      "\u001b[23;6H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m2\u001b[23;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.000103,
+      "\u001b[1;10H\u001b(B\u001b[0;1m day, 23 hours, 16 minutes, 34 seconds) ** (596 items, len\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500637,
+      "\u001b[1;10H\u001b(B\u001b[0;1mday, 23 hours, 16 minutes, 34 seconds) ** (596 items, leng\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.510929,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      4.6e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m3\u001b[23;8H\u001b(B\u001b[m"
+    ],
+    [
+      9.7e-05,
+      "\u001b[1;10H\u001b(B\u001b[0;1may, 23 hours, 16 minutes, 34 seconds) ** (596 items, lengt\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500746,
+      "\u001b[1;10H\u001b(B\u001b[0;1my, 23 hours, 16 minutes, 34 seconds) ** (596 items, length\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.507489,
+      "\u001b]0;Daft Punk - End Of Line\u0007\u001b[23;7H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m4\u001b[23;9H\u001b(B\u001b[m\u001b[1;10H\u001b(B\u001b[0;1m, 23 hours, 16 minutes, 34 seconds) ** (596 items, length:\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500695,
+      "\u001b[1;10H\u001b(B\u001b[0;1m 23 hours, 16 minutes, 34 seconds) ** (596 items, length: \r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.507807,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      5.4e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m5\u001b[23;9H\u001b(B\u001b[m"
+    ],
+    [
+      5.2e-05,
+      "\u001b[1;10H"
+    ],
+    [
+      2.1e-05,
+      "\u001b(B\u001b[0;1m23 hours, 16 minutes, 34 seconds) ** (596 items, length: 1\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.500892,
+      "\u001b[1;10H\u001b(B\u001b[0;1m3 hours, 16 minutes, 34 seconds) ** (596 items, length: 1 \r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      0.228879,
+      "\u001b[A"
+    ],
+    [
+      0.000809,
+      "\u001b(B\u001b[0;1mBrowse: /\u001b(B\u001b[m\u001b[58X\r\u001b[2d\u001b[4d\u001b[A\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\u001b[K\r\u001b[4d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\u001b[K\r\u001b[5d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\u001b[K\r\u001b[6d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\u001b[K\r\u001b[7d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\u001b[K\r\u001b[8d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\u001b[K\r\u001b[9d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\u001b[K\r\u001b[10d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\u001b[K\r\u001b[11d\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\u001b[K\r\u001b[12d\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\u001b[K\r\u001b[13d\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[K\r\u001b[14d\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)\u001b[K\r\u001b[15d\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[16;1H\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b"
+    ],
+    [
+      9.6e-05,
+      "[17;1H\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\u001b[K\r\u001b[18d\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[19;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)                                 \u001b[20;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)\u001b[K\r\u001b[21d\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis\u001b[K\r\u001b[22d\u001b[31mplaylist\u001b[33m Gitmo Playlist\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.510902,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      6.4e-05,
+      "\u001b[23;8H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m6\u001b[23;10H\u001b(B\u001b[m"
+    ],
+    [
+      8.7e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      1.008942,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      7.2e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m7\u001b[23;10H\u001b(B\u001b[m"
+    ],
+    [
+      6.6e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      1.008334,
+      "\u001b]0;Daft Punk - End Of Line\u0007\u001b[23;9H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m8\u001b[23;11H\u001b(B\u001b[m\r\u001b[2d"
+    ],
+    [
+      0.333743,
+      "\u001b[4d\u001b[18d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[19;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)\u001b[K\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.320145,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000115,
+      "\u001b[17d"
+    ],
+    [
+      2.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)                                         \u001b[18;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.431844,
+      "\u001b]0;Daft Punk - End Of Line\u0007"
+    ],
+    [
+      6.8e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m9\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      9.3e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000382,
+      "\u001b[16d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[17;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\u001b[K\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.392644,
+      "\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.000364,
+      "\u001b[15d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[16;1H"
+    ],
+    [
+      7e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500573,
+      "\r\u001b[2d"
+    ],
+    [
+      0.389639,
+      "\u001b[24dPlaylist \"Electronic|Coding  Programming Hacking Slashing - Tracks I listen to\u001b[K "
+    ],
+    [
+      0.04617,
+      "\u001b]0;Daft Punk - End Of Line\u0007\r\u001b[A"
+    ],
+    [
+      5e-05,
+      "\u001b(B\u001b[0;1m\u001b[32m>\u001b(0\u001b[0;1m\u001b[30mqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\r\u001b[C\u001b(0\u001b[0;1m\u001b[30m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      3.1e-05,
+      "\u001b[4d\b"
+    ],
+    [
+      0.000188,
+      "\u001b[22;24H"
+    ],
+    [
+      0.29139,
+      "\u001b]0;Massive Attack - Paradise Circus\u0007\u001b]0;Massive Attack - Paradise Circus\u0007\u001b]0;Massive Attack - Paradise Circus\u0007\u001b]0;Massive Attack - Paradise Circus\u0007\u001b[23;2H"
+    ],
+    [
+      6.2e-05,
+      "\u001b[4d\b"
+    ],
+    [
+      0.000296,
+      "\u001b[22;24H"
+    ],
+    [
+      4.6e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      0.211054,
+      "\u001b[4d"
+    ],
+    [
+      0.000365,
+      "\u001b[15d\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[16;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.526359,
+      "\u001b]0;Massive Attack - Paradise Circus\u0007\u001b[23;2H"
+    ],
+    [
+      7.1e-05,
+      "\u001b[2d\b"
+    ],
+    [
+      0.44514,
+      "\u001b[24;29H| Hacking | Feeling like a 80's scifi superhero (by"
+    ],
+    [
+      4.2e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000175,
+      "\u001b[22;24H"
+    ],
+    [
+      0.472368,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      5.3e-05,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;2H\u001b[4d\b"
+    ],
+    [
+      0.000195,
+      "\u001b[22;24H"
+    ],
+    [
+      4.5e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      0.534526,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;2H"
+    ],
+    [
+      0.000126,
+      "\u001b[2d\b"
+    ],
+    [
+      0.900901,
+      "\u001b[A\u001b(B\u001b[0;1mPlaylist (1569 items, length: 5 days, 8 hours, 49 seconds)\r\u001b[2d\u001b(B\u001b[m\u001b[3d"
+    ],
+    [
+      8.8e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mArtist          Track Title\u001b[35X\u001b[3;63HAlbum      Time\u001b[K\r\u001b[4d\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[4;1H\u001b(0\u001b[0m\u001b[33m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.000588,
+      "\u001b[5d\u001b(B\u001b[0;7m\u001b[33mDaft Punk       \u001b[32m12    \u001b[37mEnd Of Line                             \u001b[36mTRON: Lega \u001b[35m2:36   \u001b[6;1H"
+    ],
+    [
+      8.5e-05,
+      "\u001b(B\u001b[0m\u001b[33mFreedomatik     \u001b[32m01    \u001b[37mFrom Scratch\u001b[28X\u001b[6;63H\u001b[36mOne Nite O \u001b[35m3:26\u001b[K\r\u001b[7d\u001b[33mDepeche Mode    \u001b[32m01    \u001b[37mPersonal Jesus - 2006 Digital Remaster  \u001b[36mThe Best O \u001b[35m3:47\u001b[K\r\u001b[8d\u001b[33mHans Zimmer     \u001b[32m07    \u001b[37mMombasa\u001b[33X\u001b[8;63H"
+    ],
+    [
+      5.4e-05,
+      "\u001b[36mInception  \u001b[35m4:54\u001b[K\r\u001b[9d\u001b[33mC418            \u001b[32m09    \u001b[37mAlong the Busiest of Roads\u001b[14X\u001b[9;63H"
+    ],
+    [
+      5.2e-05,
+      "\u001b[36m72 Minutes \u001b[35m5:11\u001b[K\r\u001b[10d\u001b[33mJuno Reactor    \u001b[32m01    \u001b[37mConquistador I\u001b[26X\u001b[10;63H"
+    ],
+    [
+      4.2e-05,
+      "\u001b[36mLabyrinth  \u001b[35m6:03\u001b[K\r\u001b[11d"
+    ],
+    [
+      3.8e-05,
+      "\u001b[33mE.S. Posthumus  \u001b[32m06    \u001b[37mNara (Theme to Cold Case)\u001b[15X\u001b[11;63H"
+    ],
+    [
+      4.4e-05,
+      "\u001b[36mUnearthed  \u001b[35m4:51\u001b[K\r\u001b[12d"
+    ],
+    [
+      4.3e-05,
+      "\u001b[33mBreak of Realit \u001b[32m04    \u001b[37mSpectrum of the Sky\u001b[21X\u001b[12;63H\u001b[36mSpectrum o \u001b[35m5:31\u001b[K\r\u001b[13d"
+    ],
+    [
+      3.8e-05,
+      "\u001b[33mMan With No Nam \u001b[32m04    \u001b[37mSugar Rush - Astrix Remix\u001b[15X\u001b[13;63H"
+    ],
+    [
+      3.7e-05,
+      "\u001b[36mWe Are Pla \u001b[35m7:07\u001b[K\r\u001b[14d"
+    ],
+    [
+      3.7e-05,
+      "\u001b[33mMan With No Nam \u001b[32m04    \u001b[37mTeleport\u001b[32X\u001b[14;63H"
+    ],
+    [
+      4.1e-05,
+      "\u001b[36mA Voyage I \u001b[35m5:53\u001b[K\r\u001b[15d"
+    ],
+    [
+      4.1e-05,
+      "\u001b[33mMind.in.a.box   \u001b[32m06    \u001b[37m8 Bits\u001b[34X\u001b[15;63H\u001b[36mR.E.T.R.O. \u001b[35m3:28\u001b[K\r\u001b[16d"
+    ],
+    [
+      5e-05,
+      "\u001b[33mMind.in.a.box   \u001b[32m02    \u001b[37mLightforce\u001b[30X\u001b[16;63H"
+    ],
+    [
+      4.2e-05,
+      "\u001b[36mR.E.T.R.O. \u001b[35m7:56\u001b[K\r\u001b[17d\u001b[33mZircon          \u001b[32m05    \u001b[37mCellular\u001b[32X\u001b[17;63H"
+    ],
+    [
+      4e-05,
+      "\u001b[36mFittest -  \u001b[35m5:43\u001b[K\r\u001b[18d"
+    ],
+    [
+      3.6e-05,
+      "\u001b[33mZircon          \u001b[32m05    \u001b[37mThe Emerald Lounge\u001b[22X\u001b[18;63H"
+    ],
+    [
+      3.7e-05,
+      "\u001b[36mMass Media \u001b[35m3:10\u001b[K\r\u001b[19d"
+    ],
+    [
+      3.7e-05,
+      "\u001b[33mAtlas Plug      \u001b[32m01    \u001b[37mAround The World\u001b[24X\u001b[19;63H"
+    ],
+    [
+      4e-05,
+      "\u001b[36mAround The \u001b[35m4:36\u001b[K\r\u001b[20d"
+    ],
+    [
+      3.9e-05,
+      "\u001b[33mBeatbully       \u001b[32m01    \u001b[37mRnbully\u001b[33X\u001b[20;63H"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36mDødpop - V \u001b[35m2:49\u001b[K\r\u001b[21d\u001b[33m009 Sound Syste \u001b[32m02    \u001b[37mDreamscape\u001b[30X\u001b[21;63H"
+    ],
+    [
+      3.8e-05,
+      "\u001b[36mTrack One  \u001b[35m4:37\u001b[K\r\u001b[22d"
+    ],
+    [
+      4e-05,
+      "\u001b[33m009 Sound Syste \u001b[32m09    \u001b[37mSpeak To Angels\u001b[25X\u001b[22;63H\u001b[36m009 Sound  \u001b[35m10:36\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.525792,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;2H"
+    ],
+    [
+      9.5e-05,
+      "\u001b[2d\b"
+    ],
+    [
+      1.029727,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;2H"
+    ],
+    [
+      0.000104,
+      "\u001b[2d\b"
+    ],
+    [
+      1.031757,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;2H"
+    ],
+    [
+      0.000109,
+      "\u001b[2d\b"
+    ],
+    [
+      0.500885,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      0.000119,
+      "\u001b[24d\u001b(B\u001b[0;1mPlaying:\u001b(B\u001b[m Chromatics \"After Dark 2\" (2013) - Looking For Love         \u001b(B\u001b[0;1m[0:04/5:31\u001b[?7l]\u001b[?7h\r\u001b[A\u001b[C\u001b(B\u001b[m"
+    ],
+    [
+      0.000139,
+      "\u001b[2d\b"
+    ],
+    [
+      0.527989,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      6.2e-05,
+      "\u001b[23d\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H"
+    ],
+    [
+      5.9e-05,
+      "\u001b[39m5\u001b[23;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000211,
+      "\r\u001b[2d"
+    ],
+    [
+      1.026915,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      5.2e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m6\u001b[23;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000114,
+      "\r\u001b[2d"
+    ],
+    [
+      0.501068,
+      "\u001b[5d\u001b[33mDaft Punk       \u001b[32m12    \u001b[37mEnd Of Line\u001b[29X\u001b[5;63H\u001b[36mTRON: Lega \u001b[35m2:36\u001b[K\u001b[22d6\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      4.8e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      0.520851,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      5.3e-05,
+      "\u001b[24;74H"
+    ],
+    [
+      2.5e-05,
+      "\u001b(B\u001b[0;1m7\u001b[23;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000147,
+      "\r\u001b[2d"
+    ],
+    [
+      1.022163,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      7.3e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m8\u001b[23;3H\u001b(B\u001b[m"
+    ],
+    [
+      0.000235,
+      "\r\u001b[2d"
+    ],
+    [
+      1.023815,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      7.1e-05,
+      "\u001b[23;2H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H"
+    ],
+    [
+      4.6e-05,
+      "\u001b[39m9\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000224,
+      "\r\u001b[2d"
+    ],
+    [
+      1.03254,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[24;73H\u001b(B\u001b[0;1m10\u001b[23;4H\u001b(B\u001b[m\r\u001b[2d"
+    ],
+    [
+      1.025669,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      6.8e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m1\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000164,
+      "\r\u001b[2d"
+    ],
+    [
+      3.9e-05,
+      "\u001b[1;10H"
+    ],
+    [
+      3.9e-05,
+      "\u001b(B\u001b[0;1meditor\u001b(B\u001b[m\u001b[43X\r\u001b[2d"
+    ],
+    [
+      3.7e-05,
+      "\u001b[3d"
+    ],
+    [
+      3.5e-05,
+      "\u001b(B\u001b[0;1m\u001b[33mPlaylists\u001b(B\u001b[0m\u001b[33m\u001b[16X\r\u001b[4d\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      6.8e-05,
+      "\u001b[5;25H\u001b[1K\u001b[6d"
+    ],
+    [
+      5.4e-05,
+      "\u001b[1K\u001b[7d\u001b[1K\u001b[8d"
+    ],
+    [
+      4e-05,
+      "\u001b[1K\u001b[9d\u001b[1K\u001b[10d"
+    ],
+    [
+      3.7e-05,
+      "\u001b[1K\u001b[11d\u001b[1K\u001b[12d"
+    ],
+    [
+      3.4e-05,
+      "\u001b[1K\u001b[13d"
+    ],
+    [
+      4e-05,
+      "\u001b[1K\u001b[14d\u001b[1K\u001b[15d"
+    ],
+    [
+      3.4e-05,
+      "\u001b[1K\u001b[16d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[1K\u001b[17d\u001b[1K\u001b[18d"
+    ],
+    [
+      4.5e-05,
+      "\u001b[1K\u001b[19d\u001b[1K\u001b[20d"
+    ],
+    [
+      4.4e-05,
+      "\u001b[1K\u001b[21d\u001b[1K\u001b[22d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[1K\r\u001b[5d\u001b[3;26H"
+    ],
+    [
+      7.3e-05,
+      "\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[4d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[5d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.1e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[6d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.4e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[7d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[8d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.5e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[9d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[10d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[11d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.3e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[12d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[13d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.2e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[14d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.1e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[15d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[16d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.3e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[17d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.3e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[18d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[19d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      5.1e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[20d\b\u001b(0\u001b[0m\u001b[33m"
+    ],
+    [
+      4.4e-05,
+      "x\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[21d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[22d\b\u001b(0\u001b[0m\u001b[33mx\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[3;26H\u001b(0\u001b[0m\u001b[33m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.000101,
+      "\u001b[C\u001b(B\u001b[0;1m\u001b[33mContent\u001b(B\u001b[0m\u001b[33m\u001b[K\u001b[4;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      7.6e-05,
+      "\u001b[5d"
+    ],
+    [
+      4.1e-05,
+      "\u001b[K\u001b[6d"
+    ],
+    [
+      7.9e-05,
+      "\u001b[K\u001b[7d\u001b[K\u001b[8d\u001b[K\u001b[9d\u001b[K\u001b[10d\u001b[K\u001b[11d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[K\u001b[12d\u001b[K\u001b[13d"
+    ],
+    [
+      4.5e-05,
+      "\u001b[K\u001b[14d\u001b[K\u001b[15d"
+    ],
+    [
+      4.4e-05,
+      "\u001b[K\u001b[16d\u001b[K\u001b[17d\u001b[K\u001b[18d"
+    ],
+    [
+      4.3e-05,
+      "\u001b[K\u001b[19d\u001b[K\u001b[20d"
+    ],
+    [
+      4.2e-05,
+      "\u001b[K\u001b[21d\u001b[K\u001b[22d\u001b[K\u001b[5;27H"
+    ],
+    [
+      0.012465,
+      "\r\u001b(B\u001b[0;7m\u001b[33m\"Guardians of the Galaxy\"\r\u001b[6d\u001b(B\u001b[0m\u001b[33m>=] Video Game Music [=< \r\u001b[7d"
+    ],
+    [
+      8.2e-05,
+      "80s Smash Hits (by myplay\r\u001b[8dChuck|Chuck - All Seasons\r\u001b[9d"
+    ],
+    [
+      0.00014,
+      "Chuck|Chuck - Season 1 (b\r\u001b[10dChuck|Chuck - Season 2 (b\r\u001b[11dChuck|Chuck - Season 3 (b\r\u001b[12dChuck|Chuck - Season 4 (b\r\u001b[13dChuck|Chuck - Season 5   \r\u001b[14dChuck|Chuck vs. The Music\r\u001b[15dChuck|Chuck vs. The Playl\r\u001b[16dClassic Video Game Music \r\u001b[17d"
+    ],
+    [
+      5.6e-05,
+      "Dr. Jolij Feel Good Playl\r\u001b[18d"
+    ],
+    [
+      0.00016,
+      "Dreams of Electric Sheep \r\u001b[19dElectronic|Android: Netru\r\u001b[20dElectronic|Coding  Progra\r\u001b[21dElectronic|Coding | Hacki\r\u001b[22dElectronic|Cyberpunk (by \b\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.008058,
+      "\u001b[3;34H\u001b(B\u001b[0;1m\u001b[33m (11 items)\u001b[4;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.000349,
+      "\u001b[5d\u001b(B\u001b[0;7m\u001b[37mBlue Swede - Hooked on a Feeling                \u001b[32m(2:53)\u001b[6;27H"
+    ],
+    [
+      5.3e-05,
+      "\u001b(B\u001b[0m\u001b[33mRaspberries - Go All The Way\u001b[20X\u001b[75G\u001b[32m(3:25)\u001b[7;27H"
+    ],
+    [
+      3.3e-05,
+      "\u001b[33mNorman Greenbaum - Spirit In The Sky            \u001b[32m(4:00)\u001b[8;27H\u001b[33mDavid Bowie - Moonage Daydream - 2012 Remastered\u001b[32m(4:41)\u001b[9;27H"
+    ],
+    [
+      3.3e-05,
+      "\u001b[33mElvin Bishop - Fooled Around And Fell In Love   \u001b[32m(4:34)\u001b[10;27H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[33m10cc - I'm Not In Love\u001b[26X\u001b[75G\u001b[32m(6:08)\u001b[11;27H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[33mThe Jackson 5 - I Want You Back\u001b[17X\u001b[75G\u001b[32m(3:01)\u001b[12;27H"
+    ],
+    [
+      2.6e-05,
+      "\u001b[33mThe Runaways - Cherry Bomb\u001b[22X\u001b[75G"
+    ],
+    [
+      2.2e-05,
+      "\u001b[32m(2:19)\u001b[13;27H\u001b[33mRupert Holmes - Escape (The Pina Colada Song)   \u001b[32m(4:36)\u001b[14;27H"
+    ],
+    [
+      2.5e-05,
+      "\u001b[33mThe Five Stairsteps - O-o-h Child - Remastered  \u001b[32m(3:17)\u001b[15;27H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[33mTammi Terrell;Marvin Gaye - Ain't No Mountain Hi\u001b[32m(2:26)\u001b[16;27H\u001b[33m\u001b[K\u001b[17d"
+    ],
+    [
+      2.3e-05,
+      "\u001b[K\u001b[18d"
+    ],
+    [
+      2.4e-05,
+      "\u001b[K\u001b[19d"
+    ],
+    [
+      2.3e-05,
+      "\u001b[K\u001b[20d\u001b[K\u001b[21d"
+    ],
+    [
+      2.2e-05,
+      "\u001b[K\u001b[22d"
+    ],
+    [
+      2.1e-05,
+      "\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      7.2e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.00011,
+      "\u001b[22;25H"
+    ],
+    [
+      1.281595,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      5.8e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m2\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      1.030801,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      5.7e-05,
+      "\b\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H"
+    ],
+    [
+      3.8e-05,
+      "\u001b[39m3\u001b[23;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.235131,
+      "\u001b[?12l\u001b[?25h\u001b[?1015l\u001b[?1000l\u001b[?1001r"
+    ],
+    [
+      8.4e-05,
+      "\r\u001b[24dSave playlist as:\u001b[K "
+    ],
+    [
+      1.030425,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;5H"
+    ],
+    [
+      6.4e-05,
+      "\u001b[24;19H"
+    ],
+    [
+      0.27224,
+      "P"
+    ],
+    [
+      0.289101,
+      "h"
+    ],
+    [
+      0.127111,
+      "r"
+    ],
+    [
+      0.087763,
+      "e"
+    ],
+    [
+      0.096654,
+      "a"
+    ],
+    [
+      0.191368,
+      "\u001b]0;Chromatics - Looking For Love\u0007k\u001b[23;5H"
+    ],
+    [
+      0.000114,
+      "\u001b[24;25H"
+    ],
+    [
+      0.48889,
+      "N"
+    ],
+    [
+      0.527839,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;4H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      5.1e-05,
+      "\u001b[24;26H"
+    ],
+    [
+      0.143945,
+      "I"
+    ],
+    [
+      0.231992,
+      "C"
+    ],
+    [
+      0.504546,
+      " "
+    ],
+    [
+      0.527898,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;6H"
+    ],
+    [
+      7.8e-05,
+      "\u001b[24;29H"
+    ],
+    [
+      0.063978,
+      "M"
+    ],
+    [
+      0.280051,
+      "i"
+    ],
+    [
+      0.12803,
+      "x"
+    ],
+    [
+      1.027442,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;6H"
+    ],
+    [
+      8.7e-05,
+      "\u001b[24;32H"
+    ],
+    [
+      0.78834,
+      "\u001b[?1001s\u001b[?1000h\u001b[?1015h\u001b[?25l"
+    ],
+    [
+      0.332746,
+      "\rPlaylist saved as \"PhreakNIC Mix\""
+    ],
+    [
+      7.1e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000191,
+      "\u001b[22;25H"
+    ],
+    [
+      0.070236,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;5H"
+    ],
+    [
+      5.9e-05,
+      "\u001b(B\u001b[0;1m\u001b[32m=>\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.028259,
+      "\u001b[22;25H"
+    ],
+    [
+      0.004062,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000251,
+      "\u001b[22;27H"
+    ],
+    [
+      1.023281,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;7H"
+    ],
+    [
+      1.028926,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      0.031336,
+      "\u001b[H"
+    ],
+    [
+      6.9e-05,
+      "\u001b(B\u001b[0;1mBrowse: /\u001b(B\u001b[m      \r\u001b[2d"
+    ],
+    [
+      0.018745,
+      "\u001b[3d\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\u001b[K\r\u001b[4d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\u001b[K\r\u001b[5d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\u001b[K\r\u001b[6d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\u001b[K\r\u001b[7d"
+    ],
+    [
+      6e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\u001b[K\r\u001b[8d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\u001b[K\r\u001b[9d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\u001b[K\r\u001b[10d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\u001b[K\r\u001b[11d"
+    ],
+    [
+      3.2e-05,
+      "\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\u001b[K\r\u001b[12d\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\u001b[K\r\u001b[13d"
+    ],
+    [
+      2.8e-05,
+      "\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[K\r\u001b[14d"
+    ],
+    [
+      3.2e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)\u001b[K\r\u001b[15d"
+    ],
+    [
+      3e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[16;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[17;1H"
+    ],
+    [
+      4.4e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\r\u001b[18d\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[19;1H"
+    ],
+    [
+      2.9e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)\r\u001b[20d"
+    ],
+    [
+      2.8e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)\r\u001b[21d"
+    ],
+    [
+      2.9e-05,
+      "\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis\r\u001b[22d\u001b[31mplaylist\u001b[33m Gitmo Playlist\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.000145,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000157,
+      "\u001b[22;24H"
+    ],
+    [
+      0.500871,
+      "\r\u001b[2d"
+    ],
+    [
+      0.528999,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;7H"
+    ],
+    [
+      4.7e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      0.950808,
+      "\u001b[4;27H"
+    ],
+    [
+      0.00017,
+      "\r\u001b[16d\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[17;1H"
+    ],
+    [
+      4.2e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)                                         \u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.21752,
+      "\u001b]0;Chromatics - Looking For Love\u0007\u001b[23;6H"
+    ],
+    [
+      3.7e-05,
+      "\u001b(B\u001b[0;1m\u001b[32m=>\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      4.6e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      1.6e-05,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000119,
+      "\r\u001b[17d\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\u001b[K\r\u001b[18d"
+    ],
+    [
+      2.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.126908,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      0.000197,
+      "\r\u001b[24d\u001b(B\u001b[0;1mPlaying:\u001b(B\u001b[m Chromatics \"After Dark 2\" (2013) - Looking For Love\u001b[24;70H"
+    ],
+    [
+      6.3e-05,
+      "\u001b(B\u001b[0;1m[0:25/5:31\u001b[?7l]\u001b[?7h\u001b[23;8H\u001b(B\u001b[m\u001b[4;27H"
+    ],
+    [
+      0.000382,
+      "\r\u001b[18d\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[19;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)                                 \u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.159383,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000358,
+      "\r\u001b[19d\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)\u001b[K\r\u001b[20d"
+    ],
+    [
+      6.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)                             \u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.151478,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000443,
+      "\r\u001b[20d\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)\u001b[K\r\u001b[21d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis                                               \u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.150494,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000123,
+      "\r\u001b[21d"
+    ],
+    [
+      2.4e-05,
+      "\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis\u001b[K\r\u001b[22d"
+    ],
+    [
+      1.7e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Gitmo Playlist                                                         \u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.296143,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000305,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      4.8e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[31mplaylist\u001b[33m Gitmo Playlist\u001b[K\r\u001b[22d"
+    ],
+    [
+      4.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Guardians of the Galaxy – The Complete Mixtape (Vol. 1 & Vol. 2) (by ho\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.460123,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      6.3e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m6\u001b[23;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.000207,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000267,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      9.2e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[31mplaylist\u001b[33m Guardians of the Galaxy – The Complete Mixtape (Vol. 1 & Vol. 2) (by ho\u001b[22;1H"
+    ],
+    [
+      5.8e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Guardians of the Galaxy vol. 2 📼 AWESOME Mix vol. 2 (by anotherwaytod)\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500865,
+      "\r\u001b[2d"
+    ],
+    [
+      0.078894,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000415,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      9.1e-05,
+      "\u001b[31mplaylist\u001b[33m Guardians of the Galaxy vol. 2 📼 AWESOME Mix vol. 2 (by anotherwaytod)\u001b[22;1H"
+    ],
+    [
+      4.3e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Metal|Leo Moracchioli - Metal Covers (by l_joergensen)                 \u001b[22;64H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.48395,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      6.4e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m7\u001b[23;8H\u001b(B\u001b[m"
+    ],
+    [
+      0.000126,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000244,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      6.8e-05,
+      "\u001b[31mplaylist\u001b[33m Metal|Leo Moracchioli - Metal Covers (by l_joergensen)\u001b[K\r\u001b[22d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Metal|Metal Covers from non-Metal songs (by george_spv)                \u001b[22;65H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.249558,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000165,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      2.7e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[31mplaylist\u001b[33m Metal|Metal Covers from non-Metal songs (by george_spv)\u001b[K\r\u001b[22d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Music for Zombie-Killing (by playstation_music)                        \u001b[22;57H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.40944,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000369,
+      "\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H"
+    ],
+    [
+      7.9e-05,
+      "\u001b[31mplaylist\u001b[33m Music for Zombie-Killing (by playstation_music)\u001b[K\r\u001b[22d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Nostalgia Metal                                                        \u001b[22;25H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.394459,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      5e-05,
+      "\u001b[24;74H"
+    ],
+    [
+      0.000331,
+      "\u001b(B\u001b[0;1m8\u001b[23;8H\u001b(B\u001b[m\u001b[4;27H\u001b[3;22r\u001b[22;1H\n\u001b[1;24r\u001b[21;1H\u001b[31mplaylist\u001b[33m Nostalgia Metal\u001b[K\r\u001b[22d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m PhreakNIC Mix                                                          \u001b[22;23H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.492592,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000418,
+      "\u001b[3;22r\u001b[22;1H"
+    ],
+    [
+      6.6e-05,
+      "\n\u001b[1;24r\u001b[21;1H\u001b[31mplaylist\u001b[33m PhreakNIC Mix\u001b[K\r\u001b[22d"
+    ],
+    [
+      5.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m PhreakNIC Mix [2]                                                      \u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.529282,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      7.8e-05,
+      "\u001b[23;7H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;73H"
+    ],
+    [
+      5.6e-05,
+      "\u001b[39m30\u001b[23;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.000112,
+      "\r\u001b[2d"
+    ],
+    [
+      0.021987,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000347,
+      "\r\u001b[21d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m PhreakNIC Mix                                                          \u001b[22;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m PhreakNIC Mix [2]\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500633,
+      "\r\u001b[2d"
+    ],
+    [
+      0.524801,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      8.2e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m1\u001b[23;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.000185,
+      "\r\u001b[2d"
+    ],
+    [
+      0.90988,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000371,
+      "\r\u001b[20d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Nostalgia Metal                                                        \u001b[21;1H"
+    ],
+    [
+      6.7e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m PhreakNIC Mix\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.528081,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      0.000128,
+      "\u001b[24;74H\u001b(B\u001b[0;1m2\u001b[23;9H\u001b(B\u001b[m"
+    ],
+    [
+      0.00022,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000378,
+      "\r\u001b[19d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Music for Zombie-Killing (by playstation_music)                        \u001b[20;1H"
+    ],
+    [
+      6e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Nostalgia Metal\u001b[K\u001b[22d2]\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.001804,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000398,
+      "\r\u001b[18d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Metal|Metal Covers from non-Metal songs (by george_spv)                \u001b[19;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Music for Zombie-Killing (by playstation_music)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029017,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000196,
+      "\r\u001b[17d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Metal|Leo Moracchioli - Metal Covers (by l_joergensen)                 \u001b[18;1H"
+    ],
+    [
+      3.4e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Metal|Metal Covers from non-Metal songs (by george_spv)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030353,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000306,
+      "\r\u001b[16d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Guardians of the Galaxy vol. 2 📼 AWESOME Mix vol. 2 (by anotherwaytod)\u001b[17;1H"
+    ],
+    [
+      5.8e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Metal|Leo Moracchioli - Metal Covers (by l_joergensen)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.031243,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000398,
+      "\r\u001b[15d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Guardians of the Galaxy – The Complete Mixtape (Vol. 1 & Vol. 2) (by ho\u001b[16;1H"
+    ],
+    [
+      5.1e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Guardians of the Galaxy vol. 2 📼 AWESOME Mix vol. 2 (by anotherwaytod)\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029149,
+      "\u001b[4;27H\r\u001b[14d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Gitmo Playlist                                                         \u001b[15;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Guardians of the Galaxy – The Complete Mixtape (Vol. 1 & Vol. 2) (by ho\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030047,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000115,
+      "\r\u001b[13d"
+    ],
+    [
+      2.4e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis                                               \u001b[14;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Gitmo Playlist\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029687,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000211,
+      "\r\u001b[12d"
+    ],
+    [
+      3.1e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)                             \u001b[13;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Favorites - Taylor Davis\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030623,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000126,
+      "\r\u001b[11d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)                                 \u001b[12;1H"
+    ],
+    [
+      2.1e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Music To Hack To (by logikbomb)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.029802,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000142,
+      "\r\u001b[10d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[11;1H"
+    ],
+    [
+      2.2e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Hacker's Coffee (by omegak)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.03039,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000165,
+      "\r\u001b[9d"
+    ],
+    [
+      3.5e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)                                         \u001b[10;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.030436,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000368,
+      "\r\u001b[8d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[9;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.277522,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000444,
+      "\r\u001b[7d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[8;1H"
+    ],
+    [
+      7.3e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.21454,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000234,
+      "\r\u001b[6d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)     \u001b[7;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.226715,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      6.3e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m3\u001b[23;9H\u001b(B\u001b[m"
+    ],
+    [
+      8.7e-05,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000405,
+      "\r\u001b[5d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)                              \u001b[6;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.49233,
+      "\r\u001b[2d"
+    ],
+    [
+      0.000106,
+      "\u001b[4;27H"
+    ],
+    [
+      8.2e-05,
+      "\r\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist                                           \u001b[5;1H"
+    ],
+    [
+      2.3e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.877114,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      8.5e-05,
+      "\u001b[23;8H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m4\u001b[23;10H\u001b(B\u001b[m"
+    ],
+    [
+      0.00022,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000363,
+      "\r\u001b[A\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)   \u001b[4;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\u001b[K\u001b[22;27H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.226462,
+      "\u001b[4;27H\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)                               \u001b[4;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\u001b[K\u001b[22;23H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.256603,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000404,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)                                  \u001b[4;1H"
+    ],
+    [
+      8.2e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\u001b[K\u001b[22;25H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.223152,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000296,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      5e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5                                                 \u001b[4;1H"
+    ],
+    [
+      5.2e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\u001b[K\u001b[22;57H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.18402,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000444,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)                                     \u001b[4;1H"
+    ],
+    [
+      7.8e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\u001b[K\u001b[22;65H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.212957,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      7e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m5\u001b[23;10H\u001b(B\u001b[m"
+    ],
+    [
+      4.3e-05,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000131,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      2.1e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)                                     \u001b[4;1H"
+    ],
+    [
+      6.3e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\u001b[K\u001b[22;64H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.128987,
+      "\u001b[4;27H"
+    ],
+    [
+      8.1e-05,
+      "\u001b[3;22r\u001b[3;1H"
+    ],
+    [
+      1.7e-05,
+      "\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      1.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)                                     \u001b[4;1H"
+    ],
+    [
+      6e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\u001b[K\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.425053,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000341,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      5.5e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)                                     \u001b[4;1H"
+    ],
+    [
+      5.4e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\u001b[K\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.183737,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000382,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      0.000175,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons                                              \u001b[4;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\u001b[K\u001b[22;24H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.18346,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000461,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)                                         \u001b[4;1H"
+    ],
+    [
+      7.5e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\u001b[K\u001b[22;34H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.172873,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      5.2e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m7\u001b[23;10H"
+    ],
+    [
+      2.8e-05,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      4.4e-05,
+      "\r\u001b[2d\u001b[4;27H"
+    ],
+    [
+      0.000215,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)                                  \u001b[4;1H"
+    ],
+    [
+      4e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)\u001b[K\u001b[22;52H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.160999,
+      "\u001b[4;27H"
+    ],
+    [
+      0.000182,
+      "\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H"
+    ],
+    [
+      4.3e-05,
+      "\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)                    \u001b[4;1H"
+    ],
+    [
+      1.7e-05,
+      "\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\u001b[K\u001b[22;48H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.184882,
+      "\u001b[4;27H\u001b[3;22r\u001b[3;1H\u001bM\u001b[1;24r\u001b[3;1H\u001b(B\u001b[0;7m\u001b[33m[Spotify Web Browse]                                                            \u001b[4;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\u001b[K\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500864,
+      "\r\u001b[2d"
+    ],
+    [
+      0.533969,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      0.000101,
+      "\u001b[23;9H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;74H\u001b[39m8\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.000248,
+      "\r\u001b[2d"
+    ],
+    [
+      0.252581,
+      "\u001b[A\u001b(B\u001b[0;1mPlaylist (1569 items, length: 5 days, 8 hours, 49 seconds)\r\u001b[2d\u001b(B\u001b[m\u001b[3d\u001b(B\u001b[0;1m\u001b[33mArtist          Track Title\u001b[35X\u001b[3;63HAlbum      Time\u001b[K\r\u001b[4d\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[4;1H\u001b(0\u001b[0m\u001b[33m\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[5d\u001b(B\u001b[0;7m\u001b[33mDaft Punk       \u001b[32m12    \u001b[37mEnd Of Line                             \u001b[36mTRON: Lega \u001b[35m2:36   \u001b[6;1H\u001b(B\u001b[0m\u001b[33mFreedomatik     \u001b[32m01    \u001b[37mFrom Scratch\u001b[28X\u001b[6;63H\u001b[36mOne Nite O \u001b[35m3:26\u001b[K\r\u001b[7d\u001b[33mDepeche Mode    \u001b[32m01    \u001b[37mPersonal Jesus - 2006 Digital Remaster  \u001b[36mThe Best O \u001b[35m3:47\u001b[K\r\u001b[8d\u001b[33mHans Zimmer     \u001b[32m07    \u001b[37mMombasa\u001b[33X\u001b[8;63H\u001b[36mInception  \u001b[35m4:54\u001b[K\r\u001b[9d\u001b[33mC418            \u001b[32m09    \u001b[37mAlong the Busiest of Roads\u001b[14X\u001b[9;63H\u001b[36m72 Minutes \u001b[35m5:11\u001b[K\r\u001b[10d\u001b[33mJuno Reactor    \u001b[32m01    \u001b[37mConquistador I\u001b[26X\u001b[10;63H\u001b[36mLabyrinth  \u001b[35m6:03\u001b[K\r\u001b[11d\u001b[33mE.S. Posthumus  \u001b[32m06    \u001b[37mNara (Theme to Cold Case)\u001b[15X\u001b[11;63H\u001b[36mUnearthed  \u001b[3"
+    ],
+    [
+      3.3e-05,
+      "5m4:51\u001b[K\r\u001b[12d\u001b[33mBreak of Realit \u001b[32m04    \u001b[37mSpectrum of the Sky\u001b[21X\u001b[12;63H\u001b[36mSpectrum o \u001b[35m5:31\u001b[K\r\u001b[13d\u001b[33mMan With No Nam \u001b[32m04    \u001b[37mSugar Rush - Astrix Remix\u001b[15X\u001b[13;63H\u001b[36mWe Are Pla \u001b[35m7:07\u001b[K\r\u001b[14d\u001b[33mMan With No Nam \u001b[32m04    \u001b[37mTeleport\u001b[32X\u001b[14;63H\u001b[36mA Voyage I \u001b[35m5:53\u001b[K\r\u001b[15d\u001b[33mMind.in.a.box   \u001b[32m06    \u001b[37m8 Bits\u001b[34X\u001b[15;63H\u001b[36mR.E.T.R.O. \u001b[35m3:28\u001b[K\r\u001b[16d\u001b[33mMind.in.a.box   \u001b[32m02    \u001b[37mLightforce\u001b[30X\u001b[16;63H\u001b[36mR.E.T.R.O. \u001b[35m7:56\u001b[K\r\u001b[17d\u001b[33mZircon          \u001b[32m05    \u001b[37mCellular\u001b[32X\u001b[17;63H\u001b[36mFittest -  \u001b[35m5:43\u001b[K\r\u001b[18d\u001b[33mZircon          \u001b[32m05    \u001b[37mThe Emerald Lounge\u001b[22X\u001b[18;63H\u001b[36mMass Media \u001b[35m3:10\u001b[K\r\u001b[19d\u001b[33mAtlas Plug      \u001b[32m01    \u001b[37mAround The World\u001b[24X\u001b[19;63H\u001b[36mAround The \u001b[35m4:36\u001b[K\r\u001b[20d\u001b[33mBeatbully       \u001b[32m01    \u001b[37mRnbully\u001b[33X\u001b[20;63H\u001b[36mDødpop - V \u001b[35m2:49\u001b[K\r\u001b[21d\u001b[33m009 Sound Syste \u001b[32m02    \u001b[37mDreamscape\u001b[30X\u001b[21;63H\u001b[36mTrack One  \u001b[35m4:37\u001b[K\r\u001b[22d\u001b[33m009 Sound Syste \u001b[32m09    \u001b[37mSpea"
+    ],
+    [
+      2.1e-05,
+      "k To Angels\u001b[25X\u001b[22;63H\u001b[36m009 Sound  \u001b[35m10:36\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.50059,
+      "\r\u001b[2d"
+    ],
+    [
+      0.285773,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      6.9e-05,
+      "\u001b[24;74H\u001b(B\u001b[0;1m9\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.500833,
+      "\r\u001b[2d"
+    ],
+    [
+      0.529145,
+      "\u001b]0;Chromatics - Looking For Love\u0007"
+    ],
+    [
+      7.9e-05,
+      "\u001b[24;73H\u001b(B\u001b[0;1m40\u001b[23;11H\u001b(B\u001b[m"
+    ],
+    [
+      0.000206,
+      "\r\u001b[2d"
+    ],
+    [
+      0.751317,
+      "\u001b[24d"
+    ],
+    [
+      6.8e-05,
+      "Do you really want to clear main playlist? [\u001b(B\u001b[0;1my\u001b(B\u001b[m/\u001b(B\u001b[0;1mn\u001b(B\u001b[m]\u001b[K "
+    ],
+    [
+      3.323223,
+      "\rPlaylist cleared\u001b[K"
+    ],
+    [
+      7.6e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000283,
+      "\u001b[22;79H"
+    ],
+    [
+      0.020213,
+      "\u001b]0;ncmpcpp 0.8\u0007\r\u001b[23d"
+    ],
+    [
+      3.2e-05,
+      "\u001b(0\u001b[0;1m\u001b[30mqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\r\u001b(0\u001b[0;1m\u001b[30m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      4.1e-05,
+      "\u001b[4d\u001b[5d\u001b[K\u001b[6d\u001b[K\u001b[7d\u001b[K\u001b[8d\u001b[K\u001b[9d"
+    ],
+    [
+      2.2e-05,
+      "\u001b[K\u001b[10d\u001b[K\u001b[11d\u001b[K\u001b[12d\u001b[K\u001b[13d\u001b[K\u001b[14d\u001b[K\u001b[15d"
+    ],
+    [
+      1.7e-05,
+      "\u001b[K\u001b[16d\u001b[K\u001b[17d"
+    ],
+    [
+      1.7e-05,
+      "\u001b[K\u001b[18d\u001b[K\u001b[19d\u001b[K\u001b[20d"
+    ],
+    [
+      1.8e-05,
+      "\u001b[K\u001b[21d\u001b[K\u001b[22d\u001b[K\u001b[5d"
+    ],
+    [
+      8.3e-05,
+      "\u001b[1;11H"
+    ],
+    [
+      1.9e-05,
+      "\u001b(B\u001b[0;1m0 items)\u001b(B\u001b[m\u001b[40X\r\u001b[2d"
+    ],
+    [
+      1.567305,
+      "\u001b[A"
+    ],
+    [
+      5e-05,
+      "\u001b(B\u001b[0;1mBrowse: /\u001b(B\u001b[m         \r\u001b[2d"
+    ],
+    [
+      0.018957,
+      "\u001b[3d\u001b(B\u001b[0;7m\u001b[33m[Spotify Web Browse]                                                            \u001b[4;1H\u001b(B\u001b[0m\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\u001b[K\r\u001b[5d"
+    ],
+    [
+      3.1e-05,
+      "\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\u001b[K\r\u001b[6d"
+    ],
+    [
+      3.9e-05,
+      "\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)\u001b[K\r\u001b[7d\u001b[31mplaylist\u001b[33m Chuck|Chuck - All Seasons\u001b[K\r\u001b[8d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 1 (by linusu)\u001b[K\r\u001b[9d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 2 (by linusu)\u001b[K\r\u001b[10d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 3 (by linusu)\u001b[K\r\u001b[11d\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 4 (by linusu)\u001b[K\r\u001b[12d"
+    ],
+    [
+      4e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck - Season 5\u001b[K\r\u001b[13d\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Music (by linusu)\u001b[K\r\u001b[14d"
+    ],
+    [
+      2.8e-05,
+      "\u001b[31mplaylist\u001b[33m Chuck|Chuck vs. The Playlist (by linusu)\u001b[K\r\u001b[15d"
+    ],
+    [
+      1.8e-05,
+      "\u001b[31mplaylist\u001b[33m Classic Video Game Music - Covers and Orchestrations (by 1241977273)\u001b[K\r\u001b[16d\u001b[31mplaylist\u001b[33m Dr. Jolij Feel Good Playlist\u001b[K\r\u001b[17d"
+    ],
+    [
+      1.7e-05,
+      "\u001b[31mplaylist\u001b[33m Dreams of Electric Sheep (by 12158648082)\u001b[K\r\u001b[18d"
+    ],
+    [
+      2.1e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Android: Netrunner 💾 Cyberpunk Playground (by zaftula)\u001b[K\r\u001b[19d\u001b[31mplaylist\u001b[33m Electronic|Coding  Programming Hacking Slashing - Tracks I listen to wh\u001b[20;1H"
+    ],
+    [
+      1.9e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Coding | Hacking | Feeling like a 80's scifi superhero (by d\u001b[21;1H"
+    ],
+    [
+      1.8e-05,
+      "\u001b[31mplaylist\u001b[33m Electronic|Cyberpunk (by lyfh)\u001b[K\r\u001b[22d\u001b[31mplaylist\u001b[33m Electronic|Dark Electro | Industrial | Futurepop | Aggrotech | Cyberpun\u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      5.9e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000156,
+      "\u001b[22;80H"
+    ],
+    [
+      0.45378,
+      "\r\u001b[24d\u001b[J"
+    ],
+    [
+      7.7e-05,
+      "\u001b[2d"
+    ],
+    [
+      0.000443,
+      "\u001b[4d\u001b[A\u001b[33m[Spotify Web Browse]\u001b[K\r\u001b[4d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)                    \u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.21491,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000278,
+      "\u001b[31mplaylist\u001b[33m \"Guardians of the Galaxy\" Soundtrack (by 122775324)\u001b[K\r\u001b[5d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)                                  \u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.455475,
+      "\r\u001b[2d"
+    ],
+    [
+      0.0001,
+      "\u001b[4d"
+    ],
+    [
+      0.00016,
+      "\u001b[5d\u001b[31mplaylist\u001b[33m >=] Video Game Music [=< (by remiarn)\u001b[K\r\u001b[6d\u001b(B\u001b[0;7m\u001b[31mplaylist\u001b[33m 80s Smash Hits (by myplay.com)                                         \u001b[22;80H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.500889,
+      "\r\u001b[2d"
+    ],
+    [
+      0.48071,
+      "\u001b[24dPlaylist \"80s Smash Hits (by myplay.com)\" loaded"
+    ],
+    [
+      5.1e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000144,
+      "\u001b[22;80H"
+    ],
+    [
+      0.050329,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      3.1e-05,
+      "\r\u001b[23d\u001b(B\u001b[0;1m\u001b[32m>\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      1.9e-05,
+      "\u001b[4d\b"
+    ],
+    [
+      0.000135,
+      "\u001b[22;80H"
+    ],
+    [
+      0.007826,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b[23;2H\u001b[2d\b"
+    ],
+    [
+      0.879647,
+      "\u001b[A\u001b(B\u001b[0;1mPlaylist (79 items, length: 5 hours, 12 seconds)\r\u001b[2d\u001b(B\u001b[m"
+    ],
+    [
+      3.9e-05,
+      "\u001b[3d\u001b(B\u001b[0;1m\u001b[33mArtist          Track Title\u001b[35X\u001b[3;63HAlbum      Time\u001b[K\r\u001b[4d"
+    ],
+    [
+      2.5e-05,
+      "\u001b(0\u001b[0m\u001b[33mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq\u001b[39m\u001b(B\u001b(B\u001b[m\u001b[4;1H\u001b(0\u001b[0m\u001b[33m\u001b[39m\u001b(B\u001b(B\u001b[m"
+    ],
+    [
+      0.000273,
+      "\u001b[5d\u001b(B\u001b[0;1;7m\u001b[33mMichael Jackson \u001b[32m21    \u001b[37mThriller - Single Version               \u001b[36mThe Essent \u001b[35m5:12   \u001b[6;1H"
+    ],
+    [
+      3.6e-05,
+      "\u001b(B\u001b[0m\u001b[33mThe Clash       \u001b[32m03    \u001b[37mShould I Stay or Should I Go - Remaster \u001b[36mStranger T \u001b[35m3:06\u001b[K\r\u001b[7d"
+    ],
+    [
+      2.2e-05,
+      "\u001b[33mEurythmics      \u001b[32m06    \u001b[37mSweet Dreams (Are Made of This) - Remas \u001b[36mSweet Drea \u001b[35m3:37\u001b[K\r\u001b[8d\u001b[33mDEVO            \u001b[32m19    \u001b[37mWhip It\u001b[33X\u001b[8;63H"
+    ],
+    [
+      2.2e-05,
+      "\u001b[36mStranger T \u001b[35m2:39\u001b[K\r\u001b[9d"
+    ],
+    [
+      2.3e-05,
+      "\u001b[33mDaryl Hall & Jo \u001b[32m15    \u001b[37mYou Make My Dreams - Remastered         \u001b[36mThe Essent \u001b[35m3:11\u001b[K\r\u001b[10d\u001b[33mToto            \u001b[32m24    \u001b[37mAfrica\u001b[34X\u001b[10;63H"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36m100 Hits O \u001b[35m4:21\u001b[K\r\u001b[11d\u001b[33mThe Police      \u001b[32m02    \u001b[37mEvery Breath You Take\u001b[19X\u001b[11;63H"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36mStranger T \u001b[35m4:12\u001b[K\r\u001b[12d\u001b[33mGeorge Michael  \u001b[32m01    \u001b[37mFaith - Remastered\u001b[22X\u001b[12;63H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36mFaith      \u001b[35m3:13\u001b[K\r\u001b[13d\u001b[33mBilly Joel      \u001b[32m03    \u001b[37mUptown Girl\u001b[29X\u001b[13;63H"
+    ],
+    [
+      2.4e-05,
+      "\u001b[36mThe Essent \u001b[35m3:15\u001b[K\r\u001b[14d\u001b[33mJourney         \u001b[32m02    \u001b[37mDon't Stop Believin'\u001b[20X\u001b[14;63H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36mThe Essent \u001b[35m4:09\u001b[K\r\u001b[15d"
+    ],
+    [
+      2.4e-05,
+      "\u001b[33mBilly Ocean     \u001b[32m11    \u001b[37mCaribbean Queen (No More Love On the Ru \u001b[36mHere You A \u001b[35m4:04\u001b[K\r\u001b[16d\u001b[33mThe Romantics   \u001b[32m06    \u001b[37mTalking in Your Sleep\u001b[19X\u001b[16;63H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36mIn Heat    \u001b[35m3:55\u001b[K\r\u001b[17d\u001b[33mBruce Springste \u001b[32m11    \u001b[37mDancing In the Dark\u001b[21X\u001b[17;63H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36mBorn In Th \u001b[35m4:01\u001b[K\r\u001b[18d\u001b[33mModern English  \u001b[32m03    \u001b[37mI Melt With You (7\" Mix)\u001b[16X\u001b[18;63H"
+    ],
+    [
+      2.3e-05,
+      "\u001b[36mLife In Th \u001b[35m3:49\u001b[K\r\u001b[19d"
+    ],
+    [
+      3.1e-05,
+      "\u001b[33mWhitney Houston \u001b[32m01    \u001b[37mI Wanna Dance with Somebody (Who Loves  \u001b[36mWhitney    \u001b[35m4:51\u001b[K\r\u001b[20d\u001b[33mThe Pointer Sis \u001b[32m08    \u001b[37mI'm So Excited\u001b[26X\u001b[20;63H\u001b[36mFire! The  \u001b[35m3:54\u001b[K\r\u001b[21d"
+    ],
+    [
+      2.4e-05,
+      "\u001b[33mMen At Work     \u001b[32m02    \u001b[37mWho Can It Be Now?\u001b[22X\u001b[21;63H\u001b[36mThe Essent \u001b[35m3:23\u001b[K\r\u001b[22d"
+    ],
+    [
+      3.5e-05,
+      "\u001b[33mDead Or Alive   \u001b[32m01    \u001b[37mYou Spin Me Round (Like a Record)       \u001b[36mYouthquake \u001b[35m3:17\u001b[K\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.506534,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b[23;2H"
+    ],
+    [
+      0.000102,
+      "\u001b[2d\b"
+    ],
+    [
+      1.103001,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b[23;2H"
+    ],
+    [
+      9.5e-05,
+      "\u001b[2d\b"
+    ],
+    [
+      0.717137,
+      "\u001b[4d"
+    ],
+    [
+      0.000238,
+      "\u001b[5d"
+    ],
+    [
+      2.9e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mCyndi Lauper    \u001b[32m04    \u001b[37mTime After Time                         \u001b[36mShe's So U \u001b[35m4:03   \u001b[6;1H\u001b(B\u001b[0m\u001b[33mKenny Loggins   \u001b[32m05    \u001b[37mDanger Zone\u001b[29X\u001b[6;63H\u001b[36mYesterday, \u001b[35m3:35\r\u001b[7d"
+    ],
+    [
+      1.9e-05,
+      "\u001b[33mMichael Jackson \u001b[32m05    \u001b[37mBeat It - Single Version\u001b[16X\u001b[7;63H\u001b[36mThriller 2 \u001b[35m4:18\r\u001b[8d"
+    ],
+    [
+      0.000188,
+      "\u001b[33mThe Bangles\u001b[18G\u001b[32m4    \u001b[37mHazy Shade of Winter\u001b[8;63H\u001b[36mThe Essent \u001b[35m2:47\r\u001b[9d\u001b[33mPrince          \u001b[32m10    \u001b[37mKiss\u001b[27X\u001b[9;63H\u001b[36mParade - M \u001b[35m3:46\r\u001b[10d\u001b[33mEddie Money     \u001b[32m03    \u001b[37mTake Me Home Tonight\u001b[10;63H\u001b[36mThe Best O \u001b[35m3:3\r\u001b[11d\u001b[33mREO Speedwagon\u001b[11;23H\u001b[37mKeep on Loving You - Remastered\u001b[11;63H\u001b[36mHi Infidel \u001b[35m3:20\r\u001b[12d\u001b[33mRick Springfiel\u001b[23G\u001b[37mJessie's Girl     \u001b[12;63H\u001b[36mThe Best O\r\u001b[13d\u001b[33mTom Petty \u001b[17G\u001b[32m14    \u001b[37mFree Fallin'\u001b[13;63H\u001b[36mGreatest H \u001b[35m4:16\r\u001b[14d\u001b[33mDaryl Hall & Jo \u001b[32m01    \u001b[37mManeater - Remastered\u001b[14;63H\u001b[36mH2O        \u001b[35m4:32\r\u001b[15d\u001b[33mRay Parker, Jr. \u001b[32m01    \u001b[37mGhostbusters - From \"Ghostbusters\"      \u001b[36mGhostbuste \u001b[35m4:06\r\u001b[16d\u001b[33mAretha Franklin \u001b[32m05    \u001b[37mFreeway of Love - Single Mix\u001b[16;63H\u001b[36mKnew You W \u001b[35m4:07\r\u001b[17d\u001b[33mForeigner       \u001b[32m14    \u001b[37mWaiting For A Girl Like You - Radio Edi \u001b[36m40         \u001b[35m4:34\r\u001b[18d\u001b[33mDavid Bowie     \u001b[32m04    \u001b[37mModern Love - Single Version [Re"
+    ],
+    [
+      2.4e-05,
+      "mastere \u001b[36mLegacy (De \u001b[35m3:58\r\u001b[19d\u001b[33mMatthew Wilder  \u001b[32m02    \u001b[37mBreak My Stride\u001b[25X\u001b[19;63H\u001b[36m'80s Pop H \u001b[35m3:00\u001b[20;5H\u001b[33mRomantics   \u001b[32m01    \u001b[37mWhat I Like About You\u001b[20;63H\u001b[36mWhat I Lik \u001b[35m2:55\r\u001b[21d\u001b[33mDolly Parton    \u001b[32m01    \u001b[37m9 to 5            \u001b[21;63H\u001b[36m9 To 5 And \u001b[35m2:42\r\u001b[22d\u001b[33mA Flock Of Seag \u001b[32m96    \u001b[37mI Ran\u001b[28X\u001b[22;63H\u001b[36mHits Of Th \u001b[35m3:40\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.618312,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b[23;2H"
+    ],
+    [
+      8.2e-05,
+      "\u001b[2d\b"
+    ],
+    [
+      0.550584,
+      "\u001b[4d"
+    ],
+    [
+      0.000608,
+      "\u001b[5d\u001b(B\u001b[0;7m\u001b[33mRockwell    \u001b[5;23H"
+    ],
+    [
+      0.000152,
+      "\u001b[37mSomebody's Watching Me - Single Version \u001b[36mScream     \u001b[35m3:58\r\u001b[6d\u001b(B\u001b[0m\u001b[33mMadonna         \u001b[32m20    \u001b[37mMaterial Girl\u001b[6;63H\u001b[36mCelebratio \u001b[35m4:00\r\u001b[7d\u001b[33mThe Bangles     \u001b[32m08    \u001b[37mWalk Like an Egyptian   \u001b[7;65H\u001b[36me Essent \u001b[35m3:25\r\u001b[8d"
+    ],
+    [
+      7.9e-05,
+      "\u001b[33mWham!           \u001b[32m02    \u001b[37mWake Me up Before You Go-Go - Remastere \u001b[36mTwenty Fiv \u001b[35m3:52\r\u001b[9d"
+    ],
+    [
+      5.2e-05,
+      "\u001b[33mRick Astley     \u001b[32m01    \u001b[37mNever Gonna Give You Up\u001b[9;64H\u001b[36mlatinum & \u001b[35m3:32\r\u001b[10d\u001b[33ma-ha       \u001b[18G"
+    ],
+    [
+      5.6e-05,
+      "\u001b[32m1\u001b[10;28H\u001b[37mOn Me          \u001b[10;63H"
+    ],
+    [
+      5e-05,
+      "\u001b[36mHunting Hi \u001b[35m3:45\r\u001b[11d\u001b[33mTerence Trent D \u001b[32m04    \u001b[37mWishing Well\u001b[19X\u001b[11;63H"
+    ],
+    [
+      5.9e-05,
+      "\u001b[36mPop Music: \u001b[35m3:33\r\u001b[12d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33mLoverboy        \u001b[32m02    \u001b[37mWorking for the Weekend\u001b[12;63H\u001b[36mWe Are The \u001b[35m3:41\r\u001b[13d"
+    ],
+    [
+      4.9e-05,
+      "\u001b[33mRoy Orbison     \u001b[32m01    \u001b[37mYou Got It  \u001b[13;63H"
+    ],
+    [
+      4.8e-05,
+      "\u001b[36mThe Essent \u001b[35m3:31\r\u001b[14d\u001b[33mCyndi Lauper    \u001b[32m02    \u001b[37mGirls Just Want to Have Fun\u001b[14;63H"
+    ],
+    [
+      5e-05,
+      "\u001b[36mShe's So U \u001b[35m3:58\r\u001b[15d"
+    ],
+    [
+      6.3e-05,
+      "\u001b[33mThe Clash;Mick  \u001b[32m04    \u001b[37mRock the Casbah\u001b[19X\u001b[15;63H\u001b[36mCombat Roc \u001b[35m3:40\r\u001b[16d"
+    ],
+    [
+      0.000112,
+      "\u001b[33mDuran Duran     \u001b[32m04    \u001b[37mHungry Like The Wolf - 2009 Remastered  \u001b[36mRio [Colle \u001b[35m3:41\r\u001b[17d"
+    ],
+    [
+      5e-05,
+      "\u001b[33mMidnight Oil    \u001b[32m09    \u001b[37mBeds Are Burning - Remastered           \u001b[36m20000 Watt \u001b[35m4:18\r\u001b[18d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33m'Til Tuesday    \u001b[32m09    \u001b[37mVoices Carry\u001b[28X\u001b[18;63H\u001b[36mPlaylist:  \u001b[35m4:20\r\u001b[19d"
+    ],
+    [
+      4.7e-05,
+      "\u001b[33mStarship      \u001b[19;23H\u001b[37mNothing's Gonna Stop Us Now\u001b[19;63H"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36mNo Protect \u001b[35m4:3\r\u001b[20d"
+    ],
+    [
+      4.9e-05,
+      "\u001b[33mKenny Rogers;Do \u001b[32m13    \u001b[37mIslands In The Stream\u001b[20;63H\u001b[36mA Love Son \u001b[35m4:10\r\u001b[21d"
+    ],
+    [
+      0.000125,
+      "\u001b[33mHuey Lewis & Th \u001b[32m03    \u001b[37mThe Power Of Love - 2006 Digital Remast \u001b[36mGreatest H \u001b[35m3:54\r\u001b[22d\u001b[33mBilly Joel      \u001b[32m14    \u001b[37mIt's Still Rock and Roll to Me\u001b[22;63H\u001b[36mThe Essent \u001b[35m2:57\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.565759,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007\r\u001b[23d\u001b(B\u001b[0;1m\u001b[32m=>\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.000113,
+      "\r\u001b[2d"
+    ],
+    [
+      0.500823,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      8e-05,
+      "\u001b[24d"
+    ],
+    [
+      4.4e-05,
+      "\u001b(B\u001b[0;1mPlaying:\u001b(B\u001b[m Michael Jackson \"The Essential Michael Jackson\" (2005) - Th \u001b(B\u001b[0;1m[0:04/5:12\u001b[?7l]\u001b[?7h\u001b[23;3H\u001b(B\u001b[m"
+    ],
+    [
+      8.5e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      0.211224,
+      "\u001b[4d"
+    ],
+    [
+      0.000623,
+      "\u001b[5d\u001b(B\u001b[0;7m\u001b[33mPaul Simon\u001b[5;23H\u001b[37mYou Can Call Me Al                      \u001b[36mThe Essent \u001b[35m4:36\r\u001b[6d"
+    ],
+    [
+      7.7e-05,
+      "\u001b(B\u001b[0m\u001b[33mThe Bangles     \u001b[32m03\u001b[25G\u001b[37mnic Monday \u001b[6;63H\u001b[36mGreatest H \u001b[35m3:05\u001b[7;5H"
+    ],
+    [
+      5.4e-05,
+      "\u001b[33mPsychedelic \u001b[32m03    \u001b[37mPretty in Pink       \u001b[7;67H\u001b[36mPsyche \u001b[35m4:00\r\u001b[8d"
+    ],
+    [
+      5.6e-05,
+      "\u001b[33mBow Wow Wow\u001b[18G"
+    ],
+    [
+      6.7e-05,
+      "\u001b[32m7    \u001b[37mI Want Candy\u001b[28X\u001b[8;63H\u001b[36mThe Best O \u001b[35m2:45\r\u001b[9d"
+    ],
+    [
+      5.3e-05,
+      "\u001b[33mSurvivor   \u001b[9;23H\u001b[37mEye of the Tiger       \u001b[9;63H"
+    ],
+    [
+      5e-05,
+      "\u001b[36mThe Best O \u001b[35m4:06\r\u001b[10d\u001b[33mScorpions\u001b[10;18H\u001b[32m4    \u001b[37mRock You Like a Hurricane\u001b[10;63H"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36mComeblack  \u001b[35m4:16\r\u001b[11d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mWhitney Houston \u001b[32m03    \u001b[37mHow Will I Know\u001b[11;63H"
+    ],
+    [
+      4.6e-05,
+      "\u001b[36mI Will Alw \u001b[35m4\r\u001b[12d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mKenny Loggins   \u001b[32m15    \u001b[37mI'm Alright (Theme from \"Caddyshack\")   \u001b[36mThe Essent \u001b[35m3:47\r\u001b[13d"
+    ],
+    [
+      5.7e-05,
+      "\u001b[33mBerlin     \u001b[18G\u001b[32m5    \u001b[37mTake My Breath Away - Love Theme from \" \u001b[36mTop Gun -  \u001b[35m4:16\r\u001b[14d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mWham!           \u001b[32m01    \u001b[37mWham Rap! (Enjoy What You Do?)\u001b[14;63H"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36mWham Rap!  \u001b[35m3:34\r\u001b[15d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mJourney         \u001b[32m11    \u001b[37mOpen Arms      \u001b[15;63H\u001b[36mThe Essent \u001b[35m3:19\r\u001b[16d"
+    ],
+    [
+      9.2e-05,
+      "\u001b[33mBruce Springste \u001b[32m06    \u001b[37mI'm on Fire\u001b[29X\u001b[16;63H"
+    ],
+    [
+      5.1e-05,
+      "\u001b[36mBorn In Th \u001b[35m2:36\r\u001b[17d\u001b[33mEddie Money     \u001b[32m03    \u001b[37mThink I'm In Love            \u001b[17;63H"
+    ],
+    [
+      5.2e-05,
+      "\u001b[36mNo Control \u001b[35m3:09\r\u001b[18d\u001b[33mSteve Perry     \u001b[32m01    \u001b[37mOh Sherrie  \u001b[18;63H"
+    ],
+    [
+      4.4e-05,
+      "\u001b[36mGreatest H \u001b[35m3:49\r\u001b[19d"
+    ],
+    [
+      4.7e-05,
+      "\u001b[33mLuther Vandross \u001b[32m01    \u001b[37mNever Too Much             \u001b[19;64H"
+    ],
+    [
+      4.8e-05,
+      "\u001b[36mever Too  \u001b[35m3:5\r\u001b[20d\u001b[33mWillie Nelson   \u001b[32m06    \u001b[37mOn the Road Again - Live\u001b[20;63H"
+    ],
+    [
+      6.3e-05,
+      "\u001b[36mWillie Nel \u001b[35m2:32\r\u001b[21d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mREO Speedwagon  \u001b[32m06    \u001b[37mCan't Fight This Feeling\u001b[16X\u001b[21;63H\u001b[36mWheels Are \u001b[35m4:55\r\u001b[22d"
+    ],
+    [
+      4.7e-05,
+      "\u001b[33mMen At Work\u001b[18G"
+    ],
+    [
+      4.3e-05,
+      "\u001b[32m1    \u001b[37mOverkill\u001b[22X\u001b[74G"
+    ],
+    [
+      4.7e-05,
+      "\u001b[35m3:47\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.62965,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007\u001b[24;10Hichael Jackson \"The Essential Michael Jackson\" (2005) - Thr \u001b(B\u001b[0;1m[0:06\u001b[23;3H\u001b(B\u001b[m\r\u001b[2d"
+    ],
+    [
+      0.136571,
+      "\u001b[4d"
+    ],
+    [
+      0.000654,
+      "\u001b[5d\u001b(B\u001b[0;7m\u001b[33mRockwell  \u001b[5;23H\u001b[37mSomebody's Watching Me - Single Version \u001b[36mScream     \u001b[35m3:58\r\u001b[6d"
+    ],
+    [
+      9.4e-05,
+      "\u001b(B\u001b[0m\u001b[33mMadonna         \u001b[32m20\u001b[25G\u001b[37mterial Girl\u001b[6;63H\u001b[36mCelebratio \u001b[35m4:00\u001b[7;5H"
+    ],
+    [
+      5.8e-05,
+      "\u001b[33mBangles     \u001b[32m08    \u001b[37mWalk Like an Egyptian\u001b[7;67H\u001b[36mEssent \u001b[35m3:25\r\u001b[8d"
+    ],
+    [
+      5e-05,
+      "\u001b[33mWham!      \u001b[18G"
+    ],
+    [
+      5.1e-05,
+      "\u001b[32m2    \u001b[37mWake Me up Before You Go-Go - Remastere \u001b[36mTwenty Fiv \u001b[35m3:52\r\u001b[9d\u001b[33mRick Astley\u001b[9;23H\u001b[37mNever Gonna Give You Up\u001b[9;63H"
+    ],
+    [
+      5e-05,
+      "\u001b[36mPlatinum & \u001b[35m3:32\r\u001b[10d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33ma-ha     \u001b[10;18H\u001b[32m1    \u001b[37mTake On Me\u001b[15X\u001b[10;63H"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36mHunting Hi \u001b[35m3:45\r\u001b[11d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33mTerence Trent D \u001b[32m04    \u001b[37mWishing Well   \u001b[11;63H\u001b[36mPop Music: \u001b[35m3\r\u001b[12d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33mLoverboy        \u001b[32m02    \u001b[37mWorking for the Weekend\u001b[17X\u001b[12;63H"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36mWe Are The \u001b[35m3:41\r\u001b[13d\u001b[33mRoy Orbison\u001b[18G"
+    ],
+    [
+      4.9e-05,
+      "\u001b[32m1    \u001b[37mYou Got It\u001b[30X\u001b[13;63H"
+    ],
+    [
+      4.7e-05,
+      "\u001b[36mThe Essent \u001b[35m3:31\r\u001b[14d\u001b[33mCyndi Lauper    \u001b[32m02    \u001b[37mGirls Just Want to Have Fun   \u001b[14;63H"
+    ],
+    [
+      4.5e-05,
+      "\u001b[36mShe's So U \u001b[35m3:58\r\u001b[15d"
+    ],
+    [
+      4.7e-05,
+      "\u001b[33mThe Clash;Mick  \u001b[32m04    \u001b[37mRock the Casbah\u001b[15;63H"
+    ],
+    [
+      4.6e-05,
+      "\u001b[36mCombat Roc \u001b[35m3:40\r\u001b[16d"
+    ],
+    [
+      4.7e-05,
+      "\u001b[33mDuran Duran     \u001b[32m04    \u001b[37mHungry Like The Wolf - 2009 Remastered  \u001b[36mRio [Colle \u001b[35m3:41\r\u001b[17d"
+    ],
+    [
+      4.9e-05,
+      "\u001b[33mMidnight Oil    \u001b[32m09    \u001b[37mBeds Are Burning - Remastered\u001b[17;63H\u001b[36m20000 Watt \u001b[35m4:18\r\u001b[18d"
+    ],
+    [
+      4.4e-05,
+      "\u001b[33m'Til Tuesday    \u001b[32m09    \u001b[37mVoices Carry\u001b[18;63H"
+    ],
+    [
+      4.6e-05,
+      "\u001b[36mPlaylist:  \u001b[35m4:20\r\u001b[19d"
+    ],
+    [
+      4.9e-05,
+      "\u001b[33mStarship        \u001b[32m02    \u001b[37mNothing's Gonna Stop Us Now\u001b[19;64H\u001b[36mo Protect \u001b[35m4:3\r\u001b[20d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33mKenny Rogers;Do \u001b[32m13    \u001b[37mIslands In The Stream   \u001b[20;63H"
+    ],
+    [
+      4.5e-05,
+      "\u001b[36mA Love Son \u001b[35m4:10\r\u001b[21d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mHuey Lewis & Th \u001b[32m03    \u001b[37mThe Power Of Love - 2006 Digital Remast \u001b[36mGreatest H \u001b[35m3:54\r\u001b[22d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33mBilly Joel \u001b[18G"
+    ],
+    [
+      4.9e-05,
+      "\u001b[32m4    \u001b[37mIt's Still Rock and Roll to Me\u001b[74G\u001b[35m2:57\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.460869,
+      "\r\u001b[2d"
+    ],
+    [
+      0.000253,
+      "\u001b[4d\u001b[5d\u001b[33mRockwell        \u001b[32m04    \u001b[37mSomebody's Watching Me - Single Version \u001b[36mScream     \u001b[35m3:58\u001b[K\r\u001b[6d\u001b(B\u001b[0;7m\u001b[33mMadonna         \u001b[32m20    \u001b[37mMaterial Girl                           \u001b[36mCelebratio \u001b[35m4:00   \u001b[22;78H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.184467,
+      "\r\u001b[4d\u001b[6d\u001b[33mMadonna         \u001b[32m20    \u001b[37mMaterial Girl\u001b[27X\u001b[6;63H\u001b[36mCelebratio \u001b[35m4:00\u001b[K\r\u001b[7d\u001b(B\u001b[0;7m\u001b[33mThe Bangles     \u001b[32m08    \u001b[37mWalk Like an Egyptian                   \u001b[36mThe Essent \u001b[35m3:25   \u001b[22;78H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.201697,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      5e-05,
+      "\u001b[24;10Hchael Jackson \"The Essential Michael Jackson\" (2005) - Thri \u001b(B\u001b[0;1m[0:07\u001b[23;3H\u001b(B\u001b[m"
+    ],
+    [
+      8.9e-05,
+      "\r\u001b[4d"
+    ],
+    [
+      0.000315,
+      "\u001b[7d\u001b[33mThe Bangles     \u001b[32m08    \u001b[37mWalk Like an Egyptian\u001b[19X\u001b[7;63H"
+    ],
+    [
+      3.2e-05,
+      "\u001b[36mThe Essent \u001b[35m3:25\u001b[K\r\u001b[8d"
+    ],
+    [
+      2.6e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mWham!           \u001b[32m02    \u001b[37mWake Me up Before You Go-Go - Remastere \u001b[36mTwenty Fiv \u001b[35m3:52   \u001b[22;78H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.134617,
+      "\r\u001b[2d"
+    ],
+    [
+      8e-05,
+      "\u001b[4d"
+    ],
+    [
+      0.000606,
+      "\u001b[8d\u001b[33mWham!           \u001b[32m02    \u001b[37mWake Me up Before You Go-Go - Remastere \u001b[36mTwenty Fiv \u001b[35m3:52\u001b[K\r\u001b[9d"
+    ],
+    [
+      5.8e-05,
+      "\u001b(B\u001b[0;7m\u001b[33mRick Astley     \u001b[32m01    \u001b[37mNever Gonna Give You Up                 \u001b[36mPlatinum & \u001b[35m3:32   \u001b[22;78H\u001b[39m\u001b(B\u001b[m"
+    ],
+    [
+      0.50071,
+      "\r\u001b[2d"
+    ],
+    [
+      0.504611,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      6.6e-05,
+      "\u001b[23;2H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;10H"
+    ],
+    [
+      6.1e-05,
+      "\u001b[39m\u001b(B\u001b[mhael Jackson \"The Essential Michael Jackson\" (2005) - Thril \u001b(B\u001b[0;1m[0:08\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      3.8e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      1.010117,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      8.9e-05,
+      "\u001b[24;10Hael Jackson \"The Essential Michael Jackson\" (2005) - Thril\u001b[74G"
+    ],
+    [
+      5.6e-05,
+      "\u001b(B\u001b[0;1m9\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.00024,
+      "\r\u001b[2d"
+    ],
+    [
+      0.72963,
+      "\u001b[A\u001b(B\u001b[0;1mLyrics: Rick Astley - Never Gonna Give You Up\u001b(B\u001b[m   \r\u001b[2d"
+    ],
+    [
+      0.001572,
+      "\u001b[3d\u001b[33mOoh\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[4d\u001b[K\u001b[5d\u001b[33mWe're no strangers to love\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[6d"
+    ],
+    [
+      6.6e-05,
+      "\u001b[33mYou know the rules and so do I\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[7d\u001b[33mA full commitment's what I'm thinking of\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[8d"
+    ],
+    [
+      5.3e-05,
+      "\u001b[33mYou wouldn't get this from any other guy\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[9d\u001b[K\u001b[10d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mI just wanna tell you how I'm feeling\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[11d\u001b[33mGotta make you understand\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[12d"
+    ],
+    [
+      5.6e-05,
+      "\u001b[K\u001b[13d\u001b[33mNever gonna give you up\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[14d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33mNever gonna let you down\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[15d"
+    ],
+    [
+      4.8e-05,
+      "\u001b[33mNever gonna run around and desert you\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[16d"
+    ],
+    [
+      6.7e-05,
+      "\u001b[33mNever gonna make you cry\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[17d\u001b[33mNever gonna say goodbye\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[18d"
+    ],
+    [
+      5e-05,
+      "\u001b[33mNever gonna tell a lie and hurt you\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[19d\u001b[K\u001b[20d"
+    ],
+    [
+      4.6e-05,
+      "\u001b[33mWe've known each other for so long\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[21d"
+    ],
+    [
+      4.7e-05,
+      "\u001b[33mYour heart's been aching, but you're too shy to say it\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[22d"
+    ],
+    [
+      5.4e-05,
+      "\u001b[33mInside, we both know what's been going on\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[2d\u001b[4d"
+    ],
+    [
+      0.507156,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      8.8e-05,
+      "\u001b[24;10Hel Jackson \"The Essential Michael Jackson\" (2005) - Thrille \u001b(B\u001b[0;1m[0:10\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000268,
+      "\r\u001b[2d"
+    ],
+    [
+      1.009369,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      0.000123,
+      "\u001b[24;10Hl Jackson \"The Essential Michael Jackson\" (2005) - Thriller \u001b(B\u001b[0;1m[0:11\u001b[23;4H\u001b(B\u001b[m"
+    ],
+    [
+      0.000269,
+      "\r\u001b[2d"
+    ],
+    [
+      1.0233,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      0.000167,
+      "\u001b[23;3H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;10H\u001b[39m\u001b(B\u001b[m Jackson \"The Essential Michael Jackson\" (2005) - Thriller  \u001b(B\u001b[0;1m[0:12\u001b[23;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.000164,
+      "\r\u001b[2d"
+    ],
+    [
+      1.007541,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      5.6e-05,
+      "\u001b[24;10HJackson \"The Essential Michael Jackson\" (2005) - Thriller - \u001b(B\u001b[0;1m[0:13\u001b[23;5H\u001b(B\u001b[m"
+    ],
+    [
+      6.1e-05,
+      "\r\u001b[2d"
+    ],
+    [
+      1.007679,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      7.5e-05,
+      "\u001b[24;10Hackson \"The Essential Michael Jackson\" (2005) - Thriller -  \u001b(B\u001b[0;1m[0:14\u001b[23;5H\u001b(B\u001b[m"
+    ],
+    [
+      0.000242,
+      "\r\u001b[2d"
+    ],
+    [
+      1.007066,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      0.000135,
+      "\u001b[24;10H"
+    ],
+    [
+      4.3e-05,
+      "ckson \"The Essential Michael Jackson\" (2005) - Thriller - S \u001b(B\u001b[0;1m[0:15\u001b[23;5H\u001b(B\u001b[m\r\u001b[2d"
+    ],
+    [
+      1.011256,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      0.00013,
+      "\u001b[23;4H\u001b(B\u001b[0;1m\u001b[32m=>\u001b[24;10H"
+    ],
+    [
+      8.9e-05,
+      "\u001b[39m\u001b(B\u001b[mkson \"The Essential Michael Jackson\" (2005) - Thriller - Si \u001b(B\u001b[0;1m[0:16\u001b[23;6H\u001b(B\u001b[m"
+    ],
+    [
+      0.000187,
+      "\r\u001b[2d"
+    ],
+    [
+      1.008518,
+      "\u001b]0;Michael Jackson - Thriller - Single Version\u0007"
+    ],
+    [
+      0.000185,
+      "\u001b[24;10Hson \"The Essential Michael Jackson\" (2005) - Thriller - Sin \u001b(B\u001b[0;1m[0:17\u001b[23;6H\u001b(B\u001b[m\r\u001b[2d"
+    ],
+    [
+      0.835015,
+      "\u001b[?1015l\u001b[?1000l\u001b[?1001r\u001b[?12l\u001b[?25h\u001b[24;1H\u001b[?1049l\r\u001b[?1l\u001b>"
+    ],
+    [
+      7.3e-05,
+      "\u001b]0;\u0007"
+    ],
+    [
+      0.003133,
+      "\u001b]0;kamikazejoe@endeavour:~\u0007"
+    ],
+    [
+      9.4e-05,
+      "[kamikazejoe@endeavour ~]$ "
+    ],
+    [
+      2.460711,
+      "e"
+    ],
+    [
+      0.336029,
+      "x"
+    ],
+    [
+      0.176034,
+      "i"
+    ],
+    [
+      0.126611,
+      "t"
+    ],
+    [
+      1.432765,
+      "\r\n"
+    ]
+  ]
+}
