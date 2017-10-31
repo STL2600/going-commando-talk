@@ -1,22 +1,25 @@
-# TMux Demo
+# Talk
 
-## Basics
+---
 
-* Navigate posts
+-> # RTV - Reddit Terminal Viewer <-
+
+* Browse frontpage, subreddits, user profiles
+* View and post comments
+* Post links / self posts
+
+---
+
+# Demo
+
+## Navigate posts
     * vim keys
 
-* View subreddits
-    * / then the address
+## Open subreddits / other pages
+    * /
+    * type the link
 
-* View an article
-    * Enter
-
-* View comments
-    * l
-
-* Navigate comments
+## Navigating comments
     * vim keys
-    * space to fold
+    * space to collapse comment threads
 
-* Exit post
-    * h
