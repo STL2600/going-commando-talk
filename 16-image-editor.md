@@ -1,4 +1,16 @@
-# Image Editor
+# Talk
+
+---
+
+-> # ImageMagic <-
+
+* Image editor swiss army knife
+* Easily scriptable
+* Useful for batch operations
+
+---
+
+# Demo
 
 ## Crop
     * convert arch.png -gravity center -crop 200x200+0+0 arch-cropped.png
