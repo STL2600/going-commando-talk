@@ -1,4 +1,16 @@
-# TMux Demo
+# Talk
+
+---
+
+-> # TMux - The terminal multiplexer <-
+
+* Put long running long-running commands in detached terminals
+* Use multiple panes, windows, and sessions to organize your work
+* Copy and paste text
+
+---
+
+# Demo
 
 ## Basics
 
