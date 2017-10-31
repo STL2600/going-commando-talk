@@ -1,4 +1,16 @@
-# TMux Demo
+# Talk
+
+---
+
+-> # T - Command line twitter client <-
+
+* Show your main timeline and list streams
+* Post updates, send DMs, follow / unfollow, edit lists, etc.
+* Easily scriptable
+
+---
+
+# Demo
 
 ## Basics
 
