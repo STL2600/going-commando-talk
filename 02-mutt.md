@@ -12,7 +12,7 @@
 
 ---
 
---> ## Mutt <-
+-> ## Mutt <-
 
 * Has everything your average email client has, and then some.
     - POP3/IMAP Support
@@ -43,13 +43,14 @@ To make Mutt truly great:
 
 -> ## Mutt <-
 
-Mutt -> New Email -> OfflineIMAP  <->  IMAP Email
-            ^                          DavMail
-            |
-            |
-            +- khard <- vdirsyncer <-> Davmail
-                                       Google
-                                       NextCloud
+\Mutt -> New Email -> OfflineIMAP  <->  IMAP Email
+\            ^                          DavMail
+\            |
+\            |
+\            +- khard <- vdirsyncer <-> Davmail
+\                                       Google
+\                                       NextCloud
+
 ---
 
 # Demmo
