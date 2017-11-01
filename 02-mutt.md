@@ -37,7 +37,7 @@ To make Mutt truly great:
 * imapfw to sync email locally
 * Davmail - Exchange Gateway
 
-( Not responsible if you piss off your mail admins! )
+*DISCLAIMER:* Not responsible if you piss off your mail admins!
 
 ---
 
