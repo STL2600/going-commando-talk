@@ -2,9 +2,18 @@
 
 ---
 
--> # ImageMagic <-
+-> Well I need to do some touch up on this photo... <-
+^
 
-* Image editor swiss army knife
+
+-> # ImageMagic - Image editor swiss army knife <-
+^
+
+---
+
+-> ## ImageMagic - Image editor swiss army knife <-
+
+* Powerful image editing operations
 * Easily scriptable
 * Useful for batch operations
 

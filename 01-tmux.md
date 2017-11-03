@@ -3,6 +3,14 @@
 ---
 
 -> # TMux - The terminal multiplexer <-
+^
+
+
+-> Window management for the command line <-
+
+---
+
+-> ## TMux - The terminal multiplexer <-
 
 * Put long running long-running commands in detached terminals
 * Use multiple panes, windows, and sessions to organize your work

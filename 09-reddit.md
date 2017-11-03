@@ -2,7 +2,15 @@
 
 ---
 
+-> # But what about my memes!? <-
+^
+
+
 -> # RTV - Reddit Terminal Viewer <-
+
+---
+
+-> ## RTV - Reddit Terminal Viewer <-
 
 * Browse frontpage, subreddits, user profiles
 * View and post comments

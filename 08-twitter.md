@@ -2,7 +2,24 @@
 
 ---
 
+-> # Okay, but I really need to keep up with my internet celebreties... <-
+^
+
+
 -> # T - Command line twitter client <-
+^
+-> ## . <-
+^
+-> ## . <-
+^
+-> ## . <-
+^
+-> ## And contender for worst open source project name ever <-
+^
+
+---
+
+-> ## T - Command line twitter client <-
 
 * Show your main timeline and list streams
 * Post updates, send DMs, follow / unfollow, edit lists, etc.
