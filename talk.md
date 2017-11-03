@@ -12,7 +12,7 @@
 
 -> Presents: <-
 
--> # Going Commando <-
+-> # GOING COMMANDO! <-
 
 
 
@@ -25,21 +25,16 @@
 -> # Who are these guys? <-
 ^
 
----
-
--> # Who are these guys? <-
-^
-
 -> *Bob* <-
 
 * He's the good looking one.
 ^
 * Founder / former president of Arch Reactor hackerspace
+* Co-host of the local 2600 meeting in St. Louis, MO
 * Founder / CTO of Juristat
 * 90% of my working time is in TMux, ZSH, and NeoVim
 * My office has a kegerator in it
 * 73% of the photos on my phone are of my cat
-^
 
 ---
 
@@ -50,8 +45,12 @@
 
 * He's the OTHER good looking one.
 ^
-* Joe, put other stuff here
-^
+* Founder / CURRENT president of Arch Reactor hackerspace
+* Also Co-hosts the local 2600 meeting in St. Louis, MO
+* Legit Infosec Professional for Washington Univeristy
+* Insists on using the CLI out of sheer stubbornness
+* Has a pretty sweet retro computer collection
+
 
 ---
 
@@ -103,11 +102,11 @@
 -> # What this talk will NOT be about: <-
 ^
 
-* Basic command line usage - That's a different talk.
+* Basic command line usage - That workshop is tommorrow.
 ^
 * Specific shells, terminal emulators, or VI vs. EMACS.
 ^
-* Powershell - Sorry, we are both linux guys
+* Powershell - Sorry. But Ubuntu is on Windows now!
 
 ---
 
