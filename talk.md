@@ -1,10 +1,16 @@
-%title: STL2600 + DC314 Presents: Going Commando
+%title: GOING COMMANDO!
 %author: Bob & Joe
 %date: 2017-11-03
 
 
 
-->  STL2600 + DC314 Presents: <-
+-> *Arch Reactor: The St. Louis Hackerspace* <-
+
+-> and <-
+
+-> *The STL2600 + DC314 Meetup* <-
+
+-> Presents: <-
 
 -> # Going Commando <-
 
