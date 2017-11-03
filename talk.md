@@ -112,19 +112,19 @@
 
 -> ## TMux - The terminal multiplexer <-
 
-* Put long running long-running commands in detached terminals
+* Put long running commands in detached terminals
 * Use multiple panes, windows, and sessions to organize your work
 * Copy and paste text
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -186,13 +186,13 @@ DISCLAIMER: Not responsible if you piss off your mail admins!
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -217,20 +217,20 @@ DISCLAIMER: Not responsible if you piss off your mail admins!
 
 Support for:
 
-+-------------+------------------------+
-| Yahoo       | SIPE (Lync/Skype4Beez) |
-| AIM/ICQ     | Telegram               |
-| XMPP/Jabber | Hangouts               |
-| Facebook    | VK                     |
-| Twitter     | LINE                   |
-| StatusNet   | StarTrek Online        |
-| StudiVZ     | Steam                  |
-| NWSChat     | Torchat                |
-| MSN         | Omegle                 |
-| Hipchat     | Discord                |
-| Skype       | Mastodon               |
-| GaduGadu    | Campfire               |
-+-------------+------------------------+
+\+-------------+------------------------+
+\| Yahoo       | SIPE (Lync/Skype4Beez) |
+\| AIM/ICQ     | Telegram               |
+\| XMPP/Jabber | Hangouts               |
+\| Facebook    | VK                     |
+\| Twitter     | LINE                   |
+\| StatusNet   | StarTrek Online        |
+\| StudiVZ     | Steam                  |
+\| NWSChat     | Torchat                |
+\| MSN         | Omegle                 |
+\| Hipchat     | Discord                |
+\| Skype       | Mastodon               |
+\| GaduGadu    | Campfire               |
+\+-------------+------------------------+
 
 ---
 
@@ -238,30 +238,30 @@ Support for:
 
 Support for:
 
-+-------------+------------------------+
-| .....       | *SIPE (Lync/Skype4Beez)* |
-| .......     | ........               |
-| ........... | ........               |
-| ........    | ..                     |
-| .......     | ....                   |
-| .........   | ........ ......        |
-| .......     | .....                  |
-| .......     | .......                |
-| ...         | ......                 |
-| .......     | .......                |
-| .....       | ........               |
-| ........    | ........               |
-+-------------+------------------------+
+\+-------------+------------------------+
+\| .....       | *SIPE (Lync/Skype4Beez)* |
+\| .......     | ........               |
+\| ........... | ........               |
+\| ........    | ..                     |
+\| .......     | ....                   |
+\| .........   | ........ ......        |
+\| .......     | .....                  |
+\| .......     | .......                |
+\| ...         | ......                 |
+\| .......     | .......                |
+\| .....       | ........               |
+\| ........    | ........               |
+\+-------------+------------------------+
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -323,13 +323,13 @@ And if that's not enough, you can add a custom extension with Lua.
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -348,13 +348,13 @@ And if that's not enough, you can add a custom extension with Lua.
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -402,13 +402,13 @@ The secret sauce...
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -458,13 +458,13 @@ Interneting
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -493,13 +493,13 @@ Interneting
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -519,13 +519,13 @@ Interneting
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -569,13 +569,13 @@ Media
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -607,13 +607,13 @@ Also will syncs with:
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -666,13 +666,13 @@ Plugins Available For:
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -709,13 +709,13 @@ Plugins Available For:
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -753,13 +753,13 @@ Plugins Available For:
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -799,13 +799,13 @@ Plugins Available For:
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
@@ -826,13 +826,13 @@ Plugins Available For:
 
 ---
 
-/                                |\
-/                                | \
-/                         +------+  \
-/  Look over here now...  |          >
-/                         +------+  /
-/                                | /
-/                                |/
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
 
 ---
 
