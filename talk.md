@@ -113,7 +113,8 @@
 -> ## TMux - The terminal multiplexer <-
 
 * Put long running commands in detached terminals
-* Use multiple panes, windows, and sessions to organize your work
+* Use multiple panes, windows, and sessions to organize 
+   your work
 * Copy and paste text
 
 ---
@@ -128,10 +129,10 @@
 
 ---
 
-Communications
+-> # Communications <-
 
-* Email
-* Instant Messaging
+-> *Email* <-
+-> *Instant Messaging* <-
 
 ---
 
@@ -147,7 +148,7 @@ Communications
 
 -> ## Mutt <-
 
-* Has everything your average email client has, and then some.
+* Has everything a basic email client has, and then some.
     - POP3/IMAP Support
     - MIME support
     - Encryption
@@ -170,7 +171,10 @@ To make Mutt truly great:
 * imapfw to sync email locally
 * Davmail - Exchange Gateway
 
-DISCLAIMER: Not responsible if you piss off your mail admins!
+
+
+-> *DISCLAIMER* <-
+-> Not responsible if you piss off your mail admins! <-
 
 ---
 
@@ -200,7 +204,7 @@ DISCLAIMER: Not responsible if you piss off your mail admins!
 ^
 
 
--> Bitlbee <-
+-> *Bitlbee* <-
 
 ---
 
@@ -217,20 +221,20 @@ DISCLAIMER: Not responsible if you piss off your mail admins!
 
 Support for:
 
-\+-------------+------------------------+
-\| Yahoo       | SIPE (Lync/Skype4Beez) |
-\| AIM/ICQ     | Telegram               |
-\| XMPP/Jabber | Hangouts               |
-\| Facebook    | VK                     |
-\| Twitter     | LINE                   |
-\| StatusNet   | StarTrek Online        |
-\| StudiVZ     | Steam                  |
-\| NWSChat     | Torchat                |
-\| MSN         | Omegle                 |
-\| Hipchat     | Discord                |
-\| Skype       | Mastodon               |
-\| GaduGadu    | Campfire               |
-\+-------------+------------------------+
+\ +-------------+------------------------+
+\ | Yahoo       | SIPE (Lync/Skype4Beez) |
+\ | AIM/ICQ     | Telegram               |
+\ | XMPP/Jabber | Hangouts               |
+\ | Facebook    | VK                     |
+\ | Twitter     | LINE                   |
+\ | StatusNet   | StarTrek Online        |
+\ | StudiVZ     | Steam                  |
+\ | NWSChat     | Torchat                |
+\ | MSN         | Omegle                 |
+\ | Hipchat     | Discord                |
+\ | Skype       | Mastodon               |
+\ | GaduGadu    | Campfire               |
+\ +-------------+------------------------+
 
 ---
 
@@ -238,20 +242,20 @@ Support for:
 
 Support for:
 
-\+-------------+------------------------+
-\| .....       | *SIPE (Lync/Skype4Beez)* |
-\| .......     | ........               |
-\| ........... | ........               |
-\| ........    | ..                     |
-\| .......     | ....                   |
-\| .........   | ........ ......        |
-\| .......     | .....                  |
-\| .......     | .......                |
-\| ...         | ......                 |
-\| .......     | .......                |
-\| .....       | ........               |
-\| ........    | ........               |
-\+-------------+------------------------+
+\ +-------------+------------------------+
+\ | .....       | *SIPE (Lync/Skype4Beez)* |
+\ | .......     | ........               |
+\ | ........... | ........               |
+\ | ........    | ..                     |
+\ | .......     | ....                   |
+\ | .........   | ........ ......        |
+\ | .......     | .....                  |
+\ | .......     | .......                |
+\ | ...         | ......                 |
+\ | .......     | .......                |
+\ | .....       | ........               |
+\ | ........    | ........               |
+\ +-------------+------------------------+
 
 ---
 
@@ -266,29 +270,29 @@ Support for:
 ---
 
 
-Office Suite
+-> # Office Suite <-
 
-* Documents
-* Spreashseets
-* Calendar
-* Presenting
+-> *Documents* <-
+-> *Spreashseets* <-
+-> *Calendar* <-
+-> *Presenting* <-
 
 ---
 
--> Do co-workers insist on sending you bloated Word documents? <-
+-> Do co-workers insist on sending bloated Word documents? <-
 ^
--> Does formatting documents in MS Word make you feel homocidal? <-
+-> Does formatting in MS Word make you feel homocidal? <-
 ^
--> Do you wish you never had to look at Comic Sans ever again? <-
+-> Do you wish you could never look at Comic Sans ever again? <-
 ^
 
--> Here's Pandoc to the rescue! <-
+-> Here's *Pandoc* to the rescue! <-
 
 ---
 
 -> ## Pandoc <-
 
-* "Swiss army knife of converting docs!" -- I'm paraphrasing
+* "Swiss army knife of converting docs!", I'm paraphrasing
 * Converts a doc into just about any other doc format.
 * More importantly, it'll convert to and from DOCX!
 
@@ -298,7 +302,7 @@ Office Suite
 
 Supports most of your common formats, such as:
 
-* HTML - Including CSS formatting and HTML slide formats like reveal.js
+* HTML - Including CSS formatting and HTML slide formats.
 * DOCX
 * ODT
 * RTF
@@ -319,7 +323,8 @@ And some weird stuff I've never heard of:
 * Groff
 * Haddock
 
-And if that's not enough, you can add a custom extension with Lua.
+-> And if that's not enough, <-
+-> you can add a custom extension with Lua. <-
 
 ---
 
@@ -333,7 +338,7 @@ And if that's not enough, you can add a custom extension with Lua.
 
 ---
 
---> I can edit text, but how do I balance my checkbook? <--
+-> I can edit text, but how do I balance my checkbook? <-
 ^
 
 -> SC Improved / SCIM - Console Spreadsheet Editor <-
@@ -360,7 +365,11 @@ And if that's not enough, you can add a custom extension with Lua.
 
 -> A good calendar app can be taken for granted. <-
 
--> Easily overlooked, but absolutely essential if you are going... <-
+
+
+-> It's easily overlooked <-
+
+-> but absolutely essential if you are going... <-
 ^
 
 -> # FULL COMMANDO <-
@@ -375,10 +384,15 @@ CalCurse, Remind, GCalCLI, Calendar-CLI, Khal
 ^
 
 Personal Requirements:
+^
 * CalDav syncing a must.
+^
 * Multiple Calendars
+^
 * Simple TUI frontend.
+^
 * CLI options for scripting would be nice.
+^
 * Must have the name of a Game of Thrones character.
 
 ---
@@ -387,7 +401,7 @@ Personal Requirements:
 
 
 
--> Khal it is! <-
+-> *Khal* it is! <-
 
 ---
 
@@ -412,14 +426,14 @@ The secret sauce...
 
 ---
 
-Completing the Office suite:
+-> # Completing the Office suite: <-
 
--> * Mutt <-
--> * Pandoc <-
--> * SC-IM <-
--> * Khal <-
+-> Mutt <-
+-> Pandoc <-
+-> SC-IM <-
+-> Khal <-
 ^
--> * MDP <-
+-> *MDP* <-
 
 ---
 
@@ -431,13 +445,13 @@ Completing the Office suite:
 
 ---
 
-Interneting
+-> # Interneting <-
 
-* Browsing
-* Twitter
-* Reddit
-* Youtube
-* RSS News Feeds
+-> *Browsing* <-
+-> *Twitter* <-
+-> *Reddit* <-
+-> *Youtube* <-
+-> *RSS News Feeds* <-
 
 ---
 
@@ -446,7 +460,7 @@ Interneting
 
 
 -> # links - terminal mode web browser <-
-^
+
 
 ---
 
@@ -468,7 +482,8 @@ Interneting
 
 ---
 
--> # Okay, but I really need to keep up with my internet celebreties... <-
+-> ## Okay, but I really need to keep up <-
+-> ## with my internet celebreties... <-
 ^
 
 
@@ -481,14 +496,23 @@ Interneting
 -> ## . <-
 ^
 -> ## And contender for worst open source project name ever <-
-^
+
+
+
+
+-> (IMHO, "Bro" might be the second worse, <-
+-> but that's a different discussion - Joe) <-
 
 ---
 
 -> ## T - Command line twitter client <-
 
 * Show your main timeline and list streams
-* Post updates, send DMs, follow / unfollow, edit lists, etc.
+* Lets you:
+    - Post updates
+    - Send DMs
+    - follow / unfollow,
+    - edit lists, etc.
 * Easily scriptable
 
 ---
@@ -529,12 +553,12 @@ Interneting
 
 ---
 
-Media
+-> # Media <-
 
-* Music
-* Bit Torrent
-* Images
-* Video
+-> *Music* <-
+-> *Bit Torrent* <-
+-> *Images* <-
+-> *Video* <-
 
 ---
 
@@ -581,9 +605,49 @@ Media
 
 
 
+-> So I can't think of a joke to put here. <-
+^
+
+-> There's just not a lot of "RSS" humor out there. <-
+^
 
 
--> ## Newsboat <-
+
+-> Oh well... <-
+
+
+
+---
+
+
+-> Oh, real quick! <-
+^
+
+-> Ladies... <-
+^
+
+-> If this particular kind of geekery appeals to you... <-
+^
+
+-> Joe is single. <-
+^
+-> Employeed. <-
+^
+-> And has two cats, so you know he's got a sensitive side <-
+^
+
+-> (Their names are Arduino and Edison) <-
+
+
+---
+
+
+
+
+-> Anyway... Here's *Newsboat* <-
+^
+-> It's a pretty cool RSS reader. <-
+
 
 ---
 
@@ -641,26 +705,26 @@ Also will syncs with:
 -> ## Mopidy <-
 
 Plugins Available For:
-\+--------------------+------------+
-\| AudioAddict        | Radio.net  |
-\| Banshee            | SomaFM     |
-\| Bassdrive          | SoundCloud |
-\| Beets              | Spotify    |
-\| Deezer             | Subsonic   |
-\| Dirble             | Last.fm    |
-\| DLNA (dLeyna)      | TuneIn     |
-\| Emby               | VKontakte  |
-\| Google Music       | YouTube    |
-\| Internet Archive   | Pandora    |
-\| OE1 (Aussie Radio) | Pi MusicBo |
-\| Podcasts           |            |
-\+--------------------+------------+
+\ +--------------------+------------+
+\ | AudioAddict        | Radio.net  |
+\ | Banshee            | SomaFM     |
+\ | Bassdrive          | SoundCloud |
+\ | Beets              | Spotify    |
+\ | Deezer             | Subsonic   |
+\ | Dirble             | Last.fm    |
+\ | DLNA (dLeyna)      | TuneIn     |
+\ | Emby               | VKontakte  |
+\ | Google Music       | YouTube    |
+\ | Internet Archive   | Pandora    |
+\ | OE1 (Aussie Radio) | Pi MusicBo |
+\ | Podcasts           |            |
+\ +--------------------+------------+
 
 ---
 
 -> ## Ncmpcpp <-
 
-* The defacto client for GOING COMMANDO.
+* The defacto client for *GOING COMMANDO.*
 * All the features you'd expect from a media player.
 * Can search and create playlists across libraries.
 
@@ -691,13 +755,13 @@ Plugins Available For:
 -> But never ever for pirating! <-
 
 
-\       88         88
-\        \\ _____ //
-\         \/     \/
-\          | O O |
-\         //\ ^ /\\
-\        //  |||  \\
-\       88         88
+\                        88         88
+\                         \\\\ \_____ //
+\                          \\/     \\/
+\                           | O O |
+\                          //\\ ^ /\\\\
+\                         //  |||  \\\\
+\                        88         88
 
 ---
 
@@ -719,7 +783,8 @@ Plugins Available For:
 
 ---
 
--> Well if I want to look at images, I'm going to have to boot up the old X server <-
+-> Well if I want to look at images, <- 
+-> I'm going to have to boot up the old X server <-
 ^
 
 -> Nope <-
@@ -727,13 +792,14 @@ Plugins Available For:
 
 
 -> # timg - Terminal Image Viewer <-
-^
+
 
 ---
 
 -> ## timg - Terminal Image Viewer <-
 
 * View ascii-ified images in your terminal
+
 ---
 
 -> Well I need to do some touch up on this photo... <-
@@ -741,7 +807,7 @@ Plugins Available For:
 
 
 -> # ImageMagic - Image editor swiss army knife <-
-^
+
 
 ---
 
@@ -763,29 +829,12 @@ Plugins Available For:
 
 ---
 
--> Well I need to do some touch up on this photo... <-
-^
-
-
--> # ImageMagic - Image editor swiss army knife <-
-^
-
----
-
--> ## ImageMagic - Image editor swiss army knife <-
-
-* Powerful image editing operations
-* Easily scriptable
-* Useful for batch operations
-
----
-
 -> I'm bored, let's watch a movie. <-
 ^
 
 
 -> # VLC... but in the terminal <-
-^
+
 
 ---
 
@@ -795,7 +844,7 @@ Plugins Available For:
 * VLC actually does have an ascii output mode
 ^
 * Yes, really
-^
+
 
 ---
 
@@ -814,7 +863,7 @@ Plugins Available For:
 
 
 -> # ffmpeg - video encoder / editor <-
-^
+
 
 ---
 
@@ -836,51 +885,54 @@ Plugins Available For:
 
 ---
 
-Q & A
+
+
+
+-> *Q & A* <-
+
+
+
 
 ---
 
 -> A "Gary, The Homeless Guy Outside of the Burger King" Joint <-
 
--> Writers                     Bob <-
-->                             Joe <-
 
--> Producer                    Batman <-
-
--> Executive Producer          Bruce Wayne <-
+\           Writers                     Bob
+\                                       Joe
+\                          
+\           Producer                    Batman
+\           Executive Producer          Bruce Wayne
 
 -> _Cast_ <-
 
--> Bob                         Bob <-
--> Joe                         Joe <-
--> Maryl Streep                Joe's Laptop <-
-
--> Director of Photography     Batman <-
-
--> Production Designer         Batman <-
-
--> Editor                      Batman <-
-
--> Custume Designer            Batman <-
-
--> Music Composer              Danny Elfman <-
-
--> Casting Director            Bruce Wayne <-
-
--> Stunt Co-ordinator          Robin <-
+\           Bob                         Bob
+\           Joe                         Joe
+\           Maryl Streep                Joe's Laptop
 
 
+\           Director of Photography     Batman
+\           Production Designer         Batman
+\           Editor                      Batman
+\           Custume Designer            Batman
+\           Music Composer              Danny Elfman
+\           Casting Director            Bruce Wayne
+\           Stunt Co-ordinator          Robin
 
 
--> Special Thanks To The Brave Men and Women of the Gotham Police Department. <-
+-> Special Thanks To <-
+-> The Brave Men and Women <- 
+-> of the <-
+-> Gotham Police Department.<-
 
--> (c) Stardate 44741.9 United Federation of Planets ALL RIGHTS RESERVED <-
+
+-> (c) Stardate 44741.9 <-
+-> United Federation of Planets <-
+-> ALL RIGHTS RESERVED <-
 
 
-
-
--> No fluffy animals were harmed in the making of this presentation... <-
-
+-> No fluffy animals were harmed <-
+-> in the making of this presentation... <-
 
 
 -> Gobs of scaly creepy crawly ones were though. <-
