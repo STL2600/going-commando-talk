@@ -34,7 +34,11 @@
 
 * He's the good looking one.
 ^
-* Bob, put other stuff here
+* Founder / former president of Arch Reactor hackerspace
+* Founder / CTO of Juristat
+* 90% of my working time is in TMux, ZSH, and NeoVim
+* My office has a kegerator in it
+* 73% of the photos on my phone are of my cat
 ^
 
 ---
