@@ -43,13 +43,13 @@ To make Mutt truly great:
 
 -> ## Mutt <-
 
-\Mutt -> New Email -> OfflineIMAP  <->  IMAP Email
-\            ^                          DavMail
-\            |
-\            |
-\            +- khard <- vdirsyncer <-> Davmail
-\                                       Google
-\                                       NextCloud
+\ Mutt -> New Email -> OfflineIMAP  <->  IMAP Email
+\             ^                          DavMail
+\             |
+\             |
+\             +- khard <- vdirsyncer <-> Davmail
+\                                        Google
+\                                        NextCloud
 
 ---
 
