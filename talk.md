@@ -1,6 +1,6 @@
 %title: STL2600 + DC314 Presents: Going Commando
 %author: Bob & Joe
-%date: 2016-01-06
+%date: 2017-11-03
 
 
 
@@ -102,366 +102,785 @@
 ---
 
 
-
----
-
-# TMux - Terminal Multiplexer
-
-* Improved version of screeen
-* Better stability
-* Lots more features
-    - Windowing and tabs in a terminal
-    - Highly customizable
-    - Easier to manage sessions
-
----
-
-
----
-
-# Comms
-
-
--> ## Communicating in an Office Environment <-
+-> # TMux - The terminal multiplexer <-
 ^
+  
+  
+-> Window management for the command line <-
+   
+---
+
+-> ## TMux - The terminal multiplexer <-
+
+* Put long running long-running commands in detached terminals
+* Use multiple panes, windows, and sessions to organize your work
+* Copy and paste text
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+Communications
 
 * Email
 * Instant Messaging
 
 ---
 
-# Comms > Email
-
-
 -> ## Mutt <-
 
-* "All mail clients suck. This one just sucks less." 
+* "All mail clients suck. This one just sucks less."
 * Email-client hobby kit. (absurdly configurable)
 * Spend as much time on email as you did back in the 90s
-* The inspiration for this presentation
+* Genesis of my "Commando Lifestyle"
+* and became the inspiration for this presentation.
 
 ---
-
-# Comms > Email
-
-
 
 -> ## Mutt <-
 
--> *Time for Joe to screw up his email some more.* <-
+* Has everything your average email client has, and then some.
+    - POP3/IMAP Support
+    - MIME support
+    - Encryption
+    - Full control of message headers
+    - Macros
+    - CLI functionality for scripting
 
 ---
 
-# Comms > Chat
+-> ## Mutt <-
+
+To make Mutt truly great:
+
+* Neomutt
+* Contact manager (such as khard)
+* vdirsyncer (for contacts)
+* mutt-addressbook (LDAP contact lookup)
+* urlscan (URL scraper)
+* pandoc (document handling)
+* imapfw to sync email locally
+* Davmail - Exchange Gateway
+
+DISCLAIMER: Not responsible if you piss off your mail admins!
 
 ---
 
-# Comms > Chat
+-> ## Mutt <-
 
+\Mutt -> New Email -> OfflineIMAP  <->  IMAP Email
+\            ^                          DavMail
+\            |
+\            |
+\            +- khard <- vdirsyncer <-> Davmail
+\                                       Google
+\                                       NextCloud
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+--> What about instant messenging in the office? <--
+^
+
+
+-> Bitlbee <-
+
+---
 
 -> ## Bitlbee <-
 
 * IRC server that proxies IM services
-* Makes use of libpurple. i.e. Anything that Pidgin supports.
-* Even works with Lync/Skype for Business.
+* Supports lots of clients natively
+* More can be added via plugins
+* Can use libpurple
 
 ---
 
-# Comms > Chat
+-> ## Bitlbee <-
 
+Support for:
 
--> ## WeeChat & Bitlbee <-
-
--> *Time to see it all in aciton* <-
-
----
-
-# Comms > Social Networking
-^
-
-# twitter
-
-## t
-        * Yup.  Just the letter 't'
-        * scriptable power user tool
-        * command based interface
-        
-## rainbow stream
-        * more of a console tool
-        
-# reddit
-    * rtv
++-------------+------------------------+
+| Yahoo       | SIPE (Lync/Skype4Beez) |
+| AIM/ICQ     | Telegram               |
+| XMPP/Jabber | Hangouts               |
+| Facebook    | VK                     |
+| Twitter     | LINE                   |
+| StatusNet   | StarTrek Online        |
+| StudiVZ     | Steam                  |
+| NWSChat     | Torchat                |
+| MSN         | Omegle                 |
+| Hipchat     | Discord                |
+| Skype       | Mastodon               |
+| GaduGadu    | Campfire               |
++-------------+------------------------+
 
 ---
 
-# Comms > Social Networking
+-> ## Bitlbee <-
 
+Support for:
 
-
--> ## 't' <-
-
-* set up your account
-* view your stream
-* search for tweets
-* post an update
-
----
-
-# Comms > Social Networking
-
-
-
--> ## 'rainbow stream' <-
-
-* set up your account
-* post a tweet
++-------------+------------------------+
+| .....       | *SIPE (Lync/Skype4Beez)* |
+| .......     | ........               |
+| ........... | ........               |
+| ........    | ..                     |
+| .......     | ....                   |
+| .........   | ........ ......        |
+| .......     | .....                  |
+| .......     | .......                |
+| ...         | ......                 |
+| .......     | .......                |
+| .....       | ........               |
+| ........    | ........               |
++-------------+------------------------+
 
 ---
 
-# Comms > Social Networking
-
-
-
--> ## rtv <-
-
-* set up your account
-* view subreddits
-* view posts
-* view comments
-* post comments
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
 
 ---
 
--> # Media <-
 
-* Torrenting
-* Music Streaming
-* RSS News Feeds
-* Ebooks
-* Image Viewing (*Wait...?*)
-* Image Editing (*What? Really?*)
-* Video Playback (*Oh yeah...*)
-* Video Editing (*...We are going there.*)
-
----
-
-# Media > Torrenting
-
----
-
-# Media > Torrenting
-
-
--> ## Rtorrent <-
-
-* Full featured bittorrent client.
-* RSS feeds supported
-* Combine with Tmux to make it headless
-* If you wuss out on CLI, there is a web client available.
-
----
-
-# Media > Torrenting
-
-
-
--> ## Rtorrent <-
-
--> *Ask nicely, and Joe will show you his setup.* <-
-
----
-
-# Media > Music Streaming
-
----
-* Does require a premium Spotify account.
-* Uses _way_ less RAM than the official client.
-* Joe uses this daily.
-
----
-
-# Media > RSS
-
----
-
-# Media > RSS
-
-
-
--> ## newsbeuter <-
-
-* import your feeds
-* do some browsing
-
----
-
-# Media > Image Viewing
-
----
-
-# Media > Image Viewing
-
-
-
-* caca
-    * true terminal image viewer
-    * converts all images to ascii
-* w3m
-    * can display *real* images in certain terminal emulators
-    * doesn't seem to work over ssh
-    * doesn't seem to work in tmux
-
----
-
-# Media > Image Editing
-
----
-
-# Media > Image Editing
-
-
-
--> ## ImageMagic <-
-
-* change image formats
-    * convert file.jpg file.png
-* change color space
-    * convert file.jpg -colorspace Gray file_gray.jpg
-* resize
-    * convert file.jpg -resize 64x64 file_small.jpg
-
----
-
-# Media > Video Viewing
-
----
-
-# Media > Video Viewing
-
-
-
--> ## VLC <-
-
-* Yes, that one.
-* Has several different console interfaces
-* But it has an awesome ascii playback mode!
-
----
-
-# Media > Video Viewing
-
-
-
--> ## youtube-dl <-
-
-* Youtube downloader, and then some.
-* Rediculously long list of supported sites.
-* Uncomfortable ammount of *porn*.
-
----
-
-# Media > Video Viewing
-
-
-
--> ## VLC <-
-
--> *Of course we are going to show it* <-
-
----
-
-# Media > Video Editing
-
----
-
-# Media > Video Editing
-
-
-
--> ## FFMPEG <-
-
-* Central component of a lot of GUI applications
-* Convert, splice, trim videos.
-* Records screen or video input.
-
----
-
-# Media > Video Editing
-
-
-
--> ## FFMPEG <-
-
----
-
--> # Office Stuff <-
+Office Suite
 
 * Documents
+* Spreashseets
 * Calendar
-* Spreadsheet
-* Presentations
-* Web Browsing
+* Presenting
 
 ---
 
-# Office Stuff > Documents
+-> Do co-workers insist on sending you bloated Word documents? <-
+^
+-> Does formatting documents in MS Word make you feel homocidal? <-
+^
+-> Do you wish you never had to look at Comic Sans ever again? <-
+^
+
+-> Here's Pandoc to the rescue! <-
 
 ---
 
-# Office Stuff > Calendar
+-> ## Pandoc <-
+
+* "Swiss army knife of converting docs!" -- I'm paraphrasing
+* Converts a doc into just about any other doc format.
+* More importantly, it'll convert to and from DOCX!
 
 ---
 
-# Office Stuff > Spreadsheet
+-> ## Pandoc <-
+
+Supports most of your common formats, such as:
+
+* HTML - Including CSS formatting and HTML slide formats like reveal.js
+* DOCX
+* ODT
+* RTF
+* EPUB
+* Most markup formats: e.g. Markdown, AsciiDoc, MediaWiki
+* Exports PDFs
 
 ---
 
-# Office Stuff > Spreadsheet
+-> ## Pandoc <-
 
+And some weird stuff I've never heard of:
 
+* reStructuredText
+* Beamer
+* DocBook
+* Texinfo
+* Groff
+* Haddock
 
--> ## sc-im <-
-
-* supports CSV, TSV, and XLS import / export
-* supports basic formatting
-* demo
-    * move around
-    * insert numbers
-    * insert text
-    * write output
-        * plain text
-        * sc file
+And if that's not enough, you can add a custom extension with Lua.
 
 ---
 
-# Office Stuff > Presntations
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+--> I can edit text, but how do I balance my checkbook? <--
+^
+
+-> SC Improved / SCIM - Console Spreadsheet Editor <-
+
+---
+
+-> ## SC Improved / SCIM - Console Spreadsheet Editor <-
+
+* Full featured spreadsheet app
+* Can interact with CSV, TSV, and XLS files
+* Basic formatting options
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> A good calendar app can be taken for granted. <-
+
+-> Easily overlooked, but absolutely essential if you are going... <-
+^
+
+-> # FULL COMMANDO <-
+
+---
+
+-> ## Calendar <-
+
+There are a few choices out there.
+
+CalCurse, Remind, GCalCLI, Calendar-CLI, Khal
+^
+
+Personal Requirements:
+* CalDav syncing a must.
+* Multiple Calendars
+* Simple TUI frontend.
+* CLI options for scripting would be nice.
+* Must have the name of a Game of Thrones character.
+
+---
+
+-> ## Calendar <-
 
 
+
+-> Khal it is! <-
+
+---
+
+-> ## Vdirsyncer <-
+
+The secret sauce...
+
+* Part of the same project as Khal.
+* Tool to sync CalDav and CardDav.
+* Runs manually or by cron.
+* Aims to be 'OfflineIMAP' for CalDav.
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+Completing the Office suite:
+
+-> * Mutt <-
+-> * Pandoc <-
+-> * SC-IM <-
+-> * Khal <-
+^
+-> * MDP <-
+
+---
 
 -> ## MDP <-
 
-* Supports Markdown
-* Will export slides as PDF
-* My new life goal is to use this at a conference.
+* The Markdown Presentor
+* Easily Joe's Favorite
+* Demo? This is the demo!
 
 ---
 
-# Office Stuff > Web Browsing
+Interneting
+
+* Browsing
+* Twitter
+* Reddit
+* Youtube
+* RSS News Feeds
 
 ---
 
-# Office Stuff > Web Browsing
+-> How do I check my Internet home-page, Yahoo.com? <-
+^
 
 
+-> # links - terminal mode web browser <-
+^
 
--> ## w3m <-
+---
 
--> *Bob dots the coms* <-
+-> ## links - terminal mode web browser <-
+
+* Text mode web browser
+* Basic JavaScript support
+* Easy searching and navigation
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> # Okay, but I really need to keep up with my internet celebreties... <-
+^
+
+
+-> # T - Command line twitter client <-
+^
+-> ## . <-
+^
+-> ## . <-
+^
+-> ## . <-
+^
+-> ## And contender for worst open source project name ever <-
+^
+
+---
+
+-> ## T - Command line twitter client <-
+
+* Show your main timeline and list streams
+* Post updates, send DMs, follow / unfollow, edit lists, etc.
+* Easily scriptable
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> # But what about my memes!? <-
+^
+
+
+-> # RTV - Reddit Terminal Viewer <-
+
+---
+
+-> ## RTV - Reddit Terminal Viewer <-
+
+* Browse frontpage, subreddits, user profiles
+* View and post comments
+* Post links / self posts
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+Media
+
+* Music
+* Bit Torrent
+* Images
+* Video
 
 ---
 
 
 
 
--> # Ctrl + Z <-
 
+-> Twitter and Reddit are great. <-
+-> But what if someone posts a hilarious cat video? <-
+
+---
+
+-> ## MPS-Youtube <-
+
+* TUI for browsing Youtube.
+* Can search for:
+    * Videos
+    * Playlists
+    * Uploader/Youtube Star
+* Create video playlists
+* Play videos in your choice of player.
+* Can download and save videos with Youtube-DL
+
+---
+
+-> ## Youtube-DL <-
+
+* Downlaods from Youtube, and elsewhere.
+* 1,061 supported sites, give or take.
+* Options for site logins and geo restrictions
+* Multiple encoding options.
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+
+
+
+
+-> ## Newsboat <-
+
+---
+
+-> ## Newsboat <-
+
+* Forked from the now abandoned Newsbeuter
+* Designed to be the "Mutt of RSS Readers"
+* Filter language to sort, query, or discard content
+* Built in podcast support.
+
+---
+
+-> ## Newsboat <-
+
+Also will syncs with:
+    - The Old Reader
+    - NewsBlur
+    - FeedHQ
+    - Tiny Tiny RSS
+    - Nextcloud News App
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> ## Mopidy <-
+
+* MPD baed server. (Not to be confused with MDP)
+* "Music Player Daemon"
+* Wacky server/client model for playing music.
+    - Server plays the music.
+    - Client controls playback
+
+* Tunes continues even if the client is closed.
+* Wide selection of clients.
+
+---
+
+-> ## Mopidy <-
+
+* Extremely extensible via a plugin API
+* All your music services in one spot.
+* Also great for DIY projects.
+
+---
+
+-> ## Mopidy <-
+
+Plugins Available For:
+\+--------------------+------------+
+\| AudioAddict        | Radio.net  |
+\| Banshee            | SomaFM     |
+\| Bassdrive          | SoundCloud |
+\| Beets              | Spotify    |
+\| Deezer             | Subsonic   |
+\| Dirble             | Last.fm    |
+\| DLNA (dLeyna)      | TuneIn     |
+\| Emby               | VKontakte  |
+\| Google Music       | YouTube    |
+\| Internet Archive   | Pandora    |
+\| OE1 (Aussie Radio) | Pi MusicBo |
+\| Podcasts           |            |
+\+--------------------+------------+
+
+---
+
+-> ## Ncmpcpp <-
+
+* The defacto client for GOING COMMANDO.
+* All the features you'd expect from a media player.
+* Can search and create playlists across libraries.
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> ## rTorrent <-
+
+-> Bittorrent client for completely legitimate downloading. <-
+^
+
+-> Like the latest disc image of a prefered Linux distro <-
+-> but don't want to unnecessarily waste their bandwidth. <-
+
+---
+
+-> ## rTorrent <-
+
+-> But never ever for pirating! <-
+
+
+\       88         88
+\        \\ _____ //
+\         \/     \/
+\          | O O |
+\         //\ ^ /\\
+\        //  |||  \\
+\       88         88
+
+---
+
+-> ## rTorrent <-
+
+* All the standard bells and whistles.
+* Great when combined with Tmux.
+* Scripting to auto-manage downloads.
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> Well if I want to look at images, I'm going to have to boot up the old X server <-
+^
+
+-> Nope <-
+^
+
+
+-> # timg - Terminal Image Viewer <-
+^
+
+---
+
+-> ## timg - Terminal Image Viewer <-
+
+* View ascii-ified images in your terminal
+---
+
+-> Well I need to do some touch up on this photo... <-
+^
+
+
+-> # ImageMagic - Image editor swiss army knife <-
+^
+
+---
+
+-> ## ImageMagic - Image editor swiss army knife <-
+
+* Powerful image editing operations
+* Easily scriptable
+* Useful for batch operations
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> Well I need to do some touch up on this photo... <-
+^
+
+
+-> # ImageMagic - Image editor swiss army knife <-
+^
+
+---
+
+-> ## ImageMagic - Image editor swiss army knife <-
+
+* Powerful image editing operations
+* Easily scriptable
+* Useful for batch operations
+
+---
+
+-> I'm bored, let's watch a movie. <-
+^
+
+
+-> # VLC... but in the terminal <-
+^
+
+---
+
+-> ## VLC... but in the terminal <-
+^
+
+* VLC actually does have an ascii output mode
+^
+* Yes, really
+^
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+-> This movie is too long, let's cut it down a bit. <-
+^
+
+
+-> # ffmpeg - video encoder / editor <-
+^
+
+---
+
+-> ## ffmpeg - video encoder / editor <-
+
+* Re-encode video into different formats
+* Scale, crop, shorten, etc.
+* Apply video effects
+
+---
+
+/                                |\
+/                                | \
+/                         +------+  \
+/  Look over here now...  |          >
+/                         +------+  /
+/                                | /
+/                                |/
+
+---
+
+Q & A
+
+---
+
+-> A "Gary, The Homeless Guy Outside of the Burger King" Joint <-
+
+-> Writers                     Bob <-
+->                             Joe <-
+
+-> Producer                    Batman <-
+
+-> Executive Producer          Bruce Wayne <-
+
+-> _Cast_ <-
+
+-> Bob                         Bob <-
+-> Joe                         Joe <-
+-> Maryl Streep                Joe's Laptop <-
+
+-> Director of Photography     Batman <-
+
+-> Production Designer         Batman <-
+
+-> Editor                      Batman <-
+
+-> Custume Designer            Batman <-
+
+-> Music Composer              Danny Elfman <-
+
+-> Casting Director            Bruce Wayne <-
+
+-> Stunt Co-ordinator          Robin <-
+
+
+
+
+-> Special Thanks To The Brave Men and Women of the Gotham Police Department. <-
+
+-> (c) Stardate 44741.9 United Federation of Planets ALL RIGHTS RESERVED <-
+
+
+
+
+-> No fluffy animals were harmed in the making of this presentation... <-
+
+
+
+-> Gobs of scaly creepy crawly ones were though. <-
