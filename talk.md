@@ -615,7 +615,6 @@ The secret sauce...
 
 
 -> So I can't think of a joke to put here. <-
-^
 
 -> There's just not a lot of "RSS" humor out there. <-
 ^
@@ -623,29 +622,6 @@ The secret sauce...
 
 
 -> Oh well... <-
-
-
-
----
-
-
--> Oh, real quick! <-
-^
-
--> Ladies... <-
-^
-
--> If this particular kind of geekery appeals to you... <-
-^
-
--> Joe is single. <-
-^
--> Employeed. <-
-^
--> And has two cats, so you know he's got a sensitive side <-
-^
-
--> (Their names are Arduino and Edison) <-
 
 
 ---
@@ -811,6 +787,16 @@ Plugins Available For:
 
 ---
 
+\                                |\\
+\                                | \\
+\                         +------+  \\
+\  Look over here now...  |          >
+\                         +------+  /
+\                                | /
+\                                |/
+
+---
+
 -> Well I need to do some touch up on this photo... <-
 ^
 
@@ -904,44 +890,12 @@ Plugins Available For:
 
 ---
 
--> A "Gary, The Homeless Guy Outside of the Burger King" Joint <-
 
 
-\           Writers                     Bob
-\                                       Joe
-\                          
-\           Producer                    Batman
-\           Executive Producer          Bruce Wayne
-
--> _Cast_ <-
-
-\           Bob                         Bob
-\           Joe                         Joe
-\           Maryl Streep                Joe's Laptop
+-> Thank You <-
 
 
-\           Director of Photography     Batman
-\           Production Designer         Batman
-\           Editor                      Batman
-\           Custume Designer            Batman
-\           Music Composer              Danny Elfman
-\           Casting Director            Bruce Wayne
-\           Stunt Co-ordinator          Robin
 
+-> Terminal recordings and MDP Presentation <-
+-> can be found on the [STL2600 GitHub](https://github.com/STL2600/going-commando-talk) page. <-
 
--> Special Thanks To <-
--> The Brave Men and Women <- 
--> of the <-
--> Gotham Police Department.<-
-
-
--> (c) Stardate 44741.9 <-
--> United Federation of Planets <-
--> ALL RIGHTS RESERVED <-
-
-
--> No fluffy animals were harmed <-
--> in the making of this presentation... <-
-
-
--> Gobs of scaly creepy crawly ones were though. <-
