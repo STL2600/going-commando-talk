@@ -1,5 +1,6 @@
 #!/bin/bash
 
+clear
 read -p "Press any key to play the next recording" -n1 -s
 asciinema play 01-tmux.json
 clear
